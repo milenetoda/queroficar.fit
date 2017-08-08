@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://queroficar.fit"
+languageCode = "pt-br"
+title = "Quero ficar fit!"
 publishDir = "docs"
 theme = "material-design"
