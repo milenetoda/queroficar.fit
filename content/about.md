@@ -1,6 +1,6 @@
 ---
 title: "Sobre"
-draft: true
+draft: false
 ---
 
 ##### Política de privacidade
