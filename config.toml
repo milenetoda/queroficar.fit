@@ -1,5 +1,56 @@
 baseURL = "http://queroficar.fit"
 languageCode = "pt-br"
-title = "Quero ficar fit!"
+title = "QueroFicar.fit"
 publishDir = "docs"
-theme = "material-design"
+theme = "hugo-theme-blog"
+paginate = 10
+
+[params]
+logo = "images/site/logo.svg"
+cover = "images/site/cover.jpg"
+themeColor = "deep-purple"
+analyticsId = "UA-115830905-1"
+adsenseSlot = "4526118664"
+adsenseClient = "ca-pub-7523733879032648"
+disqusShortname = ""
+disqusLanguage = "pt_BR"
+
+[[menu.main]]
+name = "QueroFicar.fit"
+pre = "home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Categorias"
+pre = "turned-in-not"
+url = "/categories"
+weight = 2
+
+[[menu.main]]
+name = "Hashtags"
+pre = "hashtag"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "Sobre"
+pre = "info-outline"
+url = "/about"
+weight = 4
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "categories"
+weight = 150
+[[related.indices]]
+name  = "tags"
+weight = 100
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
