@@ -1,3 +1,3 @@
 rm docs -recurse -force -erroraction ignore
-mkdir docs
+mkdir docs > $null
 hugo
