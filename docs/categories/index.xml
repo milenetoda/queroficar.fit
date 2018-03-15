@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on QueroFicar.fit</title>
+    <link>http://queroficar.fit/categories/</link>
+    <description>Recent content in Categories on QueroFicar.fit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 08 Mar 2018 18:17:01 -0300</lastBuildDate>
+    
+	<atom:link href="http://queroficar.fit/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cat Test</title>
+      <link>http://queroficar.fit/categories/cat-test/</link>
+      <pubDate>Thu, 08 Mar 2018 18:17:01 -0300</pubDate>
+      
+      <guid>http://queroficar.fit/categories/cat-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dietas</title>
+      <link>http://queroficar.fit/categories/dietas/</link>
+      <pubDate>Thu, 08 Mar 2018 17:12:35 -0300</pubDate>
+      
+      <guid>http://queroficar.fit/categories/dietas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exercícios</title>
+      <link>http://queroficar.fit/categories/exerc%C3%ADcios/</link>
+      <pubDate>Fri, 11 Aug 2017 21:15:45 -0300</pubDate>
+      
+      <guid>http://queroficar.fit/categories/exerc%C3%ADcios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
