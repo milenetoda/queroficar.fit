@@ -1,6 +1,5 @@
 ---
 title: "Sobre"
-date: 
 draft: true
 ---
 
