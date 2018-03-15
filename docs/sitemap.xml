@@ -35,25 +35,25 @@
   </url>
   
   <url>
-    <loc>http://queroficar.fit/tags/dietas/</loc>
-    <lastmod>2018-03-08T17:12:35-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://queroficar.fit/categories/dietas/</loc>
     <lastmod>2018-03-08T17:12:35-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://queroficar.fit/tags/exerc%C3%ADcios/</loc>
-    <lastmod>2017-08-11T21:15:45-03:00</lastmod>
+    <loc>http://queroficar.fit/tags/dietas/</loc>
+    <lastmod>2018-03-08T17:12:35-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://queroficar.fit/categories/exerc%C3%ADcios/</loc>
+    <lastmod>2017-08-11T21:15:45-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://queroficar.fit/tags/exerc%C3%ADcios/</loc>
     <lastmod>2017-08-11T21:15:45-03:00</lastmod>
     <priority>0</priority>
   </url>
