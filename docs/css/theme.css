@@ -68,6 +68,14 @@ i.char-icon {
   height: auto;
 }
 
+.post-content .tags {
+  text-align: center;
+}
+
+.post-content .tags .btn {
+  margin: 4px;
+}
+
 .mdi-action-hashtag {
   margin-top: -2px;
   display: block;
