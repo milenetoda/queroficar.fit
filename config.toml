@@ -6,8 +6,8 @@ theme = "hugo-theme-blog"
 paginate = 10
 
 [params]
-logo = "images/site/logo.svg"
-cover = "images/site/cover.jpg"
+logo = "images/logo.svg"
+cover = "images/cover.jpg"
 themeColor = "deep-purple"
 analyticsId = "UA-115830905-1"
 adsenseSlot = "7050788775"
