@@ -6,35 +6,16 @@
     <description>Recent content in Categories on QueroFicar.fit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 08 Mar 2018 18:17:01 -0300</lastBuildDate>
     
 	<atom:link href="http://queroficar.fit/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cat Test</title>
-      <link>http://queroficar.fit/categories/cat-test/</link>
-      <pubDate>Thu, 08 Mar 2018 18:17:01 -0300</pubDate>
+      <title>Receitas</title>
+      <link>http://queroficar.fit/categories/receitas/</link>
+      <pubDate>Thu, 22 Mar 2018 18:30:36 +0000</pubDate>
       
-      <guid>http://queroficar.fit/categories/cat-test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dietas</title>
-      <link>http://queroficar.fit/categories/dietas/</link>
-      <pubDate>Thu, 08 Mar 2018 17:12:35 -0300</pubDate>
-      
-      <guid>http://queroficar.fit/categories/dietas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exercícios</title>
-      <link>http://queroficar.fit/categories/exerc%C3%ADcios/</link>
-      <pubDate>Fri, 11 Aug 2017 21:15:45 -0300</pubDate>
-      
-      <guid>http://queroficar.fit/categories/exerc%C3%ADcios/</guid>
+      <guid>http://queroficar.fit/categories/receitas/</guid>
       <description></description>
     </item>
     

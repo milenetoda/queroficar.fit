@@ -68,6 +68,14 @@ i.char-icon {
   height: auto;
 }
 
+.post-content li {
+  margin-bottom: 10px;
+}
+
+.post-content .categories {
+  font-weight: bold;
+}
+
 .post-content .tags {
   text-align: center;
 }
