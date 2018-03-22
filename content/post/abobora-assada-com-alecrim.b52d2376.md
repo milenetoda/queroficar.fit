@@ -1,8 +1,8 @@
 ---
 title: "Abóbora assada com alecrim"
-date: 2018-03-22T18:30:17.303Z
+date: 2018-03-22T20:13:17.070Z
 draft: false
-tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Vegana;Vegetariana","Receitas simples e fáceis","Vegetais e legumes"]
+tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Vegana","Vegetariana","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]
 featured_image: "/post/abobora-assada-com-alecrim.b52d2376.jpeg"
 ---

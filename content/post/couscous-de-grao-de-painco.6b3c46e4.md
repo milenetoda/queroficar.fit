@@ -1,6 +1,6 @@
 ---
 title: "Couscous de grão de painço"
-date: 2018-03-22T18:29:55.889Z
+date: 2018-03-22T20:13:00.861Z
 draft: false
 tags: ["Salada","Cozido","Brasileira","Dia a Dia","Vegetariana","Dieta a base de grãos","Pratos leves - Saladas","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Brownie integral"
-date: 2018-03-22T18:29:59.216Z
+date: 2018-03-22T20:13:03.643Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Americana","Dia a Dia","Festas","brownie","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

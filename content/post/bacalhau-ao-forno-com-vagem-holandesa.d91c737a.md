@@ -1,6 +1,6 @@
 ---
 title: "Bacalhau ao forno com vagem holandesa"
-date: 2018-03-22T18:30:11.795Z
+date: 2018-03-22T20:13:13.090Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Assado","Brasileira","Páscoa","Alimentação saudável","Peixes","Peixes e frutos do mar"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Hommus de abacate funcional para servir antes do jantar"
-date: 2018-03-22T18:30:25.357Z
+date: 2018-03-22T20:13:23.909Z
 draft: false
 tags: ["Antepasto","Cozido","Árabe","Dia a Dia","Fruta - Abacate","Homus"]
 categories: ["Receitas"]

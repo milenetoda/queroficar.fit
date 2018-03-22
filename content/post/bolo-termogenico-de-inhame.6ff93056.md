@@ -1,6 +1,6 @@
 ---
 title: "Bolo termogênico de inhame"
-date: 2018-03-22T18:30:05.261Z
+date: 2018-03-22T20:13:08.337Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Sem glúten","Bolo","Receitas","Receitas sem glúten"]
 categories: ["Receitas"]

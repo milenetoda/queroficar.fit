@@ -1,6 +1,6 @@
 ---
 title: "Trufa saudável de açaí e chocolate"
-date: 2018-03-22T18:29:55.195Z
+date: 2018-03-22T20:13:00.193Z
 draft: false
 tags: ["Docinho e Salgadinho","Gelado","Brasileira","Açaí","Alimentação saudável","Chocolate","doce","trufas"]
 categories: ["Receitas"]

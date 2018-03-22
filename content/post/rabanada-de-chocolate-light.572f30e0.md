@@ -1,8 +1,8 @@
 ---
 title: "Rabanada de chocolate light"
-date: 2018-03-22T18:30:36.272Z
+date: 2018-03-22T20:13:32.932Z
 draft: false
-tags: ["Pão","Assado","Brasileira","Natal","Diet;Light"]
+tags: ["Pão","Assado","Brasileira","Natal","Diet","Light"]
 categories: ["Receitas"]
 featured_image: "/post/rabanada-de-chocolate-light.572f30e0.jpg"
 ---

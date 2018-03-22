@@ -1,6 +1,6 @@
 ---
 title: "Hambúrger de amaranto"
-date: 2018-03-22T18:30:09.019Z
+date: 2018-03-22T20:13:10.160Z
 draft: false
 tags: ["Carne","Chapeado","Brasileira","Dia a Dia","Vegetariana","Alimentação saudável","Hambúrguer"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Este pãozinho sem glúten no grill é rápido de fazer. Anote a receita!"
-date: 2018-03-22T18:30:21.469Z
+date: 2018-03-22T20:13:21.457Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Pães","Receitas sem glúten"]
 categories: ["Receitas"]

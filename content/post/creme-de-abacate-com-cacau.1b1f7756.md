@@ -1,6 +1,6 @@
 ---
 title: "Creme de abacate com cacau"
-date: 2018-03-22T18:29:52.476Z
+date: 2018-03-22T20:12:58.582Z
 draft: false
 tags: ["Musse","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","creme","Fruta - Abacate","Receitas simples e fáceis"]
 categories: ["Receitas"]

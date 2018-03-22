@@ -1,6 +1,6 @@
 ---
 title: "Essa panqueca de omelete, rica em proteína, satisfaz por mais tempo"
-date: 2018-03-22T18:30:29.188Z
+date: 2018-03-22T20:13:27.536Z
 draft: false
 tags: ["Massa","Omelete","Assado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

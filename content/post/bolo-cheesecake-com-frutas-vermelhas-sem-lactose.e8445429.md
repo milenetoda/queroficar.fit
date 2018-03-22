@@ -1,6 +1,6 @@
 ---
 title: "Bolo cheesecake com frutas vermelhas sem lactose"
-date: 2018-03-22T18:30:01.989Z
+date: 2018-03-22T20:13:04.965Z
 draft: false
 tags: ["Bolo com Recheio","Assado","Brasileira","Festas","Leve e Saudável","Bolo","cheesecake"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Piatto de frutas vermelhas"
-date: 2018-03-22T18:30:35.254Z
+date: 2018-03-22T20:13:32.057Z
 draft: false
 tags: ["Sorvete","Gelado","Japonesa","Aniversário","Vegetariana"]
 categories: ["Receitas"]

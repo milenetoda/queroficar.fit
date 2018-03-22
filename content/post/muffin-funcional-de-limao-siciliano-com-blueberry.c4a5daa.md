@@ -1,6 +1,6 @@
 ---
 title: "Muffin funcional de limão-siciliano com blueberry"
-date: 2018-03-22T18:30:06.017Z
+date: 2018-03-22T20:13:08.524Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Aniversário","Dia a Dia","Festas","Ocasiões Especiais","Alimentação","Alimentação saudável","Bolo"]
 categories: ["Receitas"]

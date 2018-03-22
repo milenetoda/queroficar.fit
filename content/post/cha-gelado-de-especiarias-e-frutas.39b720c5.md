@@ -1,6 +1,6 @@
 ---
 title: "Chá gelado de especiarias e frutas"
-date: 2018-03-22T18:30:17.119Z
+date: 2018-03-22T20:13:16.949Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Emagrecedores - chás","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

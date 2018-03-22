@@ -1,6 +1,6 @@
 ---
 title: "Suco de tangerina e manjericão"
-date: 2018-03-22T18:30:19.926Z
+date: 2018-03-22T20:13:20.099Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Suco","Temperos"]
 categories: ["Receitas"]

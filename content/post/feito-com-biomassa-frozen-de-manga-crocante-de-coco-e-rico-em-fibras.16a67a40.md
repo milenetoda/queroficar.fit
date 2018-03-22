@@ -1,6 +1,6 @@
 ---
 title: "Feito com biomassa, frozen de manga crocante de coco é rico em fibras"
-date: 2018-03-22T18:30:21.657Z
+date: 2018-03-22T20:13:21.122Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Festas","Dietas à base de frutas","Receitas com frutas","Sorvetes"]
 categories: ["Receitas"]

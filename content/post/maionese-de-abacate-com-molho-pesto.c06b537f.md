@@ -1,6 +1,6 @@
 ---
 title: "Maionese de abacate com molho pesto"
-date: 2018-03-22T18:30:06.543Z
+date: 2018-03-22T20:13:08.929Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Fruta - Abacate","Receitas","Receitas simples e fáceis","Vegetarianismo"]
 categories: ["Receitas"]

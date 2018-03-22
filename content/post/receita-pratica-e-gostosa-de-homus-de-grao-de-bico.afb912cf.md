@@ -1,6 +1,6 @@
 ---
 title: "Receita prática e gostosa de homus de grão-de-bico"
-date: 2018-03-22T18:30:19.061Z
+date: 2018-03-22T20:13:19.900Z
 draft: false
 tags: ["Antepasto","Cozido","Árabe","Dia a Dia","grão-de-bico","Homus"]
 categories: ["Receitas"]

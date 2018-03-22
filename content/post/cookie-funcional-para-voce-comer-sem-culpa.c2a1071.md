@@ -1,6 +1,6 @@
 ---
 title: "Cookie funcional para você comer sem culpa"
-date: 2018-03-22T18:30:22.085Z
+date: 2018-03-22T20:13:21.321Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Americana","Dia a Dia","Biscoito e bolacha","Doces","Sobremesa"]
 categories: ["Receitas"]

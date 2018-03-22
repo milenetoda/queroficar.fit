@@ -1,6 +1,6 @@
 ---
 title: "Quibe recheado"
-date: 2018-03-22T18:30:34.226Z
+date: 2018-03-22T20:13:31.616Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Assado","Árabe","Natal","Vegetariana"]
 categories: ["Receitas"]

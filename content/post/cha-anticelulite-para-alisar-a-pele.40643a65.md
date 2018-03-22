@@ -1,6 +1,6 @@
 ---
 title: "Chá anticelulite para alisar a pele"
-date: 2018-03-22T18:30:27.798Z
+date: 2018-03-22T20:13:26.736Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

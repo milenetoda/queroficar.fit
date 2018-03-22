@@ -1,6 +1,6 @@
 ---
 title: "Risoto de abóbora com camarão"
-date: 2018-03-22T18:30:08.924Z
+date: 2018-03-22T20:13:10.011Z
 draft: false
 tags: ["Arroz e Risoto","Cozido","Brasileira","Dia a Dia","Arroz e risoto","receita","risoto"]
 categories: ["Receitas"]

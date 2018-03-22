@@ -1,6 +1,6 @@
 ---
 title: "Fricassê de frango com creme de leite vegetal"
-date: 2018-03-22T18:30:09.679Z
+date: 2018-03-22T20:13:10.941Z
 draft: false
 tags: ["Frango e Aves","Cozido","Gratinado","Brasileira","Dia a Dia","Sem Lactose","frango","Receitas","Receitas com frango","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de iogurte e frutas para um café da manhã turbinado"
-date: 2018-03-22T18:30:20.285Z
+date: 2018-03-22T20:13:20.335Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Café da manhã","Shakes"]
 categories: ["Receitas"]

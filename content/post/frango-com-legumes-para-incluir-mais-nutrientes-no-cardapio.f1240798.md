@@ -1,6 +1,6 @@
 ---
 title: "Frango com legumes para incluir mais nutrientes no cardápio"
-date: 2018-03-22T18:30:21.834Z
+date: 2018-03-22T20:13:21.390Z
 draft: false
 tags: ["Salada","Grelhado","Brasileira","Ocasiões Especiais","Alimentação light","Pratos leves - Saladas"]
 categories: ["Receitas"]

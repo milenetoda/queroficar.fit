@@ -1,6 +1,6 @@
 ---
 title: "Pasta de azeitona preta"
-date: 2018-03-22T18:30:04.474Z
+date: 2018-03-22T20:13:07.601Z
 draft: false
 tags: ["Antepasto","Cru","Italiana","Dia a Dia","Vegana","Azeite","azeitona","azeitonas","patê"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Stracciatela da avó da Paola Carosella"
-date: 2018-03-22T18:30:04.884Z
+date: 2018-03-22T20:13:07.900Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Italiana","Dia a Dia","Leve e Saudável","receita","receita saudável","Sopas e caldos"]
 categories: ["Receitas"]

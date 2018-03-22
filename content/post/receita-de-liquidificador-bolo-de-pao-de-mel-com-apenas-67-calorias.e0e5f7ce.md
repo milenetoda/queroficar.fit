@@ -1,6 +1,6 @@
 ---
 title: "Receita de liquidificador: bolo de pão de mel com apenas 67 calorias"
-date: 2018-03-22T18:30:25.298Z
+date: 2018-03-22T20:13:23.902Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Alimentação saudável","Bolo de chocolate","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

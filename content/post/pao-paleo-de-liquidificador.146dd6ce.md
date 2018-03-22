@@ -1,6 +1,6 @@
 ---
 title: "Pão paleo de liquidificador"
-date: 2018-03-22T18:30:06.087Z
+date: 2018-03-22T20:13:07.956Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Pão","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

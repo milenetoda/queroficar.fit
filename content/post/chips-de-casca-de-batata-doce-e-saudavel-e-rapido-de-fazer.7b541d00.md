@@ -1,6 +1,6 @@
 ---
 title: "Chips de casca de batata-doce é saudável e rápido de fazer"
-date: 2018-03-22T18:30:30.857Z
+date: 2018-03-22T20:13:29.426Z
 draft: false
 tags: ["Antepasto","Assado","Brasileira","Dia a Dia","Festas","Vegana"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer de cordeiro com biomassa de banana verde"
-date: 2018-03-22T18:29:55.914Z
+date: 2018-03-22T20:13:00.563Z
 draft: false
 tags: ["Carne","Grelhado","Brasileira","Dia a Dia","cordeiro","Hambúrguer","Receitas","Receitas com carne","Receitas simples e fáceis"]
 categories: ["Receitas"]

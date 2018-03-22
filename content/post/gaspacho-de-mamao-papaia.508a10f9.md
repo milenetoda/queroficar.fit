@@ -1,8 +1,8 @@
 ---
 title: "Gaspacho de mamão papaia"
-date: 2018-03-22T18:30:14.238Z
+date: 2018-03-22T20:13:14.694Z
 draft: false
-tags: ["Sopa e Caldo","Cru","Espanhola","Ocasiões Especiais","Light;Vegetariana","receita fácil","receita light;","receita sem lactose","receita simples e saudável"]
+tags: ["Sopa e Caldo","Cru","Espanhola","Ocasiões Especiais","Light","Vegetariana","receita fácil","receita light","receita sem lactose","receita simples e saudável"]
 categories: ["Receitas"]
 featured_image: "/post/gaspacho-de-mamao-papaia.508a10f9.png"
 ---

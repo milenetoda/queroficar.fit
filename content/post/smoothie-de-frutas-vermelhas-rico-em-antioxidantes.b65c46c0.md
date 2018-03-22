@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de frutas vermelhas rico em antioxidantes"
-date: 2018-03-22T18:30:26.874Z
+date: 2018-03-22T20:13:24.874Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Suco"]
 categories: ["Receitas"]

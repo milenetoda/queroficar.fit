@@ -1,6 +1,6 @@
 ---
 title: "Torta de chocolate funcional"
-date: 2018-03-22T18:29:57.440Z
+date: 2018-03-22T20:13:01.921Z
 draft: false
 tags: ["Torta Doce","Assado","Gelado","Brasileira","Festas","Natal","Leve e Saudável","Alimentação saudável","receita leve","Receitas","Receitas com chocolate","Receitas de Natal"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Este shake de maracujá vai turbinar o seu pós-treino"
-date: 2018-03-22T18:30:22.764Z
+date: 2018-03-22T20:13:22.661Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Shakes"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Torta de aspargo irresistível – com apenas 265 calorias"
-date: 2018-03-22T18:30:27.312Z
+date: 2018-03-22T20:13:24.263Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Ocasiões Especiais","Receitas simples e fáceis","Tortas doces e salgadas"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Bowl de açaí com creme de cupuaçu"
-date: 2018-03-22T18:29:54.104Z
+date: 2018-03-22T20:12:59.578Z
 draft: false
-tags: ["Fruta","Cru","Brasileira","Dia a Dia","Sem lactose;Vegana;Vegetariana","Açaí","Alimentação saudável","Carnaval","Dicas de dieta","receita"]
+tags: ["Fruta","Cru","Brasileira","Dia a Dia","Sem lactose","Vegana","Vegetariana","Açaí","Alimentação saudável","Carnaval","Dicas de dieta","receita"]
 categories: ["Receitas"]
 featured_image: "/post/bowl-de-acai-com-creme-de-cupuacu.99a0674c.jpg"
 ---

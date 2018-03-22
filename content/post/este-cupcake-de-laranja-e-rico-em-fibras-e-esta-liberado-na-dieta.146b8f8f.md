@@ -1,6 +1,6 @@
 ---
 title: "Este cupcake de laranja é rico em fibras e está liberado na dieta"
-date: 2018-03-22T18:30:22.077Z
+date: 2018-03-22T20:13:21.237Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Ocasiões Especiais","Alimentação light","Alimentação saudável","Bolos simples e fáceis","Cupcake"]
 categories: ["Receitas"]

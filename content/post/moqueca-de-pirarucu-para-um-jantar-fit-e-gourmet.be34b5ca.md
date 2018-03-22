@@ -1,6 +1,6 @@
 ---
 title: "Moqueca de pirarucu para um jantar fit e gourmet"
-date: 2018-03-22T18:30:21.456Z
+date: 2018-03-22T20:13:20.953Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Cozido","Brasileira","Dia a Dia","#InstaBOAFORMA","Peixes e frutos do mar"]
 categories: ["Receitas"]

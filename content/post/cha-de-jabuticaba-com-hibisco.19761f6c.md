@@ -1,6 +1,6 @@
 ---
 title: "Chá de jabuticaba com hibisco"
-date: 2018-03-22T18:30:01.065Z
+date: 2018-03-22T20:13:04.878Z
 draft: false
 tags: ["Bebidas","Cozido","Brasileira","Dia a Dia","Leve e Saudável","Chás","jabuticaba"]
 categories: ["Receitas"]

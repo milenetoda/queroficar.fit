@@ -1,6 +1,6 @@
 ---
 title: "Bolo de chocolate e coco low carb de frigideira"
-date: 2018-03-22T18:30:08.851Z
+date: 2018-03-22T20:13:10.048Z
 draft: false
 tags: ["Bolo com Recheio","Quente","Brasileira","Dia a Dia","Alimentação saudável","Bolo","receita"]
 categories: ["Receitas"]

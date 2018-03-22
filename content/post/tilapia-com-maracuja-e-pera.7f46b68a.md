@@ -1,6 +1,6 @@
 ---
 title: "Tilápia com maracujá e pera"
-date: 2018-03-22T18:30:18.546Z
+date: 2018-03-22T20:13:18.590Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Grelhado","Brasileira","Dia a Dia","#InstaBOAFORMA","Alimentação saudável","Peixes e frutos do mar","Receitas com frutas"]
 categories: ["Receitas"]

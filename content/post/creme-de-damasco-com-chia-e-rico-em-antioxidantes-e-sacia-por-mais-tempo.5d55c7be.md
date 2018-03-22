@@ -1,6 +1,6 @@
 ---
 title: "Creme de damasco com chia é rico em antioxidantes e sacia por mais tempo"
-date: 2018-03-22T18:30:20.133Z
+date: 2018-03-22T20:13:20.145Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia","Doces","Receitas com frutas"]
 categories: ["Receitas"]

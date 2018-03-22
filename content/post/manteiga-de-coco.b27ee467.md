@@ -1,6 +1,6 @@
 ---
 title: "Manteiga de coco"
-date: 2018-03-22T18:30:07.101Z
+date: 2018-03-22T20:13:09.793Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Alimentação saudável","Alimentação vegana","receita fácil"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de amêndoas e gengibre para turbinar o seu café da manhã"
-date: 2018-03-22T18:30:20.836Z
+date: 2018-03-22T20:13:21.061Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Alimentação","Alimentação - cuidados","Alimentação light","Alimentação saudável","Bebidas"]
 categories: ["Receitas"]

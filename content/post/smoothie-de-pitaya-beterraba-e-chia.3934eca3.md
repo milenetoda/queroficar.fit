@@ -1,8 +1,8 @@
 ---
 title: "Smoothie de pitaya, beterraba e chia"
-date: 2018-03-22T18:29:54.010Z
+date: 2018-03-22T20:13:00.093Z
 draft: false
-tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Vegana;Vegetariana","Receitas","Receitas com frutas","Receitas simples e fáceis"]
+tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Vegana","Vegetariana","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/smoothie-de-pitaya-beterraba-e-chia.3934eca3.jpg"
 ---

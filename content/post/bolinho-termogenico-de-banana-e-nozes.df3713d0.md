@@ -1,8 +1,8 @@
 ---
 title: "Bolinho termogênico de banana e nozes"
-date: 2018-03-22T18:30:15.981Z
+date: 2018-03-22T20:13:16.127Z
 draft: false
-tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Bolos simples e fáceis","Oleaginosas","Receitas com frutas","Receitas sem glúten","Receitas simples e fáceis"]
+tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Bolos simples e fáceis","Oleaginosas","Receitas com frutas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/bolinho-termogenico-de-banana-e-nozes.df3713d0.jpeg"
 ---

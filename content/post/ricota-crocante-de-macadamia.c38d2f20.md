@@ -1,6 +1,6 @@
 ---
 title: "Ricota crocante de macadâmia"
-date: 2018-03-22T18:29:58.570Z
+date: 2018-03-22T20:13:02.900Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Ocasiões Especiais","Alimentação saudável","Nutrição","receita","receita fácil"]
 categories: ["Receitas"]

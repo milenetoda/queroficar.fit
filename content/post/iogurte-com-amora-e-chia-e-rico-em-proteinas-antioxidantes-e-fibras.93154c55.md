@@ -1,6 +1,6 @@
 ---
 title: "Iogurte com amora e chia é rico em proteínas, antioxidantes e fibras"
-date: 2018-03-22T18:30:20.690Z
+date: 2018-03-22T20:13:20.724Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Dietas antioxidantes","Fibras","Leite e derivados","Proteínas"]
 categories: ["Receitas"]

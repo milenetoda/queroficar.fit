@@ -1,8 +1,8 @@
 ---
 title: "Salada de rúcula, abobrinha, tomatinhos, parmesão e amêndoas"
-date: 2018-03-22T18:30:11.259Z
+date: 2018-03-22T20:13:12.020Z
 draft: false
-tags: ["Salada","Cru","Brasileira","Dia a Dia","Diet;Light","Pratos leves - Saladas"]
+tags: ["Salada","Cru","Brasileira","Dia a Dia","Diet","Light","Pratos leves - Saladas"]
 categories: ["Receitas"]
 featured_image: "/post/salada-de-rucula-abobrinha-tomatinhos-parmesao-e-amendoas.d9f51178.jpg"
 ---

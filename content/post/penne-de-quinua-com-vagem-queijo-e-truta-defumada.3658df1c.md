@@ -1,6 +1,6 @@
 ---
 title: "Penne de quinua com vagem, queijo e truta defumada"
-date: 2018-03-22T18:30:12.248Z
+date: 2018-03-22T20:13:13.428Z
 draft: false
 tags: ["Massa","Cozido","Refogado","Brasileira","Dia a Dia","receita fácil","receita simples e saudável","Receitas rápidas"]
 categories: ["Receitas"]

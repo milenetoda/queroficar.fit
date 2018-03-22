@@ -1,6 +1,6 @@
 ---
 title: "Torta de quinua com brócolis"
-date: 2018-03-22T18:30:36.243Z
+date: 2018-03-22T20:13:33.217Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Árabe","Aniversário","Páscoa","Vegetariana"]
 categories: ["Receitas"]

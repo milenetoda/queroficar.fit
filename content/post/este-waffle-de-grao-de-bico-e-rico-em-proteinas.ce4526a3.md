@@ -1,6 +1,6 @@
 ---
 title: "Este waffle de grão-de-bico é rico em proteínas"
-date: 2018-03-22T18:30:20.690Z
+date: 2018-03-22T20:13:20.315Z
 draft: false
 tags: ["Massa","Assado","Brasileira","Dia a Dia","Alimentação saudável","Massa"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Pãozinho de abóbora"
-date: 2018-03-22T18:30:18.522Z
+date: 2018-03-22T20:13:18.598Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Pão","Vegetais e legumes"]
 categories: ["Receitas"]

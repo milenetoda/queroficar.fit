@@ -1,6 +1,6 @@
 ---
 title: "Crepioca de coco e chia"
-date: 2018-03-22T18:30:15.704Z
+date: 2018-03-22T20:13:15.469Z
 draft: false
 tags: ["Doce Caseiro","Quente","Brasileira","Dia a Dia","Crepioca","Receitas rápidas","Receitas simples e fáceis","Vegetarianismo"]
 categories: ["Receitas"]

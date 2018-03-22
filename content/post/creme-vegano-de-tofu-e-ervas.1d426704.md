@@ -1,6 +1,6 @@
 ---
 title: "Creme vegano de tofu e ervas"
-date: 2018-03-22T18:30:09.613Z
+date: 2018-03-22T20:13:10.861Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Vegana","Aliados da Dieta","Alimentação","Alimentação saudável","Comes & Bebes"]
 categories: ["Receitas"]

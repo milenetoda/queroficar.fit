@@ -1,6 +1,6 @@
 ---
 title: "Peras grelhadas com chantili de ricota"
-date: 2018-03-22T18:29:58.560Z
+date: 2018-03-22T20:13:03.051Z
 draft: false
 tags: ["Doce Caseiro","Grelhado","Brasileira","Aniversário","Dia a Dia","Festas","Ocasiões Especiais","Alimentação","Alimentação saudável","receita","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

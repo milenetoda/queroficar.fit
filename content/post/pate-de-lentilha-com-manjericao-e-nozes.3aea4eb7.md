@@ -1,6 +1,6 @@
 ---
 title: "Patê de lentilha com manjericão e nozes"
-date: 2018-03-22T18:30:17.081Z
+date: 2018-03-22T20:13:17.071Z
 draft: false
 tags: ["Molhos e Patês","Gelado","Brasileira","Ano Novo","Dia a Dia","Especial Ano Novo"]
 categories: ["Receitas"]

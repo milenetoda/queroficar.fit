@@ -1,6 +1,6 @@
 ---
 title: "Salada de folhas e caqui para acrescentar fibras e antioxidantes no cardápio"
-date: 2018-03-22T18:30:25.899Z
+date: 2018-03-22T20:13:25.501Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Festas","Leve e Saudável"]
 categories: ["Receitas"]

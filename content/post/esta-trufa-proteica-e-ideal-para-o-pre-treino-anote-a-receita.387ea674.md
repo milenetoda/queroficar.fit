@@ -1,6 +1,6 @@
 ---
 title: "Esta trufa proteica é ideal para o pré-treino. Anote a receita!"
-date: 2018-03-22T18:30:23.120Z
+date: 2018-03-22T20:13:21.682Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Festas","#InstaBOAFORMA","Chocolate amargo","Sobremesa"]
 categories: ["Receitas"]

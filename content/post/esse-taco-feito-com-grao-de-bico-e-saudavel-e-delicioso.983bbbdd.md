@@ -1,6 +1,6 @@
 ---
 title: "Esse taco, feito com grão-de-bico, é saudável e delicioso"
-date: 2018-03-22T18:30:31.163Z
+date: 2018-03-22T20:13:29.767Z
 draft: false
 tags: ["Sanduíche","Cru","Mexicana","Ocasiões Especiais"]
 categories: ["Receitas"]

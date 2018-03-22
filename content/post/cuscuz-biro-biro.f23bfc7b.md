@@ -1,6 +1,6 @@
 ---
 title: "Cuscuz biro-biro"
-date: 2018-03-22T18:30:16.662Z
+date: 2018-03-22T20:13:16.319Z
 draft: false
 tags: ["Legume e Verdura","Cozido","Brasileira","Dia a Dia","Proteínas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

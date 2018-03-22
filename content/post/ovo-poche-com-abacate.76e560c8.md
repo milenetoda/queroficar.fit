@@ -1,8 +1,8 @@
 ---
 title: "Ovo poché com abacate"
-date: 2018-03-22T18:30:13.308Z
+date: 2018-03-22T20:13:14.666Z
 draft: false
-tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Leve e Saudável","ovo","Ovos","receita fácil","receita light;","Receitas"]
+tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Leve e Saudável","ovo","Ovos","receita fácil","receita light","Receitas"]
 categories: ["Receitas"]
 featured_image: "/post/ovo-poche-com-abacate.76e560c8.jpg"
 ---

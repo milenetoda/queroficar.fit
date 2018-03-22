@@ -1,6 +1,6 @@
 ---
 title: "Falafel assado de lentilha com molho tahine"
-date: 2018-03-22T18:30:04.300Z
+date: 2018-03-22T20:13:07.175Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Comida árabe","Lentilha","Receitas","Receitas rápidas","Receitas simples e fáceis","Vegetais e legumes","Vegetarianismo"]
 categories: ["Receitas"]

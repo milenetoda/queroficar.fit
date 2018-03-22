@@ -1,6 +1,6 @@
 ---
 title: "Suco detox de açaí"
-date: 2018-03-22T18:30:32.469Z
+date: 2018-03-22T20:13:30.226Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira"]
 categories: ["Receitas"]

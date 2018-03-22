@@ -1,6 +1,6 @@
 ---
 title: "Muffin de mirtilo com batata-doce"
-date: 2018-03-22T18:29:59.357Z
+date: 2018-03-22T20:13:03.454Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Batata-doce","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

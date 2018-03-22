@@ -1,6 +1,6 @@
 ---
 title: "Fritada de espinafre para um jantar proteico"
-date: 2018-03-22T18:30:19.070Z
+date: 2018-03-22T20:13:19.738Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Proteínas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

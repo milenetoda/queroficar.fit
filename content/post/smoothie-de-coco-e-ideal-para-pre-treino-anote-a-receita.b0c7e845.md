@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de coco é ideal para pré-treino. Anote a receita!"
-date: 2018-03-22T18:30:21.579Z
+date: 2018-03-22T20:13:20.982Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Bebidas","Shakes"]
 categories: ["Receitas"]

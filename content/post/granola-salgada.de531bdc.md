@@ -1,6 +1,6 @@
 ---
 title: "Granola salgada"
-date: 2018-03-22T18:30:15.991Z
+date: 2018-03-22T20:13:16.011Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Quente","Brasileira","Dia a Dia","Granola","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

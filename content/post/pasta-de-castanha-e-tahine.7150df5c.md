@@ -1,6 +1,6 @@
 ---
 title: "Pasta de castanha e tahine"
-date: 2018-03-22T18:30:11.626Z
+date: 2018-03-22T20:13:12.378Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável"]
 categories: ["Receitas"]

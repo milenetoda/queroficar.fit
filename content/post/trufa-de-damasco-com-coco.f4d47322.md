@@ -1,6 +1,6 @@
 ---
 title: "Trufa de damasco com coco"
-date: 2018-03-22T18:30:18.072Z
+date: 2018-03-22T20:13:17.516Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Festas","Alimentação saudável","Doces","Receitas rápidas"]
 categories: ["Receitas"]

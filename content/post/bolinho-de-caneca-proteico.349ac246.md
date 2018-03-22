@@ -1,6 +1,6 @@
 ---
 title: "Bolinho de caneca proteico"
-date: 2018-03-22T18:30:17.281Z
+date: 2018-03-22T20:13:17.056Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Bolo de chocolate","Receitas com chocolate","Receitas simples e fáceis"]
 categories: ["Receitas"]

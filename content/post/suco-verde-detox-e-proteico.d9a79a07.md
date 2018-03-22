@@ -1,6 +1,6 @@
 ---
 title: "Suco verde detox e proteico"
-date: 2018-03-22T18:30:06.013Z
+date: 2018-03-22T20:13:08.820Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Alimentos funcionais","Detox","receita simples e saudável","Suco"]
 categories: ["Receitas"]

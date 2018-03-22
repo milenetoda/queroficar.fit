@@ -1,6 +1,6 @@
 ---
 title: "Pasta de berinjela grega"
-date: 2018-03-22T18:30:11.229Z
+date: 2018-03-22T20:13:12.177Z
 draft: false
 tags: ["Antepasto","Assado","Brasileira","Dia a Dia","Festas","Dietas para emagrecer","receita sem lactose","receita simples e saudável","Receitas"]
 categories: ["Receitas"]

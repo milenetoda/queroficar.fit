@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche de abacate com alfafa da Kyra Gracie"
-date: 2018-03-22T18:30:24.759Z
+date: 2018-03-22T20:13:22.982Z
 draft: false
 tags: ["Sanduíche","Cru","Brasileira","Ocasiões Especiais","Alimentação saudável","Dicas de dieta","Sanduíche"]
 categories: ["Receitas"]

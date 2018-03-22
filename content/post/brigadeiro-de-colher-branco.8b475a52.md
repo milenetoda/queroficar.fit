@@ -1,8 +1,8 @@
 ---
 title: "Brigadeiro de colher branco"
-date: 2018-03-22T18:30:36.001Z
+date: 2018-03-22T20:13:32.478Z
 draft: false
-tags: ["Docinho e Salgadinho","Cozido","Portuguesa","Aniversário","Sem glúten;Sem lactose"]
+tags: ["Docinho e Salgadinho","Cozido","Portuguesa","Aniversário","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/brigadeiro-de-colher-branco.8b475a52.jpg"
 ---

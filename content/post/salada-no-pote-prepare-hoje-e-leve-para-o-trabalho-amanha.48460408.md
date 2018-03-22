@@ -1,6 +1,6 @@
 ---
 title: "Salada no pote. Prepare hoje e leve para o trabalho amanhã"
-date: 2018-03-22T18:30:28.265Z
+date: 2018-03-22T20:13:27.740Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

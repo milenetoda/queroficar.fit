@@ -1,6 +1,6 @@
 ---
 title: "Suco detox de melão"
-date: 2018-03-22T18:30:33.117Z
+date: 2018-03-22T20:13:30.619Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Alimentação saudável"]
 categories: ["Receitas"]

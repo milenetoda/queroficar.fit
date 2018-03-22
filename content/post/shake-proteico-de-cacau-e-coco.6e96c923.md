@@ -1,6 +1,6 @@
 ---
 title: "Shake proteico de cacau e coco"
-date: 2018-03-22T18:30:05.863Z
+date: 2018-03-22T20:13:08.235Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação","Alimentação saudável","Alimentos funcionais","Shakes"]
 categories: ["Receitas"]

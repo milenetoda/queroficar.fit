@@ -1,6 +1,6 @@
 ---
 title: "Esta cheesecake de maçã é leve e vai impressionar seus convidados"
-date: 2018-03-22T18:30:19.135Z
+date: 2018-03-22T20:13:18.984Z
 draft: false
 tags: ["Torta Doce","Assado","Gelado","Americana","Ocasiões Especiais","Tortas doces e salgadas"]
 categories: ["Receitas"]

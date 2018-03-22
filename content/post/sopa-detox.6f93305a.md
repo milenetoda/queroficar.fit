@@ -1,6 +1,6 @@
 ---
 title: "Sopa detox"
-date: 2018-03-22T18:29:58.492Z
+date: 2018-03-22T20:13:03.016Z
 draft: false
 tags: ["Sopa e Caldo","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Dietas detox","Sopa"]
 categories: ["Receitas"]

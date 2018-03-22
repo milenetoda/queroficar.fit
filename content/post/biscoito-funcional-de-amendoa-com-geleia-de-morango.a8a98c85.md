@@ -1,6 +1,6 @@
 ---
 title: "Biscoito funcional de amêndoa com geleia de morango"
-date: 2018-03-22T18:30:09.532Z
+date: 2018-03-22T20:13:10.854Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável","Biscoito e bolacha","Comes & Bebes"]
 categories: ["Receitas"]

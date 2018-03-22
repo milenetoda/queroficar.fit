@@ -1,6 +1,6 @@
 ---
 title: "Salada proteica de folhas, quinua, frango e creme de palmito"
-date: 2018-03-22T18:30:06.694Z
+date: 2018-03-22T20:13:09.441Z
 draft: false
 tags: ["Salada","Cozido","Cru","Grelhado","Brasileira","Dia a Dia","Dietas à base de proteínas","Pratos leves - Saladas","Receitas","Receitas de Restaurantes","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

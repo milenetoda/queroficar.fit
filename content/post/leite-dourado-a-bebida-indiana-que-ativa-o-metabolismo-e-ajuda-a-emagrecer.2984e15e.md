@@ -1,6 +1,6 @@
 ---
 title: "Leite dourado: a bebida indiana que ativa o metabolismo e ajuda a emagrecer"
-date: 2018-03-22T18:30:24.560Z
+date: 2018-03-22T20:13:23.303Z
 draft: false
 tags: ["Bebidas","Quente","Indiana","Dia a Dia","Alimentação saudável","Bebidas","Leite e derivados","Receitas"]
 categories: ["Receitas"]

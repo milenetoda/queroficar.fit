@@ -1,8 +1,8 @@
 ---
 title: "Pasta de tomate seco"
-date: 2018-03-22T18:30:11.253Z
+date: 2018-03-22T20:13:12.400Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Festas","Vegana;Vegetariana","receita fácil","receita light;","receita sem glúten","receita sem lactose","receita simples e saudável","tomate"]
+tags: ["Antepasto","Cru","Brasileira","Festas","Vegana","Vegetariana","receita fácil","receita light","receita sem glúten","receita sem lactose","receita simples e saudável","tomate"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-tomate-seco.57139295.jpg"
 ---

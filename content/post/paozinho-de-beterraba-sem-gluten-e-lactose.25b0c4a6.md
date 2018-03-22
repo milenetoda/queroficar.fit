@@ -1,6 +1,6 @@
 ---
 title: "Pãozinho de beterraba sem glúten e lactose"
-date: 2018-03-22T18:30:25.441Z
+date: 2018-03-22T20:13:24.238Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Glúten","Lactose","Pães","Receitas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Sorvete de banana e chia"
-date: 2018-03-22T18:30:15.212Z
+date: 2018-03-22T20:13:16.055Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis","Sorvetes"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Tartar de frutas com calda de laranja"
-date: 2018-03-22T18:30:28.997Z
+date: 2018-03-22T20:13:27.796Z
 draft: false
 tags: ["Doce Caseiro","Cru","Francesa","Ocasiões Especiais"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Parfait de açaí "
-date: 2018-03-22T18:29:54.747Z
+date: 2018-03-22T20:13:00.209Z
 draft: false
 tags: ["Bebidas","Doce Caseiro","Fruta","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Açaí","Alimentação saudável","receita saudável","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Creme de milho funcional"
-date: 2018-03-22T18:30:05.328Z
+date: 2018-03-22T20:13:07.687Z
 draft: false
 tags: ["Legume e Verdura","Cozido","Brasileira","Dia a Dia","Ocasiões Especiais","Alimentação saudável","receita leve"]
 categories: ["Receitas"]

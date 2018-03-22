@@ -1,6 +1,6 @@
 ---
 title: "Coxinha fit rica em fibras e liberada na dieta. Anote a receita!"
-date: 2018-03-22T18:30:23.074Z
+date: 2018-03-22T20:13:21.754Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Ocasiões Especiais","Alimentação saudável","Salgados"]
 categories: ["Receitas"]

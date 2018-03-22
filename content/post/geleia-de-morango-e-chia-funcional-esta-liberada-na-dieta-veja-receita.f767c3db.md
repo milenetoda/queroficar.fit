@@ -1,6 +1,6 @@
 ---
 title: "Geleia de morango e chia funcional está liberada na dieta. Veja receita!"
-date: 2018-03-22T18:30:23.393Z
+date: 2018-03-22T20:13:22.640Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Sobremesa"]
 categories: ["Receitas"]

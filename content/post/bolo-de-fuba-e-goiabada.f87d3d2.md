@@ -1,8 +1,8 @@
 ---
 title: "Bolo de fubá e goiabada"
-date: 2018-03-22T18:30:35.913Z
+date: 2018-03-22T20:13:32.548Z
 draft: false
-tags: ["Bolo Simples","Cozido","Portuguesa","Aniversário","Sem glúten;Sem lactose"]
+tags: ["Bolo Simples","Cozido","Portuguesa","Aniversário","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/bolo-de-fuba-e-goiabada.f87d3d2.jpg"
 ---

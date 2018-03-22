@@ -1,6 +1,6 @@
 ---
 title: "Salada proteica de quinoa e coco fresco"
-date: 2018-03-22T18:29:55.733Z
+date: 2018-03-22T20:13:00.990Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","Pratos leves - Saladas","receita","salada"]
 categories: ["Receitas"]

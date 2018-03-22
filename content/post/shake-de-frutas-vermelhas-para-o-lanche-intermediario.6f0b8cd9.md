@@ -1,6 +1,6 @@
 ---
 title: "Shake de frutas vermelhas para o lanche intermediário"
-date: 2018-03-22T18:30:03.685Z
+date: 2018-03-22T20:13:06.645Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

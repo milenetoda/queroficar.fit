@@ -1,6 +1,6 @@
 ---
 title: "Bolo fit de banana com aveia"
-date: 2018-03-22T18:30:02.822Z
+date: 2018-03-22T20:13:06.135Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

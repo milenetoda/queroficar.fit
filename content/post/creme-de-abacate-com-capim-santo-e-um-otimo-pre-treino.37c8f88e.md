@@ -1,6 +1,6 @@
 ---
 title: "Creme de abacate com capim santo é um ótimo pré-treino"
-date: 2018-03-22T18:30:22.614Z
+date: 2018-03-22T20:13:21.234Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Dicas de dieta","Fruta - Abacate","Sobremesa"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Chips saudável de batata inglesa para fazer no forno"
-date: 2018-03-22T18:30:31.136Z
+date: 2018-03-22T20:13:29.361Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas"]
 categories: ["Receitas"]

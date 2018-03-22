@@ -1,6 +1,6 @@
 ---
 title: "Quibe de abóbora do Empório Frutaria"
-date: 2018-03-22T18:30:06.020Z
+date: 2018-03-22T20:13:08.316Z
 draft: false
 tags: ["Legume e Verdura","Cozido","Cru","Árabe","Dia a Dia","Comida árabe","Receitas","Receitas de Restaurantes","Receitas simples e fáceis","Vegetarianismo"]
 categories: ["Receitas"]

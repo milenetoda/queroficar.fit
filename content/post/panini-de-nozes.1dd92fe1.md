@@ -1,6 +1,6 @@
 ---
 title: "Panini de nozes"
-date: 2018-03-22T18:30:02.196Z
+date: 2018-03-22T20:13:05.175Z
 draft: false
 tags: ["Pão","Quente","Brasileira","Dia a Dia","Leve e Saudável","Oleaginosas","Pão","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Smoothie verde com avocado e leite de amêndoa"
-date: 2018-03-22T18:29:57.082Z
+date: 2018-03-22T20:13:01.853Z
 draft: false
 tags: ["Bebidas","Fruta","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","receita saudável"]
 categories: ["Receitas"]

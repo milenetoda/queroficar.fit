@@ -1,6 +1,6 @@
 ---
 title: "Salada crocante"
-date: 2018-03-22T18:30:31.997Z
+date: 2018-03-22T20:13:29.896Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Ocasiões Especiais","Pratos leves - Saladas"]
 categories: ["Receitas"]

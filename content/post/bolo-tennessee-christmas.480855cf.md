@@ -1,6 +1,6 @@
 ---
 title: "Bolo Tennessee Christmas"
-date: 2018-03-22T18:30:33.534Z
+date: 2018-03-22T20:13:31.561Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Aniversário","Natal","Vegetariana"]
 categories: ["Receitas"]

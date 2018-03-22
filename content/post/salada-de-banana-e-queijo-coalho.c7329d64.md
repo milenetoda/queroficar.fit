@@ -1,6 +1,6 @@
 ---
 title: "Salada de banana e queijo coalho"
-date: 2018-03-22T18:30:08.907Z
+date: 2018-03-22T20:13:09.658Z
 draft: false
 tags: ["Salada","Grelhado","Brasileira","Dia a Dia","Pratos leves - Saladas","queijo"]
 categories: ["Receitas"]

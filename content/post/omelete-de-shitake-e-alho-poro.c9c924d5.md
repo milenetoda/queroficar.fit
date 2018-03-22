@@ -1,6 +1,6 @@
 ---
 title: "Omelete de shitake e alho poró"
-date: 2018-03-22T18:30:32.067Z
+date: 2018-03-22T20:13:30.011Z
 draft: false
 tags: ["Omelete","Assado","Brasileira","Dia a Dia","Vegetariana","Alimentação saudável"]
 categories: ["Receitas"]

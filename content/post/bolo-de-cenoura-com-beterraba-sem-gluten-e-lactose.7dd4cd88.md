@@ -1,8 +1,8 @@
 ---
 title: "Bolo de cenoura com beterraba sem glúten e lactose"
-date: 2018-03-22T18:30:10.365Z
+date: 2018-03-22T20:13:11.184Z
 draft: false
-tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Alimentação","Alimentação saudável","Bolo","receita sem glúten","receita sem lactose","Receitas sem glúten"]
+tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Alimentação","Alimentação saudável","Bolo","receita sem glúten","receita sem lactose","Receitas sem glúten"]
 categories: ["Receitas"]
 featured_image: "/post/bolo-de-cenoura-com-beterraba-sem-gluten-e-lactose.7dd4cd88.jpg"
 ---

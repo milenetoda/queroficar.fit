@@ -1,6 +1,6 @@
 ---
 title: "Hamburguinho de lentilha"
-date: 2018-03-22T18:29:52.281Z
+date: 2018-03-22T20:12:58.689Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Vegetariana","Alimentação saudável","receita saudável","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Picolé de manga com kiwi"
-date: 2018-03-22T18:30:03.374Z
+date: 2018-03-22T20:13:06.951Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Leve e Saudável","frutas","Picolés"]
 categories: ["Receitas"]

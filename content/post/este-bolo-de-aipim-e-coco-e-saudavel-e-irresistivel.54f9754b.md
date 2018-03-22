@@ -1,6 +1,6 @@
 ---
 title: "Este bolo de aipim e coco é saudável e irresistível"
-date: 2018-03-22T18:30:21.538Z
+date: 2018-03-22T20:13:21.121Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Ocasiões Especiais","Alimentação","Alimentação saudável"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Cookie de aveia vegano é ideal para o lanchinho da tarde"
-date: 2018-03-22T18:30:20.155Z
+date: 2018-03-22T20:13:19.735Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Biscoito e bolacha"]
 categories: ["Receitas"]

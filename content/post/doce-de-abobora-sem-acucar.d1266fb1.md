@@ -1,6 +1,6 @@
 ---
 title: "Doce de abóbora sem açúcar"
-date: 2018-03-22T18:30:09.084Z
+date: 2018-03-22T20:13:10.326Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia","Festa Junina","Doces","receita saudável","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Bolo de nuts natalino"
-date: 2018-03-22T18:30:18.069Z
+date: 2018-03-22T20:13:17.771Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Natal","Bolo","Doces Natalinos"]
 categories: ["Receitas"]

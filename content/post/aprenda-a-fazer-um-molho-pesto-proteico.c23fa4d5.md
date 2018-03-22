@@ -1,6 +1,6 @@
 ---
 title: "Aprenda a fazer um molho pesto proteico"
-date: 2018-03-22T18:30:18.577Z
+date: 2018-03-22T20:13:18.304Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Dietas à base de proteínas"]
 categories: ["Receitas"]

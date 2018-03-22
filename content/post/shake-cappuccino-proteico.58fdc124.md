@@ -1,6 +1,6 @@
 ---
 title: "Shake cappuccino proteico"
-date: 2018-03-22T18:30:02.005Z
+date: 2018-03-22T20:13:04.981Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais"]
 categories: ["Receitas"]

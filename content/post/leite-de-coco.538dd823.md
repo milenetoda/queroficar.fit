@@ -1,6 +1,6 @@
 ---
 title: "Leite de coco"
-date: 2018-03-22T18:30:14.660Z
+date: 2018-03-22T20:13:14.992Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Sem Lactose","Lactose","Leite e derivados"]
 categories: ["Receitas"]

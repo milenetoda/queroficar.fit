@@ -1,6 +1,6 @@
 ---
 title: "Drinque picante de morango, beterraba e pimenta"
-date: 2018-03-22T18:30:08.723Z
+date: 2018-03-22T20:13:09.954Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Bebidas","Drink"]
 categories: ["Receitas"]

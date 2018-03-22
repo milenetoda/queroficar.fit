@@ -1,6 +1,6 @@
 ---
 title: "Bombom proteico para comer antes do treino"
-date: 2018-03-22T18:30:31.882Z
+date: 2018-03-22T20:13:29.844Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

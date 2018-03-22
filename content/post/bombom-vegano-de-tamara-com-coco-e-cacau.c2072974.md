@@ -1,6 +1,6 @@
 ---
 title: "Bombom vegano de tâmara com coco e cacau"
-date: 2018-03-22T18:29:51.732Z
+date: 2018-03-22T20:12:58.282Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Ocasiões Especiais","Páscoa","Leve e Saudável","Alimentos funcionais","bombom","coco","Páscoa","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Almoço picante com salada de abacate, frango e molho jalapeño"
-date: 2018-03-22T18:30:19.590Z
+date: 2018-03-22T20:13:19.723Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Alimentação saudável","Fruta - Abacate","Pratos leves - Saladas","Receitas","Receitas com frango"]
 categories: ["Receitas"]

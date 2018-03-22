@@ -1,6 +1,6 @@
 ---
 title: "Esse shake de goji berry deixa a pele mais firme"
-date: 2018-03-22T18:30:26.905Z
+date: 2018-03-22T20:13:25.799Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Leve e Saudável"]
 categories: ["Receitas"]

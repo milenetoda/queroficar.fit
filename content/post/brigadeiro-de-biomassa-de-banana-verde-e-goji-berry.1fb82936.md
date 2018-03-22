@@ -1,6 +1,6 @@
 ---
 title: "Brigadeiro de biomassa de banana verde e goji berry"
-date: 2018-03-22T18:30:32.521Z
+date: 2018-03-22T20:13:29.977Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia","Páscoa","Light"]
 categories: ["Receitas"]

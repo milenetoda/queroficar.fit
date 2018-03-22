@@ -1,6 +1,6 @@
 ---
 title: "Creme de tomate antioxidante para uma jantar leve e gostoso"
-date: 2018-03-22T18:30:20.229Z
+date: 2018-03-22T20:13:20.205Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Alimentação light","Sopas e caldos"]
 categories: ["Receitas"]

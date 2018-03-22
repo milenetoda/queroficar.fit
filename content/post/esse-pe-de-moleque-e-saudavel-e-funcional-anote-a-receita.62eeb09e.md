@@ -1,6 +1,6 @@
 ---
 title: "Esse pé de moleque é saudável e funcional. Anote a receita!"
-date: 2018-03-22T18:30:25.434Z
+date: 2018-03-22T20:13:24.244Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Festa Junina","Alimentação saudável","Especial Receitas de Festas Junina","Festa Junina"]
 categories: ["Receitas"]

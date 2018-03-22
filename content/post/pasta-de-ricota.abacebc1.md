@@ -1,6 +1,6 @@
 ---
 title: "Pasta de ricota"
-date: 2018-03-22T18:30:00.892Z
+date: 2018-03-22T20:13:04.213Z
 draft: false
 tags: ["Molhos e Patês","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","receita saudável"]
 categories: ["Receitas"]

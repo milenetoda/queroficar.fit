@@ -1,6 +1,6 @@
 ---
 title: "Gaspacho de beterraba fit para ganhar energia"
-date: 2018-03-22T18:30:30.438Z
+date: 2018-03-22T20:13:28.593Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Portuguesa","Dia a Dia"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Arroz integral com legumes"
-date: 2018-03-22T18:29:59.990Z
+date: 2018-03-22T20:13:03.996Z
 draft: false
 tags: ["Arroz e Risoto","Grãos (arroz e feijão)","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","Arroz","Receitas","Receitas rápidas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Ovos moles"
-date: 2018-03-22T18:30:12.193Z
+date: 2018-03-22T20:13:13.468Z
 draft: false
-tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Leve e Saudável","ovo","receita fácil","receita light;","receita sem lactose","receita simples e saudável"]
+tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Leve e Saudável","ovo","receita fácil","receita light","receita sem lactose","receita simples e saudável"]
 categories: ["Receitas"]
 featured_image: "/post/ovos-moles.4b521d86.jpg"
 ---

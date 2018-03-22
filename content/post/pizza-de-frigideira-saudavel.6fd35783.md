@@ -1,6 +1,6 @@
 ---
 title: "Pizza de frigideira saudável"
-date: 2018-03-22T18:30:33.613Z
+date: 2018-03-22T20:13:31.427Z
 draft: false
 tags: ["Pizza","Chapeado","Cozido","Brasileira","Festa Junina","Light","Alimentação"]
 categories: ["Receitas"]

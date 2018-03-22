@@ -1,6 +1,6 @@
 ---
 title: "Arroz-doce integral sem lactose"
-date: 2018-03-22T18:30:06.540Z
+date: 2018-03-22T20:13:08.969Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Quente","Brasileira","Festa Junina","Leve e Saudável","Arroz","doce","Sobremesa"]
 categories: ["Receitas"]

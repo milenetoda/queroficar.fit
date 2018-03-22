@@ -1,6 +1,6 @@
 ---
 title: "Caixão de chocolate"
-date: 2018-03-22T18:30:35.621Z
+date: 2018-03-22T20:13:32.485Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Aniversário","Vegetariana"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Filé de peixe com chutney de jabuticaba"
-date: 2018-03-22T18:30:00.995Z
+date: 2018-03-22T20:13:04.372Z
 draft: false
 tags: ["Peixe ou fruto do mar","Cozido","Grelhado","Brasileira","Dia a Dia","Leve e Saudável","jabuticaba","peixe"]
 categories: ["Receitas"]

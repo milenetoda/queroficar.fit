@@ -1,6 +1,6 @@
 ---
 title: "Delírio de coco e manga sem lactose"
-date: 2018-03-22T18:30:02.593Z
+date: 2018-03-22T20:13:05.458Z
 draft: false
 tags: ["Docinho e Salgadinho","Cozido","Brasileira","Dia a Dia","Festas","Leve e Saudável","Alimentação saudável","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Espaguete de batata-doce e cenoura"
-date: 2018-03-22T18:30:04.534Z
+date: 2018-03-22T20:13:07.287Z
 draft: false
 tags: ["Legume e Verdura","Massa","Salada","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentos funcionais","receita simples e saudável"]
 categories: ["Receitas"]

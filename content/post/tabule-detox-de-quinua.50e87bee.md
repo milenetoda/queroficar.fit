@@ -1,6 +1,6 @@
 ---
 title: "Tabule detox de quinua"
-date: 2018-03-22T18:30:16.989Z
+date: 2018-03-22T20:13:16.676Z
 draft: false
 tags: ["Salada","Cozido","Árabe","Dia a Dia","Leve e Saudável","quinua","tabule"]
 categories: ["Receitas"]

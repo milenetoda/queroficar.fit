@@ -1,6 +1,6 @@
 ---
 title: "Chips de casca de batata-doce"
-date: 2018-03-22T18:30:18.040Z
+date: 2018-03-22T20:13:17.380Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Batata-doce","Receitas simples e fáceis"]
 categories: ["Receitas"]

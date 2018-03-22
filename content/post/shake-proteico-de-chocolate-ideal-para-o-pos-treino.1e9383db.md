@@ -1,6 +1,6 @@
 ---
 title: "Shake proteico de chocolate ideal para o pós-treino"
-date: 2018-03-22T18:30:23.161Z
+date: 2018-03-22T20:13:22.991Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Alimentação saudável"]
 categories: ["Receitas"]

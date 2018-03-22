@@ -1,6 +1,6 @@
 ---
 title: "Tortinha gelada fit de pasta de amendoim e coco"
-date: 2018-03-22T18:30:28.523Z
+date: 2018-03-22T20:13:27.070Z
 draft: false
 tags: ["Torta Doce","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

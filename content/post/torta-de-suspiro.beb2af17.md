@@ -1,6 +1,6 @@
 ---
 title: "Torta de suspiro"
-date: 2018-03-22T18:30:36.000Z
+date: 2018-03-22T20:13:32.615Z
 draft: false
 tags: ["Torta Doce","Assado","Gelado","Árabe","Natal","Vegetariana"]
 categories: ["Receitas"]

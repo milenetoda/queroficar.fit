@@ -1,6 +1,6 @@
 ---
 title: "Abobrinha recheada com painço e queijo de cabra"
-date: 2018-03-22T18:30:00.057Z
+date: 2018-03-22T20:13:03.996Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

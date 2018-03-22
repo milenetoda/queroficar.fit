@@ -1,6 +1,6 @@
 ---
 title: "Waffle de tapioca para um café da manhã fit. Anote a receita"
-date: 2018-03-22T18:30:30.466Z
+date: 2018-03-22T20:13:28.801Z
 draft: false
 tags: ["Massa","Assado","Americana","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

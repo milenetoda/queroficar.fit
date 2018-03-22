@@ -1,6 +1,6 @@
 ---
 title: "Muffin low carb de atum com creme de ricota de búfala"
-date: 2018-03-22T18:29:54.839Z
+date: 2018-03-22T20:13:00.218Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","Dicas de dieta","receita"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Musse funcional de chocolate e biomassa de banana verde"
-date: 2018-03-22T18:29:58.571Z
+date: 2018-03-22T20:13:02.804Z
 draft: false
 tags: ["Musse","Gelado","Brasileira","Aniversário","Ocasiões Especiais","Alimentação saudável","Dieta e nutrição","doce","Nutrição","receita"]
 categories: ["Receitas"]

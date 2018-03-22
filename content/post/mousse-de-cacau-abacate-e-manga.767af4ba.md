@@ -1,6 +1,6 @@
 ---
 title: "Mousse de cacau, abacate e manga"
-date: 2018-03-22T18:29:53.367Z
+date: 2018-03-22T20:12:58.859Z
 draft: false
 tags: ["Musse","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","mousse de chocolate","Receitas","Receitas com chocolate","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

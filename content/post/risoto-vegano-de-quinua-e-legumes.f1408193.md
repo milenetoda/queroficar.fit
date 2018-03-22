@@ -1,6 +1,6 @@
 ---
 title: "Risoto vegano de quinua e legumes"
-date: 2018-03-22T18:30:06.400Z
+date: 2018-03-22T20:13:08.783Z
 draft: false
 tags: ["Arroz e Risoto","Cozido","Brasileira","Dia a Dia","Alimentação vegana","Arroz e risoto","Receitas","Receitas rápidas","Receitas simples e fáceis","Veganismo"]
 categories: ["Receitas"]

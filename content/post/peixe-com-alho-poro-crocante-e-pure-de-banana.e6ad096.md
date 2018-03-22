@@ -1,8 +1,8 @@
 ---
 title: "Peixe com alho-poró crocante e purê de banana"
-date: 2018-03-22T18:30:10.235Z
+date: 2018-03-22T20:13:11.476Z
 draft: false
-tags: ["Peixe ou fruto do mar","Cozido","Grelhado","Brasileira","Ocasiões Especiais","Sem glúten;Sem lactose","Peixes e frutos do mar","Receitas","Receitas com frutas"]
+tags: ["Peixe ou fruto do mar","Cozido","Grelhado","Brasileira","Ocasiões Especiais","Sem glúten","Sem lactose","Peixes e frutos do mar","Receitas","Receitas com frutas"]
 categories: ["Receitas"]
 featured_image: "/post/peixe-com-alho-poro-crocante-e-pure-de-banana.e6ad096.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sorvete fit feito de banana, amora e coco"
-date: 2018-03-22T18:30:30.217Z
+date: 2018-03-22T20:13:28.576Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Dadinho de amendoim com chocolate amargo"
-date: 2018-03-22T18:30:08.030Z
+date: 2018-03-22T20:13:09.833Z
 draft: false
 tags: ["Docinho e Salgadinho","Gelado","Brasileira","Festa Junina","Chocolate amargo","Oleaginosas","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

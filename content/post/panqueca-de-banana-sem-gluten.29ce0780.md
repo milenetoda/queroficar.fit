@@ -1,6 +1,6 @@
 ---
 title: "Panqueca de banana sem glúten"
-date: 2018-03-22T18:29:54.099Z
+date: 2018-03-22T20:12:59.726Z
 draft: false
 tags: ["Massa","Quente","Brasileira","Dia a Dia","Sem glúten","Alimentação saudável","panqueca","receita","receita fácil"]
 categories: ["Receitas"]

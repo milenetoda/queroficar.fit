@@ -1,8 +1,8 @@
 ---
 title: "Truta com legumes"
-date: 2018-03-22T18:30:12.146Z
+date: 2018-03-22T20:13:13.092Z
 draft: false
-tags: ["Peixe e Fruto do Mar","Assado","Brasileira","Páscoa","Diet;Light","Peixes","Peixes e frutos do mar"]
+tags: ["Peixe e Fruto do Mar","Assado","Brasileira","Páscoa","Diet","Light","Peixes","Peixes e frutos do mar"]
 categories: ["Receitas"]
 featured_image: "/post/truta-com-legumes.7f6f10fa.jpg"
 ---

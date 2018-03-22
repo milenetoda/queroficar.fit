@@ -1,6 +1,6 @@
 ---
 title: "Hum… esse taco com ovo e guacamole está irresistível"
-date: 2018-03-22T18:30:31.152Z
+date: 2018-03-22T20:13:29.405Z
 draft: false
 tags: ["Sanduíche","Cru","Mexicana","Ocasiões Especiais"]
 categories: ["Receitas"]

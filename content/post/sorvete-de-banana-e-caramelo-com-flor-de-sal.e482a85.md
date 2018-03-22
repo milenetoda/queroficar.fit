@@ -1,8 +1,8 @@
 ---
 title: "Sorvete de banana e caramelo com flor de sal"
-date: 2018-03-22T18:29:59.381Z
+date: 2018-03-22T20:13:03.524Z
 draft: false
-tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Sem lactose;Vegana;Vegetariana","banana","receita sem lactose","Receitas","Receitas com frutas","Receitas simples e fáceis","Sorvetes"]
+tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Sem lactose","Vegana","Vegetariana","banana","receita sem lactose","Receitas","Receitas com frutas","Receitas simples e fáceis","Sorvetes"]
 categories: ["Receitas"]
 featured_image: "/post/sorvete-de-banana-e-caramelo-com-flor-de-sal.e482a85.jpeg"
 ---

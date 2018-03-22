@@ -1,8 +1,8 @@
 ---
 title: "Refogado de carne de jaca com alho-poró e azeitona"
-date: 2018-03-22T18:29:53.165Z
+date: 2018-03-22T20:12:58.419Z
 draft: false
-tags: ["Legume e Verdura","Refogado","Brasileira","Dia a Dia","Vegana;Vegetariana","Alimentação vegana","Receitas","Receitas simples e fáceis","vegetariana"]
+tags: ["Legume e Verdura","Refogado","Brasileira","Dia a Dia","Vegana","Vegetariana","Alimentação vegana","Receitas","Receitas simples e fáceis","vegetariana"]
 categories: ["Receitas"]
 featured_image: "/post/refogado-de-carne-de-jaca-com-alho-poro-e-azeitona.2ff5cc88.jpeg"
 ---

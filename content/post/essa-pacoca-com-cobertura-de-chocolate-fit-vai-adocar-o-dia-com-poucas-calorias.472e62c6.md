@@ -1,6 +1,6 @@
 ---
 title: "Essa paçoca com cobertura de chocolate fit vai adoçar o dia com poucas calorias"
-date: 2018-03-22T18:30:24.654Z
+date: 2018-03-22T20:13:23.291Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Festa Junina","Festas","Especial Receitas de Festas Junina","Festa Junina","Sobremesa"]
 categories: ["Receitas"]

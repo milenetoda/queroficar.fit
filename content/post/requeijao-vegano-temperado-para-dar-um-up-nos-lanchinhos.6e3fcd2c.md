@@ -1,6 +1,6 @@
 ---
 title: "Requeijão vegano temperado para dar um up nos lanchinhos"
-date: 2018-03-22T18:30:18.588Z
+date: 2018-03-22T20:13:18.617Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Vegana","#InstaBOAFORMA","Leite e derivados"]
 categories: ["Receitas"]

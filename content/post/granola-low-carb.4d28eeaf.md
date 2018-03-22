@@ -1,6 +1,6 @@
 ---
 title: "Granola low carb"
-date: 2018-03-22T18:30:16.300Z
+date: 2018-03-22T20:13:16.743Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","Carboidratos","Granola","Receitas simples e fáceis"]
 categories: ["Receitas"]

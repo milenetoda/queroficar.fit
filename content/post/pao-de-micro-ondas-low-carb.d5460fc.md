@@ -1,6 +1,6 @@
 ---
 title: "“Pão” de micro-ondas low carb"
-date: 2018-03-22T18:29:53.759Z
+date: 2018-03-22T20:12:59.077Z
 draft: false
 tags: ["Pão","Quente","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Dieta low carb","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

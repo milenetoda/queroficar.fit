@@ -1,6 +1,6 @@
 ---
 title: "Brandade de Bacalhau com Batata Doce gratinado na Abóbora"
-date: 2018-03-22T18:30:11.835Z
+date: 2018-03-22T20:13:13.257Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Assado","Gratinado","Brasileira","Páscoa","Peixes","Peixes e frutos do mar"]
 categories: ["Receitas"]

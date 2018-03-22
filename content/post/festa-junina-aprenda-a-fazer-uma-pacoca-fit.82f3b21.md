@@ -1,6 +1,6 @@
 ---
 title: "Festa Junina: aprenda a fazer uma paçoca fit"
-date: 2018-03-22T18:30:26.438Z
+date: 2018-03-22T20:13:24.877Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Festa Junina","Especial Receitas de Festas Junina","Festa Junina"]
 categories: ["Receitas"]

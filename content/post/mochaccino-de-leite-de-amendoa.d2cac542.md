@@ -1,6 +1,6 @@
 ---
 title: "Mochaccino de leite de amêndoa"
-date: 2018-03-22T18:30:06.234Z
+date: 2018-03-22T20:13:08.822Z
 draft: false
 tags: ["Bebidas","Quente","Brasileira","Dia a Dia","Bebidas","Café","Dieta vegana","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

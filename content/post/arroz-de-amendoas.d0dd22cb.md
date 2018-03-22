@@ -1,6 +1,6 @@
 ---
 title: "Arroz de amêndoas"
-date: 2018-03-22T18:29:54.092Z
+date: 2018-03-22T20:12:59.766Z
 draft: false
 tags: ["Arroz e Risoto","Cozido","Refogado","Árabe","Dia a Dia","Leve e Saudável","Alimentação saudável","Arroz","receita fácil","Receitas","Receitas rápidas","Receitas simples e fáceis","Vanessa Giácomo"]
 categories: ["Receitas"]

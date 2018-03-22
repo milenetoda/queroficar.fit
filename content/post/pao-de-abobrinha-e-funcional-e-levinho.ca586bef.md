@@ -1,6 +1,6 @@
 ---
 title: "Pão de abobrinha é funcional e levinho"
-date: 2018-03-22T18:30:25.773Z
+date: 2018-03-22T20:13:24.856Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Ocasiões Especiais","Dicas de dieta","Pães"]
 categories: ["Receitas"]

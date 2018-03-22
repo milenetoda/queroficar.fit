@@ -8,6 +8,11 @@ paginate = 10
 [params]
 logo = "images/logo.svg"
 cover = "images/cover.jpg"
+description = "Site com treinos e exercícios para entrar em forma e ficar saudável, além de receitas e dietas para se alimentar bem"
+keywords = [ 
+  "fit", "fitness", "esportes", "alimentação", "saudável", "dietas", 
+  "receitas", "atividades físicas", "treinos", "musculação", "academia", 
+  "motivação", "emagrecer", "calorias", "saúde", "bem-estar" ]
 themeColor = "deep-purple"
 analyticsId = "UA-115830905-1"
 adsenseSlot = "7050788775"

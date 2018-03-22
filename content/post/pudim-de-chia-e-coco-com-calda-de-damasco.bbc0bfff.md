@@ -1,6 +1,6 @@
 ---
 title: "Pudim de chia e coco com calda de damasco"
-date: 2018-03-22T18:30:10.543Z
+date: 2018-03-22T20:13:12.377Z
 draft: false
 tags: ["Pudim","Gelado","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável","Pudim"]
 categories: ["Receitas"]

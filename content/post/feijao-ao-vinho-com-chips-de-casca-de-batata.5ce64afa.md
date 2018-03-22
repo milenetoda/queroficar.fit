@@ -1,6 +1,6 @@
 ---
 title: "Feijão ao vinho com chips de casca de batata"
-date: 2018-03-22T18:30:17.266Z
+date: 2018-03-22T20:13:16.836Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Legume e Verdura","Assado","Cozido","Brasileira","Dia a Dia","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

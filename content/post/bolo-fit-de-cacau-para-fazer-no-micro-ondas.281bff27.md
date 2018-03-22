@@ -1,6 +1,6 @@
 ---
 title: "Bolo fit de cacau para fazer no micro-ondas"
-date: 2018-03-22T18:30:18.613Z
+date: 2018-03-22T20:13:18.569Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Quente","Brasileira","Dia a Dia","#InstaBOAFORMA","Bolo de chocolate","Receitas com chocolate"]
 categories: ["Receitas"]

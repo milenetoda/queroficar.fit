@@ -1,6 +1,6 @@
 ---
 title: "Pad thai: macarrão tailandês com legumes"
-date: 2018-03-22T18:30:06.566Z
+date: 2018-03-22T20:13:08.910Z
 draft: false
 tags: ["Massa","Cozido","Asiática","Dia a Dia","Legumes","macarrão","Receitas","Receitas rápidas","Receitas simples e fáceis","Tailândia"]
 categories: ["Receitas"]

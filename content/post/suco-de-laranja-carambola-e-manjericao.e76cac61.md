@@ -1,6 +1,6 @@
 ---
 title: "Suco de laranja, carambola e manjericão"
-date: 2018-03-22T18:30:03.118Z
+date: 2018-03-22T20:13:05.895Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Festas","Alimentação saudável","Alimentos funcionais"]
 categories: ["Receitas"]

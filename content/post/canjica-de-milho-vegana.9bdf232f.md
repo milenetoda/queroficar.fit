@@ -1,6 +1,6 @@
 ---
 title: "Canjica de milho vegana"
-date: 2018-03-22T18:30:07.392Z
+date: 2018-03-22T20:13:09.765Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Festa Junina","Vegana","Canjica","Festa Junina","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

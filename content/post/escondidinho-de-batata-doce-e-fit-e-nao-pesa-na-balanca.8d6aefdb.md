@@ -1,6 +1,6 @@
 ---
 title: "Escondidinho de batata-doce é fit e não pesa na balança"
-date: 2018-03-22T18:30:27.492Z
+date: 2018-03-22T20:13:25.883Z
 draft: false
 tags: ["Carne","Cozido","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Bolo-rei vegano e sem glúten"
-date: 2018-03-22T18:29:57.933Z
+date: 2018-03-22T20:13:02.641Z
 draft: false
-tags: ["Bolo Simples","Assado","Portuguesa","Natal","Sem glúten;Sem lactose","Bolo","Receitas","Receitas com frutas","Receitas de Natal"]
+tags: ["Bolo Simples","Assado","Portuguesa","Natal","Sem glúten","Sem lactose","Bolo","Receitas","Receitas com frutas","Receitas de Natal"]
 categories: ["Receitas"]
 featured_image: "/post/bolo-rei-vegano-e-sem-gluten.f567fdf2.jpg"
 ---

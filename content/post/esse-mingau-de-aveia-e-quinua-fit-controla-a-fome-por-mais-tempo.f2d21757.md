@@ -1,6 +1,6 @@
 ---
 title: "Esse mingau de aveia e quinua fit controla a fome por mais tempo"
-date: 2018-03-22T18:30:30.434Z
+date: 2018-03-22T20:13:28.810Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

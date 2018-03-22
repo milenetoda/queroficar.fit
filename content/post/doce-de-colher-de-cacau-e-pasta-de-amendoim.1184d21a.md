@@ -1,6 +1,6 @@
 ---
 title: "Doce de colher de cacau e pasta de amendoim"
-date: 2018-03-22T18:30:06.018Z
+date: 2018-03-22T20:13:08.466Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Chocolate","Doces","pasta de amendoim","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

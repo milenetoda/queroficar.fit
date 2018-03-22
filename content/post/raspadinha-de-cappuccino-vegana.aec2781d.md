@@ -1,8 +1,8 @@
 ---
 title: "Raspadinha de cappuccino vegana"
-date: 2018-03-22T18:30:14.333Z
+date: 2018-03-22T20:13:14.655Z
 draft: false
-tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Vegana;Vegetariana","Café"]
+tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Vegana","Vegetariana","Café"]
 categories: ["Receitas"]
 featured_image: "/post/raspadinha-de-cappuccino-vegana.aec2781d.jpg"
 ---

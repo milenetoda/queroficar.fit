@@ -1,6 +1,6 @@
 ---
 title: "Creme de cacau com abacate"
-date: 2018-03-22T18:30:18.070Z
+date: 2018-03-22T20:13:17.824Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Fruta - Abacate","Receitas com chocolate"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Mousse low carb de chocolate e abacate"
-date: 2018-03-22T18:29:53.129Z
+date: 2018-03-22T20:12:58.812Z
 draft: false
 tags: ["Musse","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","receita saudável"]
 categories: ["Receitas"]

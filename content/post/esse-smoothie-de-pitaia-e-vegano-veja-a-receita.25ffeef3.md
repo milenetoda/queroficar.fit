@@ -1,6 +1,6 @@
 ---
 title: "Esse smoothie de pitaia é vegano. Veja a receita"
-date: 2018-03-22T18:30:28.324Z
+date: 2018-03-22T20:13:27.090Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

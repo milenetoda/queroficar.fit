@@ -1,6 +1,6 @@
 ---
 title: "Frango com ervas aromáticas"
-date: 2018-03-22T18:30:28.843Z
+date: 2018-03-22T20:13:27.534Z
 draft: false
 tags: ["Frango e Aves","Assado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

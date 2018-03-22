@@ -1,6 +1,6 @@
 ---
 title: "Salada de endívia com abacaxi, legumes e molho dijon"
-date: 2018-03-22T18:29:57.927Z
+date: 2018-03-22T20:13:02.299Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Light","Pratos leves - Saladas","salada"]
 categories: ["Receitas"]

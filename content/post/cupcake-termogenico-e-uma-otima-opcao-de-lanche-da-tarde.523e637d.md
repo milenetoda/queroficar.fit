@@ -1,6 +1,6 @@
 ---
 title: "Cupcake termogênico é uma ótima opção de lanche da tarde"
-date: 2018-03-22T18:30:21.296Z
+date: 2018-03-22T20:13:21.236Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Americana","Dia a Dia","Festas","Alimentação light","Alimentos termogênicos","Cupcake","Sobremesa","Termogênicos"]
 categories: ["Receitas"]

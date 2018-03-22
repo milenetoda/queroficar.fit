@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de abacate, iogurte e limão para garantir energia durante o dia"
-date: 2018-03-22T18:30:30.561Z
+date: 2018-03-22T20:13:28.921Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

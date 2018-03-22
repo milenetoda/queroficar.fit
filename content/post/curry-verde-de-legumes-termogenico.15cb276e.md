@@ -1,6 +1,6 @@
 ---
 title: "Curry verde de legumes termogênico"
-date: 2018-03-22T18:30:08.383Z
+date: 2018-03-22T20:13:09.959Z
 draft: false
 tags: ["Molhos e Patês","Cozido","Brasileira","Dia a Dia","molhos","receita"]
 categories: ["Receitas"]

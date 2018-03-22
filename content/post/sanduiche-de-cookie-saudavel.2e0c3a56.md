@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche de cookie saudável"
-date: 2018-03-22T18:30:01.023Z
+date: 2018-03-22T20:13:04.571Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Americana","Dia a Dia","Ocasiões Especiais","cookies","Doces","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis","Sobremesa"]
 categories: ["Receitas"]

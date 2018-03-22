@@ -1,6 +1,6 @@
 ---
 title: "Frango com castanha de caju para um almoço leve e saboroso"
-date: 2018-03-22T18:30:20.720Z
+date: 2018-03-22T20:13:20.040Z
 draft: false
 tags: ["Frango e Aves","Refogado","Brasileira","Ocasiões Especiais","Alimentação saudável","Receitas","Receitas com frango"]
 categories: ["Receitas"]

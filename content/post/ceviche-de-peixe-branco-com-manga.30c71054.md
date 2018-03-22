@@ -1,6 +1,6 @@
 ---
 title: "Ceviche de peixe branco com manga"
-date: 2018-03-22T18:29:57.055Z
+date: 2018-03-22T20:13:01.553Z
 draft: false
 tags: ["Peixe ou fruto do mar","Cru","Andina","Dia a Dia","Ceviche","Peixes","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

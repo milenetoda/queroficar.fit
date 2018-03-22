@@ -1,6 +1,6 @@
 ---
 title: "Polenta mole com cogumelo para um jantar gourmet"
-date: 2018-03-22T18:30:24.382Z
+date: 2018-03-22T20:13:23.483Z
 draft: false
 tags: ["Suflê","Cozido","Brasileira","Ocasiões Especiais","Alimentação","Alimentação light","Alimentação saudável"]
 categories: ["Receitas"]

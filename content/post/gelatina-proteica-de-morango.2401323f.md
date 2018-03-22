@@ -1,6 +1,6 @@
 ---
 title: "Gelatina proteica de morango"
-date: 2018-03-22T18:29:59.361Z
+date: 2018-03-22T20:13:03.521Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis","Sobremesa"]
 categories: ["Receitas"]

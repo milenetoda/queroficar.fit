@@ -1,6 +1,6 @@
 ---
 title: "Pãozinho funcional sem glúten de batata-doce e açaí"
-date: 2018-03-22T18:29:59.342Z
+date: 2018-03-22T20:13:03.521Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Vegana","Nutrição","receita"]
 categories: ["Receitas"]

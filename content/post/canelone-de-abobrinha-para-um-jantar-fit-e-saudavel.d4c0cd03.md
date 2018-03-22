@@ -1,6 +1,6 @@
 ---
 title: "Canelone de abobrinha para um jantar fit e saudável"
-date: 2018-03-22T18:30:20.225Z
+date: 2018-03-22T20:13:19.741Z
 draft: false
 tags: ["Legume e Verdura","Grelhado","Brasileira","Ocasiões Especiais","#InstaBOAFORMA","Alimentação saudável","Receitas"]
 categories: ["Receitas"]

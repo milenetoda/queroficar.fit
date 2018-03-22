@@ -1,6 +1,6 @@
 ---
 title: "Quiche de cogumelos"
-date: 2018-03-22T18:30:33.119Z
+date: 2018-03-22T20:13:30.960Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","cogumelo","Quiches","Tortas doces e salgadas"]
 categories: ["Receitas"]

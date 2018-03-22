@@ -1,6 +1,6 @@
 ---
 title: "Maçã assada fit para adoçar sem escorregar na dieta"
-date: 2018-03-22T18:30:24.191Z
+date: 2018-03-22T20:13:23.594Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Ocasiões Especiais","Alimentação","Alimentação saudável"]
 categories: ["Receitas"]

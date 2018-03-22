@@ -1,6 +1,6 @@
 ---
 title: "Sopa antioxidante"
-date: 2018-03-22T18:30:31.695Z
+date: 2018-03-22T20:13:30.014Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Sopas e caldos"]
 categories: ["Receitas"]

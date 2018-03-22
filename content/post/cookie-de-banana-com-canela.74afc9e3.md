@@ -1,6 +1,6 @@
 ---
 title: "Cookie de banana com canela"
-date: 2018-03-22T18:30:09.987Z
+date: 2018-03-22T20:13:10.939Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Biscoito e bolacha","Receitas","Receitas com frutas","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

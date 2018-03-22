@@ -1,8 +1,8 @@
 ---
 title: "“Maionese” de abacate"
-date: 2018-03-22T18:30:11.779Z
+date: 2018-03-22T20:13:13.299Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana;Vegetariana","receita fácil","receita light;","receita sem glúten","receita sem lactose","receita simples e saudável"]
+tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana","Vegetariana","receita fácil","receita light","receita sem glúten","receita sem lactose","receita simples e saudável"]
 categories: ["Receitas"]
 featured_image: "/post/maionese-de-abacate.eca8d5e3.jpg"
 ---

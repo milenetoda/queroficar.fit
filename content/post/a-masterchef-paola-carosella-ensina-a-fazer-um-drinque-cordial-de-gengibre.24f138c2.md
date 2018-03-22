@@ -1,6 +1,6 @@
 ---
 title: "A masterChef Paola Carosella ensina a fazer um drinque cordial de gengibre"
-date: 2018-03-22T18:30:25.945Z
+date: 2018-03-22T20:13:24.179Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Ocasiões Especiais","Bebidas"]
 categories: ["Receitas"]

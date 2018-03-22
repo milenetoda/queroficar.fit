@@ -1,8 +1,8 @@
 ---
 title: "Sorvete de abacate com mel"
-date: 2018-03-22T18:30:15.995Z
+date: 2018-03-22T20:13:15.909Z
 draft: false
-tags: ["Sorvete","Cru","Gelado","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Camellia Sinensis","Fruta - Abacate","limão","Matchá","Sorvetes"]
+tags: ["Sorvete","Cru","Gelado","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Camellia Sinensis","Fruta - Abacate","limão","Matchá","Sorvetes"]
 categories: ["Receitas"]
 featured_image: "/post/sorvete-de-abacate-com-mel.7d6ba992.jpg"
 ---

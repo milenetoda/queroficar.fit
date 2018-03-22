@@ -1,6 +1,6 @@
 ---
 title: "Sunomono de lichia"
-date: 2018-03-22T18:30:34.688Z
+date: 2018-03-22T20:13:32.103Z
 draft: false
 tags: ["Doce Caseiro","Cru","Japonesa","Aniversário","Vegetariana"]
 categories: ["Receitas"]

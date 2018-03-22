@@ -1,8 +1,8 @@
 ---
 title: "Leite vegetal"
-date: 2018-03-22T18:30:13.743Z
+date: 2018-03-22T20:13:14.469Z
 draft: false
-tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Receitas sem glúten","Receitas simples e fáceis"]
+tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/leite-vegetal.e32165ec.jpg"
 ---

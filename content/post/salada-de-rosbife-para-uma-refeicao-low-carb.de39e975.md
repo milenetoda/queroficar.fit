@@ -1,6 +1,6 @@
 ---
 title: "Salada de rosbife para uma refeição low carb"
-date: 2018-03-22T18:30:19.586Z
+date: 2018-03-22T20:13:19.164Z
 draft: false
 tags: ["Salada","Assado","Cru","Brasileira","Dia a Dia","Pratos leves - Saladas"]
 categories: ["Receitas"]

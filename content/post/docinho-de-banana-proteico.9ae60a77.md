@@ -1,6 +1,6 @@
 ---
 title: "Docinho de banana proteico"
-date: 2018-03-22T18:29:54.249Z
+date: 2018-03-22T20:13:00.056Z
 draft: false
 tags: ["Docinho e Salgadinho","Gelado","Brasileira","Aniversário","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","receita","receita fácil"]
 categories: ["Receitas"]

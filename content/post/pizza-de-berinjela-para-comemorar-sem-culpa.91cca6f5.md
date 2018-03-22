@@ -1,6 +1,6 @@
 ---
 title: "Pizza de berinjela para comemorar sem culpa"
-date: 2018-03-22T18:30:25.318Z
+date: 2018-03-22T20:13:23.726Z
 draft: false
 tags: ["Pizza","Assado","Italiana","Dia a Dia","Pizza","Receitas simples e fáceis"]
 categories: ["Receitas"]

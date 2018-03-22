@@ -1,6 +1,6 @@
 ---
 title: "Esse smoothie ajuda a reduzir o stress"
-date: 2018-03-22T18:30:27.510Z
+date: 2018-03-22T20:13:26.679Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

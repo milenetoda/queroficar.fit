@@ -1,6 +1,6 @@
 ---
 title: "Poke havaiano com arroz negro"
-date: 2018-03-22T18:29:53.969Z
+date: 2018-03-22T20:12:59.767Z
 draft: false
 tags: ["Peixe ou fruto do mar","Cru","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","poke","receita","receita fácil"]
 categories: ["Receitas"]

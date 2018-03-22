@@ -1,6 +1,6 @@
 ---
 title: "Granola tutti-frutti sem açúcar"
-date: 2018-03-22T18:30:05.261Z
+date: 2018-03-22T20:13:07.834Z
 draft: false
 tags: ["Doce Caseiro","Fruta","Grãos (arroz e feijão)","Cru","Brasileira","Leve e Saudável","Alimentação","Alimentação saudável","receita simples e saudável"]
 categories: ["Receitas"]

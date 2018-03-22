@@ -1,6 +1,6 @@
 ---
 title: "Ceviche vegano de manga no coco"
-date: 2018-03-22T18:29:55.194Z
+date: 2018-03-22T20:13:00.909Z
 draft: false
 tags: ["Fruta","Cru","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","Ceviche","receita"]
 categories: ["Receitas"]

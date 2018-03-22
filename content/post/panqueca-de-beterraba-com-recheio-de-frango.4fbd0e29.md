@@ -1,6 +1,6 @@
 ---
 title: "Panqueca de beterraba com recheio de frango"
-date: 2018-03-22T18:30:13.387Z
+date: 2018-03-22T20:13:14.664Z
 draft: false
 tags: ["Massa","Cozido","Refogado","Brasileira","Dia a Dia","Receitas","Receitas com frango","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

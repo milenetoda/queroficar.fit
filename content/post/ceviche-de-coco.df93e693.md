@@ -1,6 +1,6 @@
 ---
 title: "Ceviche de coco"
-date: 2018-03-22T18:30:15.992Z
+date: 2018-03-22T20:13:16.094Z
 draft: false
 tags: ["Antepasto","Cru","Brasileira","Ocasiões Especiais","Light","Ceviche","coco","Receitas","Receitas com frutas","Receitas light","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

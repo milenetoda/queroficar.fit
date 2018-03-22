@@ -1,6 +1,6 @@
 ---
 title: "Rolinho vegano de acelga"
-date: 2018-03-22T18:29:54.734Z
+date: 2018-03-22T20:13:00.177Z
 draft: false
 tags: ["Sanduíche","Cru","Brasileira","Dia a Dia","Festas","Alimentação saudável","Alimentação vegana","dieta"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Sopa de cenoura esquenta com pouca calorias"
-date: 2018-03-22T18:30:26.759Z
+date: 2018-03-22T20:13:25.284Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Trigo grosso do restaurante Saj"
-date: 2018-03-22T18:30:12.771Z
+date: 2018-03-22T20:13:13.857Z
 draft: false
 tags: ["Carne","Frango e Aves","Cozido","Árabe","Dia a Dia","Comida árabe","Receitas","Receitas com carne","Receitas com frango"]
 categories: ["Receitas"]

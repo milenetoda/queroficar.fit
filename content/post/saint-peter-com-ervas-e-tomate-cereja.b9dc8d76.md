@@ -1,8 +1,8 @@
 ---
 title: "Saint-peter com ervas e tomate-cereja"
-date: 2018-03-22T18:30:11.841Z
+date: 2018-03-22T20:13:12.869Z
 draft: false
-tags: ["Peixe e Fruto do Mar","Assado","Brasileira","Páscoa","Diet;Light","Peixes","Peixes e frutos do mar"]
+tags: ["Peixe e Fruto do Mar","Assado","Brasileira","Páscoa","Diet","Light","Peixes","Peixes e frutos do mar"]
 categories: ["Receitas"]
 featured_image: "/post/saint-peter-com-ervas-e-tomate-cereja.b9dc8d76.jpg"
 ---

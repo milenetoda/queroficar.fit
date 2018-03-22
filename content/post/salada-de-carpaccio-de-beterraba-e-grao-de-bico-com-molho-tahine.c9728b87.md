@@ -1,6 +1,6 @@
 ---
 title: "Salada de carpaccio de beterraba e grão-de-bico com molho tahine"
-date: 2018-03-22T18:30:13.559Z
+date: 2018-03-22T20:13:14.709Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","grão-de-bico","Pratos leves - Saladas","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

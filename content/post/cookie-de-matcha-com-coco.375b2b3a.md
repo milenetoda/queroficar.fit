@@ -1,8 +1,8 @@
 ---
 title: "Cookie de matchá com coco"
-date: 2018-03-22T18:30:11.238Z
+date: 2018-03-22T20:13:12.140Z
 draft: false
-tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Diet;Light","Alimentação saudável","Doces","lanche","Sobremesa"]
+tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Diet","Light","Alimentação saudável","Doces","lanche","Sobremesa"]
 categories: ["Receitas"]
 featured_image: "/post/cookie-de-matcha-com-coco.375b2b3a.jpg"
 ---

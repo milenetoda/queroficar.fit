@@ -1,6 +1,6 @@
 ---
 title: "Panacotta"
-date: 2018-03-22T18:30:35.353Z
+date: 2018-03-22T20:13:31.975Z
 draft: false
 tags: ["Pudim","Assado","Cozido","Japonesa","Aniversário","Vegetariana"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Wrap de rosbife"
-date: 2018-03-22T18:30:33.678Z
+date: 2018-03-22T20:13:31.369Z
 draft: false
 tags: ["Sanduíche","Cru","Francesa","Aniversário","Vegetariana"]
 categories: ["Receitas"]

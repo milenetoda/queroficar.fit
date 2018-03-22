@@ -1,6 +1,6 @@
 ---
 title: "Iogurte de coco"
-date: 2018-03-22T18:30:17.185Z
+date: 2018-03-22T20:13:16.995Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Sem Lactose","coco","Lactose"]
 categories: ["Receitas"]

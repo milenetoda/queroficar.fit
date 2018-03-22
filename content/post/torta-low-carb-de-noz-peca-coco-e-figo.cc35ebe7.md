@@ -1,6 +1,6 @@
 ---
 title: "Torta low carb de noz-pecã, coco e figo"
-date: 2018-03-22T18:29:57.852Z
+date: 2018-03-22T20:13:03.028Z
 draft: false
 tags: ["Torta Doce","Grelhado","Brasileira","Natal","receit","Receitas","Receitas com frutas","torta doce"]
 categories: ["Receitas"]

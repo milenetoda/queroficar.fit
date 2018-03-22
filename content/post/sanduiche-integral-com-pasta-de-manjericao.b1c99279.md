@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche integral com pasta de manjericão"
-date: 2018-03-22T18:30:14.710Z
+date: 2018-03-22T20:13:15.131Z
 draft: false
 tags: ["Sanduíche","Cru","Brasileira","Dia a Dia","Vegetariana","Alimentação saudável","dieta","Dieta e nutrição","Sanduíche","vegetariano"]
 categories: ["Receitas"]

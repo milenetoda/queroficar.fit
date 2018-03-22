@@ -1,6 +1,6 @@
 ---
 title: "Chá-verde com especiarias"
-date: 2018-03-22T18:30:03.145Z
+date: 2018-03-22T20:13:05.956Z
 draft: false
 tags: ["Bebidas","Gelado","Quente","Brasileira","Dia a Dia","Chás","Emagrecedores - chás"]
 categories: ["Receitas"]

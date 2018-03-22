@@ -1,8 +1,8 @@
 ---
 title: "Bolo de chocolate com baba-de-moça"
-date: 2018-03-22T18:30:35.008Z
+date: 2018-03-22T20:13:31.942Z
 draft: false
-tags: ["Bolo com Recheio","Rocambole","Assado","Chapeado","Gelado","Portuguesa","Aniversário","Festas","Sem glúten;Sem lactose"]
+tags: ["Bolo com Recheio","Rocambole","Assado","Chapeado","Gelado","Portuguesa","Aniversário","Festas","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/bolo-de-chocolate-com-baba-de-moca.3cb649c6.jpg"
 ---

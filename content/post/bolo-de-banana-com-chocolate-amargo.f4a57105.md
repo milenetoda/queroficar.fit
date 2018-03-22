@@ -1,6 +1,6 @@
 ---
 title: "Bolo de banana com chocolate amargo"
-date: 2018-03-22T18:29:56.885Z
+date: 2018-03-22T20:13:01.489Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Aniversário","Dia a Dia","Festas","Ocasiões Especiais","banana","Bolo","Chocolate","receita"]
 categories: ["Receitas"]

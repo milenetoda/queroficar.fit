@@ -1,6 +1,6 @@
 ---
 title: "Cogumelos com abacaxi ao forno"
-date: 2018-03-22T18:29:53.605Z
+date: 2018-03-22T20:12:58.893Z
 draft: false
 tags: ["Fruta","Legume e Verdura","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Cogumelos","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

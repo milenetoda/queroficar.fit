@@ -1,6 +1,6 @@
 ---
 title: "Torta de chocolate light"
-date: 2018-03-22T18:30:33.050Z
+date: 2018-03-22T20:13:31.078Z
 draft: false
 tags: ["Torta Doce","Gelado","Espanhola","Aniversário","Light"]
 categories: ["Receitas"]

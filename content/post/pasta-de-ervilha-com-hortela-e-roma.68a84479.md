@@ -1,8 +1,8 @@
 ---
 title: "Pasta de ervilha com hortelã e romã"
-date: 2018-03-22T18:30:04.304Z
+date: 2018-03-22T20:13:07.504Z
 draft: false
-tags: ["Antepasto","Cozido","Brasileira","Dia a Dia","Vegana;Vegetariana","ervilha","hortelã","pasta","Roma"]
+tags: ["Antepasto","Cozido","Brasileira","Dia a Dia","Vegana","Vegetariana","ervilha","hortelã","pasta","Roma"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-ervilha-com-hortela-e-roma.68a84479.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Abobrinha ao forno recheada com frango. Nós testamos!"
-date: 2018-03-22T18:30:29.275Z
+date: 2018-03-22T20:13:27.702Z
 draft: false
 tags: ["Legume e Verdura","Salada","Assado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

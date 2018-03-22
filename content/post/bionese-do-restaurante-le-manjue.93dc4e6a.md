@@ -1,8 +1,8 @@
 ---
 title: "Bionese do restaurante Le Manjue"
-date: 2018-03-22T18:30:02.815Z
+date: 2018-03-22T20:13:06.056Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana;Vegetariana","Azeite","Fruta - Abacate","maionese"]
+tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana","Vegetariana","Azeite","Fruta - Abacate","maionese"]
 categories: ["Receitas"]
 featured_image: "/post/bionese-do-restaurante-le-manjue.93dc4e6a.jpg"
 ---

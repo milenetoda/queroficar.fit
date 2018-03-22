@@ -1,6 +1,6 @@
 ---
 title: "Este brigadeiro de biomassa é funcional. Aprenda a receita!"
-date: 2018-03-22T18:30:23.782Z
+date: 2018-03-22T20:13:22.640Z
 draft: false
 tags: ["Docinho e Salgadinho","Cozido","Brasileira","Dia a Dia","Festas","Sobremesa"]
 categories: ["Receitas"]

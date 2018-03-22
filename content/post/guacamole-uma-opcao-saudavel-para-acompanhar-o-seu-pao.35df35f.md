@@ -1,6 +1,6 @@
 ---
 title: "Guacamole: uma opção saudável para acompanhar o seu pão"
-date: 2018-03-22T18:30:23.418Z
+date: 2018-03-22T20:13:22.844Z
 draft: false
 tags: ["Molhos e Patês","Cru","Mexicana","Ocasiões Especiais","Alimentação saudável"]
 categories: ["Receitas"]

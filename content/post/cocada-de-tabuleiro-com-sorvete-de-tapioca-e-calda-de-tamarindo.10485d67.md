@@ -1,8 +1,8 @@
 ---
 title: "Cocada de tabuleiro com sorvete de tapioca e calda de tamarindo"
-date: 2018-03-22T18:30:35.359Z
+date: 2018-03-22T20:13:32.546Z
 draft: false
-tags: ["Doce Caseiro","Assado","Portuguesa","Aniversário","Sem glúten;Sem lactose"]
+tags: ["Doce Caseiro","Assado","Portuguesa","Aniversário","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/cocada-de-tabuleiro-com-sorvete-de-tapioca-e-calda-de-tamarindo.10485d67.jpg"
 ---

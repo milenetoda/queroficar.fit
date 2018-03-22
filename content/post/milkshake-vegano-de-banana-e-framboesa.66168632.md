@@ -1,6 +1,6 @@
 ---
 title: "Milkshake vegano de banana e framboesa"
-date: 2018-03-22T18:30:18.487Z
+date: 2018-03-22T20:13:18.276Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","milkshake"]
 categories: ["Receitas"]

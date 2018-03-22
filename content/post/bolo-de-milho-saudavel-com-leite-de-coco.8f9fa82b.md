@@ -1,6 +1,6 @@
 ---
 title: "Bolo de milho saudável com leite de coco"
-date: 2018-03-22T18:30:08.971Z
+date: 2018-03-22T20:13:10.397Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Festa Junina","Bolo","Bolo de milho","Receitas","Receitas rápidas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Sopa de abobrinha com curry"
-date: 2018-03-22T18:30:32.510Z
+date: 2018-03-22T20:13:30.370Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Sopas e caldos"]
 categories: ["Receitas"]

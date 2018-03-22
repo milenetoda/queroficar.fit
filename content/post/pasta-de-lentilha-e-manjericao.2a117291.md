@@ -1,8 +1,8 @@
 ---
 title: "Pasta de lentilha e manjericão"
-date: 2018-03-22T18:30:11.251Z
+date: 2018-03-22T20:13:12.203Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Diet;Light","receita fácil","receita light;"]
+tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Diet","Light","receita fácil","receita light"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-lentilha-e-manjericao.2a117291.jpg"
 ---

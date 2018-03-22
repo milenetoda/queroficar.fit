@@ -1,6 +1,6 @@
 ---
 title: "Acrescente mais proteína no seu cardápio com este croquete fit"
-date: 2018-03-22T18:30:23.696Z
+date: 2018-03-22T20:13:22.820Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas","Alimentação saudável","Salgados"]
 categories: ["Receitas"]

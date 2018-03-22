@@ -1,6 +1,6 @@
 ---
 title: "Bolo de chocolate trufado sem glúten e sem lactose"
-date: 2018-03-22T18:29:57.204Z
+date: 2018-03-22T20:13:01.881Z
 draft: false
 tags: ["Bolo com Recheio","Assado","Brasileira","Festas","Sem Lactose","Bolo","bolo chocolate","bolos"]
 categories: ["Receitas"]

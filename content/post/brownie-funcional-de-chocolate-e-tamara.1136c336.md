@@ -1,6 +1,6 @@
 ---
 title: "Brownie funcional de chocolate e tâmara"
-date: 2018-03-22T18:30:01.065Z
+date: 2018-03-22T20:13:04.465Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","brownie","Receitas"]
 categories: ["Receitas"]

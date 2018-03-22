@@ -1,6 +1,6 @@
 ---
 title: "Ratatouille"
-date: 2018-03-22T18:30:05.838Z
+date: 2018-03-22T20:13:07.792Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Legumes","receita leve"]
 categories: ["Receitas"]

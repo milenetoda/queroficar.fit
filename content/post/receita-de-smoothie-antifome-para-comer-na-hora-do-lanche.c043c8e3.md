@@ -1,6 +1,6 @@
 ---
 title: "Receita de smoothie antifome para comer na hora do lanche"
-date: 2018-03-22T18:30:28.003Z
+date: 2018-03-22T20:13:25.766Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

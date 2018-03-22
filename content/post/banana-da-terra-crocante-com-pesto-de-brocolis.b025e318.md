@@ -1,8 +1,8 @@
 ---
 title: "Banana da terra crocante com pesto de brócolis"
-date: 2018-03-22T18:30:12.889Z
+date: 2018-03-22T20:13:13.948Z
 draft: false
-tags: ["Antepasto","Cozido","Grelhado","Refogado","Brasileira","Ocasiões Especiais","Leve e Saudável","receita fácil","receita light;","Receitas com frutas"]
+tags: ["Antepasto","Cozido","Grelhado","Refogado","Brasileira","Ocasiões Especiais","Leve e Saudável","receita fácil","receita light","Receitas com frutas"]
 categories: ["Receitas"]
 featured_image: "/post/banana-da-terra-crocante-com-pesto-de-brocolis.b025e318.png"
 ---

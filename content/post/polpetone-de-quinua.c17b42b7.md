@@ -1,8 +1,8 @@
 ---
 title: "Polpetone de quinua"
-date: 2018-03-22T18:30:32.474Z
+date: 2018-03-22T20:13:30.365Z
 draft: false
-tags: ["Grãos (arroz e feijão)","Legume e Verdura","Assado","Refogado","Brasileira","Dia a Dia","Vegana;Vegetariana","Alimentação saudável"]
+tags: ["Grãos (arroz e feijão)","Legume e Verdura","Assado","Refogado","Brasileira","Dia a Dia","Vegana","Vegetariana","Alimentação saudável"]
 categories: ["Receitas"]
 featured_image: "/post/polpetone-de-quinua.c17b42b7.jpg"
 ---

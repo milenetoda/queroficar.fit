@@ -1,6 +1,6 @@
 ---
 title: "Almôndega fit"
-date: 2018-03-22T18:29:56.950Z
+date: 2018-03-22T20:13:01.635Z
 draft: false
 tags: ["Carne","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","almôndega","Receitas","Receitas com carne","Receitas simples e fáceis"]
 categories: ["Receitas"]

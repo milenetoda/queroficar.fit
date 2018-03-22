@@ -1,6 +1,6 @@
 ---
 title: "Calda fit de amora pode ser usada com iogurte, fruta e panqueca"
-date: 2018-03-22T18:30:21.258Z
+date: 2018-03-22T20:13:20.813Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Aniversário","Dia a Dia","Festas","Alimentação light","Receitas com frutas","Sobremesa"]
 categories: ["Receitas"]

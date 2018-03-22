@@ -1,6 +1,6 @@
 ---
 title: "Petit gateau de chocolate e laranja sem glúten"
-date: 2018-03-22T18:30:06.226Z
+date: 2018-03-22T20:13:08.569Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia","Sem glúten","Chocolate","Doces","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis","Sabor - Doce"]
 categories: ["Receitas"]

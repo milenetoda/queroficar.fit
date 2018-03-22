@@ -1,6 +1,6 @@
 ---
 title: "Pão caseiro funcional sem glúten"
-date: 2018-03-22T18:29:53.774Z
+date: 2018-03-22T20:13:00.175Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Sem glúten","Alimentação saudável","Pão"]
 categories: ["Receitas"]

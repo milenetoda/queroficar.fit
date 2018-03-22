@@ -1,6 +1,6 @@
 ---
 title: "Snack de tangerina, chocolate e coco"
-date: 2018-03-22T18:30:07.396Z
+date: 2018-03-22T20:13:09.191Z
 draft: false
 tags: ["Doce Caseiro","Fruta","Cru","Brasileira","Dia a Dia","Receitas","Receitas com chocolate","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

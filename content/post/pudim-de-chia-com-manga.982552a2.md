@@ -1,6 +1,6 @@
 ---
 title: "Pudim de chia com manga"
-date: 2018-03-22T18:30:01.600Z
+date: 2018-03-22T20:13:04.601Z
 draft: false
 tags: ["Pudim","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer vegano de quinua"
-date: 2018-03-22T18:29:58.559Z
+date: 2018-03-22T20:13:03.396Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Legume e Verdura","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","quinua","Receitas","Receitas simples e fáceis","vegetariana"]
 categories: ["Receitas"]

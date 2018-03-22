@@ -1,6 +1,6 @@
 ---
 title: "Tapioca de Matchá acelera o metabolismo"
-date: 2018-03-22T18:30:25.011Z
+date: 2018-03-22T20:13:23.773Z
 draft: false
 tags: ["Sanduíche","Quente","Brasileira","Ocasiões Especiais","Tapioca"]
 categories: ["Receitas"]

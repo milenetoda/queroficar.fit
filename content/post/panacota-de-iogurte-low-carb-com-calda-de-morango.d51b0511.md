@@ -1,6 +1,6 @@
 ---
 title: "Panacota de iogurte low carb com calda de morango"
-date: 2018-03-22T18:30:15.987Z
+date: 2018-03-22T20:13:15.858Z
 draft: false
 tags: ["Pudim","Gelado","Italiana","Dia a Dia","Carboidratos","Receitas com frutas","Receitas simples e fáceis","Sobremesa"]
 categories: ["Receitas"]

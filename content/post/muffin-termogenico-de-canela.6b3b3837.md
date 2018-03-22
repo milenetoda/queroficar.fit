@@ -1,6 +1,6 @@
 ---
 title: "Muffin termogênico de canela"
-date: 2018-03-22T18:30:06.527Z
+date: 2018-03-22T20:13:08.846Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Aniversário","Dia a Dia","Festas","Alimentação saudável","Bolo","doce","Sobremesa"]
 categories: ["Receitas"]

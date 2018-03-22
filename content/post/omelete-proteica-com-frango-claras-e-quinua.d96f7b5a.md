@@ -1,6 +1,6 @@
 ---
 title: "Omelete proteica com frango, claras e quinua"
-date: 2018-03-22T18:30:16.115Z
+date: 2018-03-22T20:13:15.912Z
 draft: false
 tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Dietas ricas em proteína","Omeletes","Receitas","Receitas com frango","Receitas simples e fáceis"]
 categories: ["Receitas"]

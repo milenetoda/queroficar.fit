@@ -1,8 +1,8 @@
 ---
 title: "Torta de maçã com sorvete"
-date: 2018-03-22T18:30:34.709Z
+date: 2018-03-22T20:13:31.900Z
 draft: false
-tags: ["Torta Doce","Assado","Portuguesa","Aniversário","Sem glúten;Sem lactose"]
+tags: ["Torta Doce","Assado","Portuguesa","Aniversário","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/torta-de-maca-com-sorvete.91292d06.jpg"
 ---

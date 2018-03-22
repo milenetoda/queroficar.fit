@@ -1,6 +1,6 @@
 ---
 title: "Pera ao chá de hibisco e calda de iogurte. Delícia para experimentar já!"
-date: 2018-03-22T18:30:30.463Z
+date: 2018-03-22T20:13:28.123Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Pão low carb de frigideira"
-date: 2018-03-22T18:30:13.635Z
+date: 2018-03-22T20:13:14.536Z
 draft: false
 tags: ["Pão","Quente","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável"]
 categories: ["Receitas"]

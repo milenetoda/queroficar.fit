@@ -1,6 +1,6 @@
 ---
 title: "Tartare de banana-da-terra e castanha de caju"
-date: 2018-03-22T18:29:57.193Z
+date: 2018-03-22T20:13:01.769Z
 draft: false
 tags: ["Fruta","Legume e Verdura","Salada","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

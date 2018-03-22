@@ -1,6 +1,6 @@
 ---
 title: "Suflê de clara com purê de banana mata a vontade de doce com poucas calorias"
-date: 2018-03-22T18:30:28.020Z
+date: 2018-03-22T20:13:25.915Z
 draft: false
 tags: ["Doce Caseiro","Quente","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

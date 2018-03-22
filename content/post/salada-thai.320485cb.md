@@ -1,6 +1,6 @@
 ---
 title: "Salada thai"
-date: 2018-03-22T18:30:10.330Z
+date: 2018-03-22T20:13:10.990Z
 draft: false
 tags: ["Salada","Refogado","Asiática","Ocasiões Especiais","Leve e Saudável","receita","receita leve","receita saudável"]
 categories: ["Receitas"]

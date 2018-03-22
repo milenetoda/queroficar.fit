@@ -1,6 +1,6 @@
 ---
 title: "Brownie de chocolate sem glúten e açúcar"
-date: 2018-03-22T18:30:00.043Z
+date: 2018-03-22T20:13:03.999Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Festas","Leve e Saudável","Alimentação saudável","brownie","Chocolate","receita saudável","Receitas","Receitas com chocolate","Receitas sem glúten"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Shake antioxidante pós-treino"
-date: 2018-03-22T18:30:02.750Z
+date: 2018-03-22T20:13:06.049Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Receitas","Receitas com frutas","Receitas simples e fáceis","Shakes"]
 categories: ["Receitas"]

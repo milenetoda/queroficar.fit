@@ -1,6 +1,6 @@
 ---
 title: "Esse shake energético é ótimo para o pré-treino"
-date: 2018-03-22T18:30:30.464Z
+date: 2018-03-22T20:13:28.071Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

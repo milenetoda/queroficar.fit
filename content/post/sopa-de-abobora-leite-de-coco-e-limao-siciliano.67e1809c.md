@@ -1,8 +1,8 @@
 ---
 title: "Sopa de abóbora, leite de coco e limão siciliano"
-date: 2018-03-22T18:29:55.772Z
+date: 2018-03-22T20:13:00.816Z
 draft: false
-tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Light;Vegana","abóbora","limão","Sopa","Sopas e caldos"]
+tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Light","Vegana","abóbora","limão","Sopa","Sopas e caldos"]
 categories: ["Receitas"]
 featured_image: "/post/sopa-de-abobora-leite-de-coco-e-limao-siciliano.67e1809c.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dadinho de chocolate recheado com coco"
-date: 2018-03-22T18:30:06.397Z
+date: 2018-03-22T20:13:08.880Z
 draft: false
 tags: ["Docinho e Salgadinho","Gelado","Brasileira","Dia a Dia","Chocolate","Receitas","Receitas com chocolate","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

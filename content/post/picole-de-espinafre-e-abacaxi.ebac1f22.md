@@ -1,6 +1,6 @@
 ---
 title: "Picolé de espinafre e abacaxi"
-date: 2018-03-22T18:30:13.504Z
+date: 2018-03-22T20:13:14.361Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Sorvetes"]
 categories: ["Receitas"]

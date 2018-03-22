@@ -1,6 +1,6 @@
 ---
 title: "Banana ao forno"
-date: 2018-03-22T18:30:35.980Z
+date: 2018-03-22T20:13:32.464Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Aniversário","Vegetariana"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Sem tempo para cozinhar? Esse frango rápido é uma saída simples e saudável"
-date: 2018-03-22T18:30:28.488Z
+date: 2018-03-22T20:13:27.029Z
 draft: false
 tags: ["Frango e Aves","Cozido","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

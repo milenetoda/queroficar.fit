@@ -1,6 +1,6 @@
 ---
 title: "Panqueca low carb com frango"
-date: 2018-03-22T18:29:57.145Z
+date: 2018-03-22T20:13:01.876Z
 draft: false
 tags: ["Tapioca e crepioca","Quente","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","Carboidratos"]
 categories: ["Receitas"]

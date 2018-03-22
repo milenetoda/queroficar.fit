@@ -1,6 +1,6 @@
 ---
 title: "Suco verde detox da Carol Buffara"
-date: 2018-03-22T18:30:16.322Z
+date: 2018-03-22T20:13:16.622Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação saudável","Alimentos aliados da beleza","Alimentos que combatem doenças","Benefícios dos alimentos","Detox","Dietas detox","Suco"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Legumes no vapor"
-date: 2018-03-22T18:30:00.518Z
+date: 2018-03-22T20:13:03.788Z
 draft: false
 tags: ["Legume e Verdura","Quente","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Receitas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

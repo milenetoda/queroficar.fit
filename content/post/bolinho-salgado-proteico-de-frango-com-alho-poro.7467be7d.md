@@ -1,6 +1,6 @@
 ---
 title: "Bolinho salgado proteico de frango com alho-poró"
-date: 2018-03-22T18:30:16.413Z
+date: 2018-03-22T20:13:16.678Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Dietas à base de proteínas","Proteínas","Receitas com frango","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

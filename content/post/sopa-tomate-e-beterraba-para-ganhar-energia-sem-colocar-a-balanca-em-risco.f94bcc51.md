@@ -1,6 +1,6 @@
 ---
 title: "Sopa tomate e beterraba para ganhar energia sem colocar a balança em risco"
-date: 2018-03-22T18:30:27.404Z
+date: 2018-03-22T20:13:25.198Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

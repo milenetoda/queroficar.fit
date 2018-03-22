@@ -1,8 +1,8 @@
 ---
 title: "Esse brigadeiro de ameixa serve como lanchinho pré-treino"
-date: 2018-03-22T18:30:31.587Z
+date: 2018-03-22T20:13:29.979Z
 draft: false
-tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Diet;Light"]
+tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Diet","Light"]
 categories: ["Receitas"]
 featured_image: "/post/esse-brigadeiro-de-ameixa-serve-como-lanchinho-pre-treino.33eaebea.jpg"
 ---

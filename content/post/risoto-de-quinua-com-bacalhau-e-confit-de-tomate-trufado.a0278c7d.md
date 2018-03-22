@@ -1,6 +1,6 @@
 ---
 title: "Risoto de quinua com bacalhau e confit de tomate trufado"
-date: 2018-03-22T18:29:57.880Z
+date: 2018-03-22T20:13:01.920Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Cozido","Brasileira","Dia a Dia","Light","quinua","receita fácil","receita leve","risoto"]
 categories: ["Receitas"]

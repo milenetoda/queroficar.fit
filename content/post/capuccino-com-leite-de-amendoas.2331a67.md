@@ -1,6 +1,6 @@
 ---
 title: "Capuccino com leite de amêndoas"
-date: 2018-03-22T18:30:08.973Z
+date: 2018-03-22T20:13:10.158Z
 draft: false
 tags: ["Bebidas","Quente","Brasileira","Dia a Dia","Alimentação vegana","Bebidas","Café","receita sem lactose","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

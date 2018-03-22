@@ -1,6 +1,6 @@
 ---
 title: "Suco verde termogênico"
-date: 2018-03-22T18:29:55.935Z
+date: 2018-03-22T20:13:00.663Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Receitas","Receitas com frutas","Receitas simples e fáceis","Suco"]
 categories: ["Receitas"]

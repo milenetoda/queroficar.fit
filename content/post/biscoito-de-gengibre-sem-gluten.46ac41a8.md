@@ -1,6 +1,6 @@
 ---
 title: "Biscoito de gengibre sem glúten"
-date: 2018-03-22T18:29:57.934Z
+date: 2018-03-22T20:13:02.221Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Natal","Leve e Saudável","Alimentação saudável","Biscoito e bolacha"]
 categories: ["Receitas"]

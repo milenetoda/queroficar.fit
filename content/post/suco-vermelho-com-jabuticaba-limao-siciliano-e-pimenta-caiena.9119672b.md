@@ -1,6 +1,6 @@
 ---
 title: "Suco vermelho com jabuticaba, limão-siciliano e pimenta-caiena"
-date: 2018-03-22T18:29:55.537Z
+date: 2018-03-22T20:13:00.457Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","Receitas","Receitas com frutas","Receitas simples e fáceis","Suco"]
 categories: ["Receitas"]

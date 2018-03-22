@@ -1,6 +1,6 @@
 ---
 title: "Shake de manga com leite de coco"
-date: 2018-03-22T18:30:18.312Z
+date: 2018-03-22T20:13:18.134Z
 draft: false
 tags: ["Fruta","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Receitas com frutas","Shakes","Suco"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Salada de salmão defumado com abacate"
-date: 2018-03-22T18:29:59.705Z
+date: 2018-03-22T20:13:03.650Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Fruta - Abacate","Pratos leves - Saladas","Receitas","Receitas rápidas","Receitas simples e fáceis","Salmão"]
 categories: ["Receitas"]

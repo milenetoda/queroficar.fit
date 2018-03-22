@@ -1,6 +1,6 @@
 ---
 title: "Homus roxo"
-date: 2018-03-22T18:30:08.122Z
+date: 2018-03-22T20:13:10.110Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Homus","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Bruschetta fit de batata-doce e cottage"
-date: 2018-03-22T18:30:09.605Z
+date: 2018-03-22T20:13:10.997Z
 draft: false
 tags: ["Docinho e Salgadinho","Cozido","Brasileira","Dia a Dia","Sem glúten","Alimentação","Alimentação saudável","Comes & Bebes"]
 categories: ["Receitas"]

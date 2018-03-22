@@ -1,6 +1,6 @@
 ---
 title: "Bolinho assado de frango com couve-flor"
-date: 2018-03-22T18:30:01.912Z
+date: 2018-03-22T20:13:04.924Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","dieta","receita"]
 categories: ["Receitas"]

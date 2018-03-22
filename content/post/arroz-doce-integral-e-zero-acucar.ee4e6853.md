@@ -1,6 +1,6 @@
 ---
 title: "Arroz-doce integral e zero açúcar"
-date: 2018-03-22T18:30:06.537Z
+date: 2018-03-22T20:13:09.365Z
 draft: false
 tags: ["Arroz e Risoto","Cozido","Brasileira","Dia a Dia","Festa Junina","Alimentação saudável","Doces","receita"]
 categories: ["Receitas"]

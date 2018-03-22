@@ -1,6 +1,6 @@
 ---
 title: "Este hambúrguer de cogumelos é rico em proteína. Anote a receita!"
-date: 2018-03-22T18:30:22.009Z
+date: 2018-03-22T20:13:21.003Z
 draft: false
 tags: ["Legume e Verdura","Grelhado","Americana","Dia a Dia","Alimentação vegana","Hambúrguer","Veganismo"]
 categories: ["Receitas"]

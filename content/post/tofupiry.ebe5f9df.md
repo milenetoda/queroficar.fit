@@ -1,6 +1,6 @@
 ---
 title: "Tofupiry"
-date: 2018-03-22T18:30:15.227Z
+date: 2018-03-22T20:13:15.467Z
 draft: false
 tags: ["Molhos e Patês","Cozido","Brasileira","Dia a Dia","Vegetariana","Aliados da Dieta","Alimentação saudável","vegetariana","Vegetarianismo"]
 categories: ["Receitas"]

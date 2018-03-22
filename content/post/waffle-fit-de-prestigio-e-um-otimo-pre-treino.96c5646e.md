@@ -1,6 +1,6 @@
 ---
 title: "Waffle fit de prestígio é um ótimo pré-treino"
-date: 2018-03-22T18:30:25.926Z
+date: 2018-03-22T20:13:19.731Z
 draft: false
 tags: ["Massa","Assado","Americana","Dia a Dia","Alimentação saudável","Massa","Sobremesa"]
 categories: ["Receitas"]

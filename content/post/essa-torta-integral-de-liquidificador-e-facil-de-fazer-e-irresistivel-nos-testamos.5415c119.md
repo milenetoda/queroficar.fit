@@ -1,6 +1,6 @@
 ---
 title: "Essa torta integral de liquidificador é fácil de fazer e irresistível. Nós testamos!"
-date: 2018-03-22T18:30:29.067Z
+date: 2018-03-22T20:13:28.535Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

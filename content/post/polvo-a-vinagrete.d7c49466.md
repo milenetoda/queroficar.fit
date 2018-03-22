@@ -1,6 +1,6 @@
 ---
 title: "Polvo à vinagrete"
-date: 2018-03-22T18:29:54.013Z
+date: 2018-03-22T20:13:00.096Z
 draft: false
 tags: ["Peixe ou fruto do mar","Cozido","Gelado","Brasileira","Ocasiões Especiais","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

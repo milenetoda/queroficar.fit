@@ -1,6 +1,6 @@
 ---
 title: "Suco verde com abacaxi, couve e óleo de coco"
-date: 2018-03-22T18:29:55.484Z
+date: 2018-03-22T20:13:01.088Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

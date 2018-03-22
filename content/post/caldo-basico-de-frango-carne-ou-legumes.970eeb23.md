@@ -1,6 +1,6 @@
 ---
 title: "Caldo básico de frango, carne ou legumes"
-date: 2018-03-22T18:30:09.155Z
+date: 2018-03-22T20:13:10.325Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

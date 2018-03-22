@@ -1,6 +1,6 @@
 ---
 title: "Água detox para fazer uma faxina no organismo e ficar mais leve"
-date: 2018-03-22T18:30:25.331Z
+date: 2018-03-22T20:13:23.669Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Alimentação saudável","Detox","Dietas detox"]
 categories: ["Receitas"]

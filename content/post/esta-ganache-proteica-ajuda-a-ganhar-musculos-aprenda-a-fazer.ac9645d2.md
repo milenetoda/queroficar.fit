@@ -1,6 +1,6 @@
 ---
 title: "Esta ganache proteica ajuda a ganhar músculos. Aprenda a fazer!"
-date: 2018-03-22T18:30:23.161Z
+date: 2018-03-22T20:13:21.641Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Chocolate amargo","Sobremesa"]
 categories: ["Receitas"]

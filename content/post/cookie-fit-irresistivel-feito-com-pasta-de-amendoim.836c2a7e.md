@@ -1,6 +1,6 @@
 ---
 title: "Cookie fit (irresistível) feito com pasta de amendoim"
-date: 2018-03-22T18:30:31.037Z
+date: 2018-03-22T20:13:29.270Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","Light"]
 categories: ["Receitas"]

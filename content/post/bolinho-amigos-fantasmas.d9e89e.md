@@ -1,6 +1,6 @@
 ---
 title: "Bolinho amigos fantasmas"
-date: 2018-03-22T18:30:35.599Z
+date: 2018-03-22T20:13:32.606Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Aniversário","Vegetariana"]
 categories: ["Receitas"]

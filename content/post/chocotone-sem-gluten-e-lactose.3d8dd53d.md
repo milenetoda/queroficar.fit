@@ -1,8 +1,8 @@
 ---
 title: "Chocotone sem glúten e lactose"
-date: 2018-03-22T18:29:57.896Z
+date: 2018-03-22T20:13:02.008Z
 draft: false
-tags: ["Panetone","Assado","Brasileira","Natal","Sem glúten;Sem lactose","Natal - Panetone","Receitas","Receitas com chocolate","Receitas de Natal","Receitas simples e fáceis"]
+tags: ["Panetone","Assado","Brasileira","Natal","Sem glúten","Sem lactose","Natal - Panetone","Receitas","Receitas com chocolate","Receitas de Natal","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/chocotone-sem-gluten-e-lactose.3d8dd53d.jpeg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Poke havaiano"
-date: 2018-03-22T18:30:03.116Z
+date: 2018-03-22T20:13:06.831Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Cru","Asiática","Ocasiões Especiais","Fruta - Abacate","peixe","Receitas com frutas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Aprenda a fazer um delicioso quiche integral de abobrinha"
-date: 2018-03-22T18:30:20.052Z
+date: 2018-03-22T20:13:19.781Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Ocasiões Especiais","Alimentação light","Alimentação saudável","Receitas"]
 categories: ["Receitas"]

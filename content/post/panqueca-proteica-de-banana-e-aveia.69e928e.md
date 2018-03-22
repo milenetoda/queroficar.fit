@@ -1,6 +1,6 @@
 ---
 title: "Panqueca proteica de banana e aveia"
-date: 2018-03-22T18:29:59.939Z
+date: 2018-03-22T20:13:03.932Z
 draft: false
 tags: ["Massa","Tapioca e crepioca","Chapeado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","receita fácil","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

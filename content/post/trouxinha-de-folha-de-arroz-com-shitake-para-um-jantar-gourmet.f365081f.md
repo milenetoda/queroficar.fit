@@ -1,6 +1,6 @@
 ---
 title: "Trouxinha de folha de arroz com shitake para um jantar gourmet"
-date: 2018-03-22T18:30:25.937Z
+date: 2018-03-22T20:13:25.073Z
 draft: false
 tags: ["Torta Salgada e Quiche","Refogado","Brasileira","Dia a Dia","Receitas"]
 categories: ["Receitas"]

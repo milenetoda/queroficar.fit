@@ -1,6 +1,6 @@
 ---
 title: "Wraps vegano de tofu, curry e papaia"
-date: 2018-03-22T18:30:24.604Z
+date: 2018-03-22T20:13:23.391Z
 draft: false
 tags: ["Sanduíche","Gelado","Brasileira","Ocasiões Especiais","Alimentação saudável","Veganismo"]
 categories: ["Receitas"]

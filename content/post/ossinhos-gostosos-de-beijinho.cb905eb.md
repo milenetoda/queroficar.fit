@@ -1,6 +1,6 @@
 ---
 title: "Ossinhos gostosos de beijinho"
-date: 2018-03-22T18:30:35.776Z
+date: 2018-03-22T20:13:32.628Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Aniversário","Vegetariana"]
 categories: ["Receitas"]

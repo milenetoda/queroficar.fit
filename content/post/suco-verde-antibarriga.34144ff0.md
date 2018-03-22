@@ -1,6 +1,6 @@
 ---
 title: "Suco verde antibarriga"
-date: 2018-03-22T18:30:32.824Z
+date: 2018-03-22T20:13:30.269Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Nutrição"]
 categories: ["Receitas"]

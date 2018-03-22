@@ -1,6 +1,6 @@
 ---
 title: "Torta fit de amora para um lanche especial"
-date: 2018-03-22T18:30:21.580Z
+date: 2018-03-22T20:13:20.749Z
 draft: false
 tags: ["Torta Doce","Assado","Brasileira","Ocasiões Especiais","Tortas doces e salgadas"]
 categories: ["Receitas"]

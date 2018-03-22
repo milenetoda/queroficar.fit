@@ -1,6 +1,6 @@
 ---
 title: "Flan proteico de abacate"
-date: 2018-03-22T18:30:08.928Z
+date: 2018-03-22T20:13:10.999Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Dietas ricas em proteína","receita"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Bolinhas proteicas de coco e cacau"
-date: 2018-03-22T18:30:16.252Z
+date: 2018-03-22T20:13:16.054Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","coco","Proteínas","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

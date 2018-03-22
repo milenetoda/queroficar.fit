@@ -1,6 +1,6 @@
 ---
 title: "Dip de abacate com biscoito de arroz integral"
-date: 2018-03-22T18:30:12.722Z
+date: 2018-03-22T20:13:13.823Z
 draft: false
 tags: ["Molhos e Patês","Gelado","Brasileira","Dia a Dia","Vegetariana","Fruta - Abacate"]
 categories: ["Receitas"]

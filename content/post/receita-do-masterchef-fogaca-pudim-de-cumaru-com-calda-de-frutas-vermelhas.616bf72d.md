@@ -1,6 +1,6 @@
 ---
 title: "Receita do masterChef Fogaça: pudim de cumaru com calda de frutas vermelhas"
-date: 2018-03-22T18:30:25.803Z
+date: 2018-03-22T20:13:24.879Z
 draft: false
 tags: ["Torta Doce","Cozido","Brasileira","Ocasiões Especiais","Chefs"]
 categories: ["Receitas"]

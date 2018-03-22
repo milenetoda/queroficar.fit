@@ -1,6 +1,6 @@
 ---
 title: "Shake proteico de açaí e morango"
-date: 2018-03-22T18:30:00.981Z
+date: 2018-03-22T20:13:04.226Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentos funcionais","Receitas","Receitas com frutas","Receitas simples e fáceis","Shakes"]
 categories: ["Receitas"]

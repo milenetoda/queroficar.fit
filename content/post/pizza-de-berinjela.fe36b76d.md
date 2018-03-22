@@ -1,6 +1,6 @@
 ---
 title: "Pizza de berinjela"
-date: 2018-03-22T18:30:32.525Z
+date: 2018-03-22T20:13:30.975Z
 draft: false
 tags: ["Pizza","Assado","Brasileira","Ocasiões Especiais","Dia da Pizza","Pizza"]
 categories: ["Receitas"]

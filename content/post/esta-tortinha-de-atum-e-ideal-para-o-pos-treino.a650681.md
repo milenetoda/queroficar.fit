@@ -1,6 +1,6 @@
 ---
 title: "Esta tortinha de atum é ideal para o pós-treino"
-date: 2018-03-22T18:30:22.539Z
+date: 2018-03-22T20:13:22.356Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Proteínas","Tortas doces e salgadas"]
 categories: ["Receitas"]

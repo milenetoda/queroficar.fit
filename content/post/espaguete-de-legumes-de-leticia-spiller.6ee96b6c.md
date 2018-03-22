@@ -1,6 +1,6 @@
 ---
 title: "Espaguete de legumes de Letícia Spiller"
-date: 2018-03-22T18:30:07.307Z
+date: 2018-03-22T20:13:09.432Z
 draft: false
 tags: ["Legume e Verdura","Massa","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Boa Forma","receita fácil","receita leve","receita saudável","Receitas"]
 categories: ["Receitas"]

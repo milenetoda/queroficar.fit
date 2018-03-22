@@ -1,6 +1,6 @@
 ---
 title: "Salgado de frango e couve-flor"
-date: 2018-03-22T18:30:32.525Z
+date: 2018-03-22T20:13:30.208Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Alimentação saudável"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Palha italiana saudável"
-date: 2018-03-22T18:30:03.549Z
+date: 2018-03-22T20:13:07.066Z
 draft: false
 tags: ["Biscoito e Bolacha","Gelado","Brasileira","Dia a Dia","doce","Sobremesa"]
 categories: ["Receitas"]

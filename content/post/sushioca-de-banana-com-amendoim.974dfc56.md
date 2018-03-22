@@ -1,6 +1,6 @@
 ---
 title: "Sushioca de banana com amendoim"
-date: 2018-03-22T18:30:15.099Z
+date: 2018-03-22T20:13:15.634Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis","Tapioca"]
 categories: ["Receitas"]

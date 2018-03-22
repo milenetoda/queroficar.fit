@@ -1,8 +1,8 @@
 ---
 title: "Pasta de repolho roxo"
-date: 2018-03-22T18:30:04.878Z
+date: 2018-03-22T20:13:07.130Z
 draft: false
-tags: ["Antepasto","Cozido","Brasileira","Dia a Dia","Vegana;Vegetariana","patê","repolho"]
+tags: ["Antepasto","Cozido","Brasileira","Dia a Dia","Vegana","Vegetariana","patê","repolho"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-repolho-roxo.d093defb.jpg"
 ---

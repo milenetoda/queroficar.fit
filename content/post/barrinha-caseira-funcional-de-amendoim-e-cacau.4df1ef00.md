@@ -1,6 +1,6 @@
 ---
 title: "Barrinha caseira funcional de amendoim e cacau"
-date: 2018-03-22T18:30:04.222Z
+date: 2018-03-22T20:13:06.942Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Ocasiões Especiais","Alimentação saudável","receita"]
 categories: ["Receitas"]

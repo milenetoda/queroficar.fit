@@ -1,6 +1,6 @@
 ---
 title: "Panqueca fit com pasta de amendoim para ganhar energia"
-date: 2018-03-22T18:30:25.346Z
+date: 2018-03-22T20:13:24.177Z
 draft: false
 tags: ["Massa","Quente","Brasileira","Dia a Dia","Alimentação light","Alimentação saudável"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Quiche de palmito com massa de batata-doce e linhaça"
-date: 2018-03-22T18:30:02.734Z
+date: 2018-03-22T20:13:05.420Z
 draft: false
-tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Sem glúten;Sem lactose","Alimentação saudável","comida vegetariana","Quiches","Receitas","Receitas sem glúten","Vegetais e legumes"]
+tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Sem glúten","Sem lactose","Alimentação saudável","comida vegetariana","Quiches","Receitas","Receitas sem glúten","Vegetais e legumes"]
 categories: ["Receitas"]
 featured_image: "/post/quiche-de-palmito-com-massa-de-batata-doce-e-linhaca.893e800c.jpg"
 ---

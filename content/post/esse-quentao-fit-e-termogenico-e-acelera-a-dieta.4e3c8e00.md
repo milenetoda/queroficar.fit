@@ -1,6 +1,6 @@
 ---
 title: "Esse quentão fit é termogênico e acelera a dieta"
-date: 2018-03-22T18:30:26.760Z
+date: 2018-03-22T20:13:24.585Z
 draft: false
 tags: ["Bebidas","Quente","Brasileira","Festa Junina","Festas","#InstaBOAFORMA","Alimentação light","Especial Receitas de Festas Junina","Festa Junina","Termogênicos"]
 categories: ["Receitas"]

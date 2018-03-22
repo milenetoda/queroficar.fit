@@ -1,6 +1,6 @@
 ---
 title: "Salada de lentilha germinada com cebola roxa e tomate"
-date: 2018-03-22T18:30:03.176Z
+date: 2018-03-22T20:13:06.133Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Alimentação saudável","Alimentação vegana"]
 categories: ["Receitas"]

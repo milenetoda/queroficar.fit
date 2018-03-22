@@ -1,6 +1,6 @@
 ---
 title: "Escondidinho de inhame e carne moída"
-date: 2018-03-22T18:29:56.723Z
+date: 2018-03-22T20:13:01.372Z
 draft: false
 tags: ["Carne","Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Alimentação saudável"]
 categories: ["Receitas"]

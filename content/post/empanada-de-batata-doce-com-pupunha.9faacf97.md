@@ -1,6 +1,6 @@
 ---
 title: "Empanada de batata-doce com pupunha"
-date: 2018-03-22T18:30:00.000Z
+date: 2018-03-22T20:13:04.053Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Festas","Leve e Saudável","Alimentação saudável","Batata-doce","Receitas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

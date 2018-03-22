@@ -1,6 +1,6 @@
 ---
 title: "Terrine de queijo de cabra com figo e noz"
-date: 2018-03-22T18:30:03.095Z
+date: 2018-03-22T20:13:06.057Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Aniversário","Dia a Dia","Festas","Natal","Ocasiões Especiais","Alimentação saudável","queijo","receita"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Festa Junina: canjica proteica segura a fome por mais tempo"
-date: 2018-03-22T18:30:25.436Z
+date: 2018-03-22T20:13:24.358Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Festa Junina","Festas","#InstaBOAFORMA","Alimentação saudável","Especial Receitas de Festas Junina","Festa Junina"]
 categories: ["Receitas"]

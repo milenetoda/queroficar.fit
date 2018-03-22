@@ -1,6 +1,6 @@
 ---
 title: "Pudim de coco com geleia de jabuticaba"
-date: 2018-03-22T18:30:01.906Z
+date: 2018-03-22T20:13:04.837Z
 draft: false
 tags: ["Pudim","Cozido","Brasileira","Dia a Dia","Leve e Saudável","coco","jabuticaba","Pudim","Sobremesa"]
 categories: ["Receitas"]

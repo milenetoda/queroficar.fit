@@ -1,6 +1,6 @@
 ---
 title: "Coco em fitas caramelizado"
-date: 2018-03-22T18:30:12.987Z
+date: 2018-03-22T20:13:14.280Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","coco","Doces","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Almôndegas com aveia"
-date: 2018-03-22T18:30:00.334Z
+date: 2018-03-22T20:13:04.392Z
 draft: false
 tags: ["Carne","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

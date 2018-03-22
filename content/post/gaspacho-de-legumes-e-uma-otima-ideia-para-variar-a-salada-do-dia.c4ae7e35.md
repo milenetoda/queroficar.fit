@@ -1,6 +1,6 @@
 ---
 title: "Gaspacho de legumes é uma ótima ideia para variar a salada do dia"
-date: 2018-03-22T18:30:22.044Z
+date: 2018-03-22T20:13:21.427Z
 draft: false
 tags: ["Sopa e Caldo","Gelado","Portuguesa","Dia a Dia","Sopas e caldos"]
 categories: ["Receitas"]

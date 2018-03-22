@@ -1,6 +1,6 @@
 ---
 title: "Esse pesto de rúcula vai acrescentar sabor ao seu cardápio"
-date: 2018-03-22T18:30:29.770Z
+date: 2018-03-22T20:13:28.336Z
 draft: false
 tags: ["Molhos e Patês","Cru","Italiana","Dia a Dia"]
 categories: ["Receitas"]

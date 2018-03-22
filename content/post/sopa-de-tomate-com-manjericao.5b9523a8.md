@@ -1,6 +1,6 @@
 ---
 title: "Sopa de tomate com manjericão"
-date: 2018-03-22T18:29:57.893Z
+date: 2018-03-22T20:13:02.206Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Light","dieta","light","Sopa","tomate"]
 categories: ["Receitas"]

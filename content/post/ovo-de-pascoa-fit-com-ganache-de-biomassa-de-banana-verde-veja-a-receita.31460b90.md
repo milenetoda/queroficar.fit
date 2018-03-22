@@ -1,8 +1,8 @@
 ---
 title: "Ovo de Páscoa fit com ganache de biomassa de banana verde. Veja a receita"
-date: 2018-03-22T18:30:31.887Z
+date: 2018-03-22T20:13:29.977Z
 draft: false
-tags: ["Doce Caseiro","Gelado","Brasileira","Páscoa","Sem glúten;Sem lactose","Páscoa"]
+tags: ["Doce Caseiro","Gelado","Brasileira","Páscoa","Sem glúten","Sem lactose","Páscoa"]
 categories: ["Receitas"]
 featured_image: "/post/ovo-de-pascoa-fit-com-ganache-de-biomassa-de-banana-verde-veja-a-receita.31460b90.jpg"
 ---

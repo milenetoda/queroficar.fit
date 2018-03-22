@@ -1,6 +1,6 @@
 ---
 title: "Festa Junina Light: arroz doce integral leve e saudável"
-date: 2018-03-22T18:30:27.399Z
+date: 2018-03-22T20:13:25.804Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Festa Junina","Light","Alimentação light","Especial Receitas de Festas Junina"]
 categories: ["Receitas"]

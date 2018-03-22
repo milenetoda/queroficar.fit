@@ -1,6 +1,6 @@
 ---
 title: "Shake de frutas vermelhas com chia"
-date: 2018-03-22T18:30:17.332Z
+date: 2018-03-22T20:13:17.081Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Detox","Shakes"]
 categories: ["Receitas"]

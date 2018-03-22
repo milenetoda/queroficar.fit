@@ -1,6 +1,6 @@
 ---
 title: "Smoothie laranja"
-date: 2018-03-22T18:29:59.403Z
+date: 2018-03-22T20:13:03.967Z
 draft: false
 tags: ["Fruta","Cru","Brasileira","Dia a Dia","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

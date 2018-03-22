@@ -1,6 +1,6 @@
 ---
 title: "Espaguete de pupunha e abobrinha é uma ótima opção de jantar low carb"
-date: 2018-03-22T18:30:22.785Z
+date: 2018-03-22T20:13:21.870Z
 draft: false
 tags: ["Massa","Cozido","Brasileira","Ocasiões Especiais","Alimentação saudável"]
 categories: ["Receitas"]

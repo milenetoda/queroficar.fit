@@ -1,8 +1,8 @@
 ---
 title: "Pizza marguerita light"
-date: 2018-03-22T18:30:36.475Z
+date: 2018-03-22T20:13:32.967Z
 draft: false
-tags: ["Pizza","Assado","Árabe","Páscoa","Light;Vegetariana","Alimentação saudável","Pizza"]
+tags: ["Pizza","Assado","Árabe","Páscoa","Light","Vegetariana","Alimentação saudável","Pizza"]
 categories: ["Receitas"]
 featured_image: "/post/pizza-marguerita-light.da17ae94.jpg"
 ---

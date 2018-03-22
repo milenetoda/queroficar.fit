@@ -1,6 +1,6 @@
 ---
 title: "Picolé natural de uva e água de coco"
-date: 2018-03-22T18:30:16.990Z
+date: 2018-03-22T20:13:16.834Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Picolés","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

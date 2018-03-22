@@ -1,6 +1,6 @@
 ---
 title: "Brigadeiro de colher com biomassa de banana verde"
-date: 2018-03-22T18:30:15.005Z
+date: 2018-03-22T20:13:14.898Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Dia a Dia","Doces","Receitas","Receitas com chocolate","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Pasta de salsa"
-date: 2018-03-22T18:30:11.797Z
+date: 2018-03-22T20:13:12.753Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Light;Vegana;Vegetariana","#InstaBOAFORMA","receita fácil","receita light;","receita sem glúten","receita sem lactose","receita simples e saudável","Receitas rápidas"]
+tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Light","Vegana","Vegetariana","#InstaBOAFORMA","receita fácil","receita light","receita sem glúten","receita sem lactose","receita simples e saudável","Receitas rápidas"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-salsa.621eb083.jpg"
 ---

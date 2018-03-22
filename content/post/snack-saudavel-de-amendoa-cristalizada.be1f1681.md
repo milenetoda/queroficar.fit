@@ -1,6 +1,6 @@
 ---
 title: "Snack saudável de amêndoa cristalizada"
-date: 2018-03-22T18:30:02.579Z
+date: 2018-03-22T20:13:05.357Z
 draft: false
 tags: ["Doce Caseiro","Quente","Brasileira","Dia a Dia","Ocasiões Especiais","amêndoas","lanche","Nutrição","receita"]
 categories: ["Receitas"]

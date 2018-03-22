@@ -1,6 +1,6 @@
 ---
 title: "Salada de berinjela low carb"
-date: 2018-03-22T18:29:59.906Z
+date: 2018-03-22T20:13:03.991Z
 draft: false
 tags: ["Salada","Assado","Brasileira","Dia a Dia","Leve e Saudável","Pratos leves - Saladas","salada"]
 categories: ["Receitas"]

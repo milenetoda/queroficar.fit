@@ -1,6 +1,6 @@
 ---
 title: "Torta de chocolate glúten free"
-date: 2018-03-22T18:30:20.172Z
+date: 2018-03-22T20:13:19.847Z
 draft: false
 tags: ["Torta Doce","Assado","Brasileira","Dia a Dia","Sem glúten","Chocolate","Receitas sem glúten","Tortas doces e salgadas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Creme de abacate"
-date: 2018-03-22T18:30:33.025Z
+date: 2018-03-22T20:13:30.760Z
 draft: false
 tags: ["Musse","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

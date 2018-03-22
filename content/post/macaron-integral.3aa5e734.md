@@ -1,6 +1,6 @@
 ---
 title: "Macaron integral"
-date: 2018-03-22T18:29:59.232Z
+date: 2018-03-22T20:13:03.720Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Francesa","Aniversário","Festas","Leve e Saudável","Doces","receita saudável","Receitas","Receitas com chocolate"]
 categories: ["Receitas"]

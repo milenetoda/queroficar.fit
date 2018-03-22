@@ -1,6 +1,6 @@
 ---
 title: "Pizzaioca: pizza com massa de tapioca"
-date: 2018-03-22T18:30:13.361Z
+date: 2018-03-22T20:13:14.795Z
 draft: false
 tags: ["Pizza","Tapioca e crepioca","Cozido","Brasileira","Dia a Dia","Pizza","receita simples e saudável","Receitas","Receitas rápidas","Receitas sem glúten","Tapioca"]
 categories: ["Receitas"]

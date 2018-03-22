@@ -1,6 +1,6 @@
 ---
 title: "Creme de avelã de saudável"
-date: 2018-03-22T18:30:12.233Z
+date: 2018-03-22T20:13:13.645Z
 draft: false
 tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável"]
 categories: ["Receitas"]

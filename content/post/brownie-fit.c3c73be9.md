@@ -1,6 +1,6 @@
 ---
 title: "Brownie fit"
-date: 2018-03-22T18:30:10.963Z
+date: 2018-03-22T20:13:12.333Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","#InstaBOAFORMA","Aliados da Dieta","Alimentação","Alimentação saudável","Comes & Bebes"]
 categories: ["Receitas"]

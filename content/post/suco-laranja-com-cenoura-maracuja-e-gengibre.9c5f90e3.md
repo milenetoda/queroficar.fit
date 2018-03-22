@@ -1,6 +1,6 @@
 ---
 title: "Suco laranja com cenoura, maracujá e gengibre"
-date: 2018-03-22T18:29:55.720Z
+date: 2018-03-22T20:13:00.815Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

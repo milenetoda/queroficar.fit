@@ -1,6 +1,6 @@
 ---
 title: "Arroz com frango e maçã"
-date: 2018-03-22T18:30:34.359Z
+date: 2018-03-22T20:13:31.938Z
 draft: false
 tags: ["Arroz e Risoto","Cozido","Refogado","Brasileira","Aniversário","Vegetariana"]
 categories: ["Receitas"]

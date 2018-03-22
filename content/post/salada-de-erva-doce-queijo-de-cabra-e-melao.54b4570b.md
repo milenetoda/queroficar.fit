@@ -1,6 +1,6 @@
 ---
 title: "Salada de erva-doce, queijo de cabra e melão"
-date: 2018-03-22T18:30:16.433Z
+date: 2018-03-22T20:13:16.383Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Pratos leves - Saladas","Queijos","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

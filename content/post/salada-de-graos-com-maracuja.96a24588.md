@@ -1,6 +1,6 @@
 ---
 title: "Salada de grãos com maracujá"
-date: 2018-03-22T18:29:56.607Z
+date: 2018-03-22T20:13:01.578Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","dieta","Nutrição","Pratos leves - Saladas","Receitas","salada"]
 categories: ["Receitas"]

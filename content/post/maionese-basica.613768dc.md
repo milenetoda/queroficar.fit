@@ -1,6 +1,6 @@
 ---
 title: "Maionese Básica"
-date: 2018-03-22T18:30:19.056Z
+date: 2018-03-22T20:13:19.112Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Receitas simples e fáceis"]
 categories: ["Receitas"]

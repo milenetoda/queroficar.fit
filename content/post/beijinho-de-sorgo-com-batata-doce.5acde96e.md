@@ -1,6 +1,6 @@
 ---
 title: "Beijinho de sorgo com batata-doce"
-date: 2018-03-22T18:30:00.992Z
+date: 2018-03-22T20:13:04.265Z
 draft: false
 tags: ["Docinho e Salgadinho","Cozido","Gelado","Brasileira","Festas","Batata-doce","doce caseiro","Doces","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

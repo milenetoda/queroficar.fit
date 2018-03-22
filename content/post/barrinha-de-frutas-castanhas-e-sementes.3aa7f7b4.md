@@ -1,8 +1,8 @@
 ---
 title: "Barrinha de frutas, castanhas e sementes"
-date: 2018-03-22T18:30:16.208Z
+date: 2018-03-22T20:13:15.950Z
 draft: false
-tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Barrinha de cereal","Receitas rápidas","Receitas simples e fáceis"]
+tags: ["Doce Caseiro","Cru","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Barrinha de cereal","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/barrinha-de-frutas-castanhas-e-sementes.3aa7f7b4.jpg"
 ---

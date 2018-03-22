@@ -1,6 +1,6 @@
 ---
 title: "Mingau proteico de micro-ondas"
-date: 2018-03-22T18:30:32.522Z
+date: 2018-03-22T20:13:30.346Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Café da manhã","Dietas à base de proteínas","Dietas ricas em proteína","Proteínas"]
 categories: ["Receitas"]

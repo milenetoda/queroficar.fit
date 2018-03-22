@@ -1,6 +1,6 @@
 ---
 title: "Salmão com ervilha e aspargo para um jantar simples e saudável"
-date: 2018-03-22T18:30:22.081Z
+date: 2018-03-22T20:13:21.362Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Assado","Brasileira","Dia a Dia","Alimentação light","Peixes e frutos do mar","Pratos leves - Saladas"]
 categories: ["Receitas"]

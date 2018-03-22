@@ -1,6 +1,6 @@
 ---
 title: "Biscoito cru de amêndoas e chocolate"
-date: 2018-03-22T18:30:07.310Z
+date: 2018-03-22T20:13:09.832Z
 draft: false
 tags: ["Biscoito e Bolacha","Cru","Brasileira","Dia a Dia","Biscoito e bolacha","Chocolate","Receitas","Receitas com chocolate","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

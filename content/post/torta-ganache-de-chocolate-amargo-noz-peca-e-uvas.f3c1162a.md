@@ -1,6 +1,6 @@
 ---
 title: "Torta ganache de chocolate amargo, noz-pecã e uvas"
-date: 2018-03-22T18:30:18.111Z
+date: 2018-03-22T20:13:17.829Z
 draft: false
 tags: ["Torta Doce","Assado","Brasileira","Natal","Alimentação saudável","Lactose","Natal"]
 categories: ["Receitas"]

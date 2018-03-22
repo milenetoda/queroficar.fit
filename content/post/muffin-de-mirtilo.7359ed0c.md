@@ -1,6 +1,6 @@
 ---
 title: "Muffin de mirtilo"
-date: 2018-03-22T18:29:54.002Z
+date: 2018-03-22T20:12:59.733Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Sem glúten","Alimentação saudável","receita sem glúten"]
 categories: ["Receitas"]

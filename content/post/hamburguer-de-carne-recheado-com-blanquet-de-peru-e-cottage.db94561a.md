@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer de carne recheado com blanquet de peru e cottage"
-date: 2018-03-22T18:30:27.406Z
+date: 2018-03-22T20:13:25.803Z
 draft: false
 tags: ["Sanduíche","Fritura","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

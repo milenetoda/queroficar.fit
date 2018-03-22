@@ -1,8 +1,8 @@
 ---
 title: "Pão de mandioquinha sem glúten"
-date: 2018-03-22T18:29:59.230Z
+date: 2018-03-22T20:13:03.407Z
 draft: false
-tags: ["Pão","Assado","Brasileira","Dia a Dia","Sem glúten;Sem lactose","Pão","Receitas","Receitas sem glúten","Receitas simples e fáceis"]
+tags: ["Pão","Assado","Brasileira","Dia a Dia","Sem glúten","Sem lactose","Pão","Receitas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/pao-de-mandioquinha-sem-gluten.3afcfa07.jpeg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Espaguete de legumes ao pesto de manjericão"
-date: 2018-03-22T18:30:14.450Z
+date: 2018-03-22T20:13:15.856Z
 draft: false
 tags: ["Legume e Verdura","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Dietas à base de legumes","Vegetais e legumes"]
 categories: ["Receitas"]

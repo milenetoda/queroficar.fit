@@ -1,6 +1,6 @@
 ---
 title: "Smoothie roxo antioxidante"
-date: 2018-03-22T18:30:01.046Z
+date: 2018-03-22T20:13:04.422Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

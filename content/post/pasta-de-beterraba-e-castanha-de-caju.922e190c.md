@@ -1,8 +1,8 @@
 ---
 title: "Pasta de beterraba e castanha de caju"
-date: 2018-03-22T18:29:53.171Z
+date: 2018-03-22T20:12:58.635Z
 draft: false
-tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana;Vegetariana","beterraba","castanha de caju","patê","Receitas","Receitas rápidas","Receitas simples e fáceis"]
+tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Vegana","Vegetariana","beterraba","castanha de caju","patê","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/pasta-de-beterraba-e-castanha-de-caju.922e190c.jpg"
 ---

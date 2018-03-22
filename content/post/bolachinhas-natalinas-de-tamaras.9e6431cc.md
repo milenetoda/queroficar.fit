@@ -1,6 +1,6 @@
 ---
 title: "Bolachinhas natalinas de tâmaras"
-date: 2018-03-22T18:29:57.214Z
+date: 2018-03-22T20:13:02.004Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Natal","Biscoito e bolacha","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

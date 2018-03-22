@@ -1,6 +1,6 @@
 ---
 title: "Quinua refogada"
-date: 2018-03-22T18:29:59.919Z
+date: 2018-03-22T20:13:03.996Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Quinoa","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

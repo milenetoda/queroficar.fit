@@ -1,8 +1,8 @@
 ---
 title: "Creme de milho vegano"
-date: 2018-03-22T18:30:11.133Z
+date: 2018-03-22T20:13:12.346Z
 draft: false
-tags: ["Suflê","Cozido","Brasileira","Dia a Dia","Vegana;Vegetariana","Alimentação","Alimentação saudável","Alimentação vegana","Dieta vegana","Receitas"]
+tags: ["Suflê","Cozido","Brasileira","Dia a Dia","Vegana","Vegetariana","Alimentação","Alimentação saudável","Alimentação vegana","Dieta vegana","Receitas"]
 categories: ["Receitas"]
 featured_image: "/post/creme-de-milho-vegano.1b2e8c9c.jpg"
 ---

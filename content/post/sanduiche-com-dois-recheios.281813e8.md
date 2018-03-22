@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche com dois recheios"
-date: 2018-03-22T18:30:36.032Z
+date: 2018-03-22T20:13:32.968Z
 draft: false
 tags: ["Sanduíche","Cru","Brasileira","Dia a Dia","Vegetariana"]
 categories: ["Receitas"]

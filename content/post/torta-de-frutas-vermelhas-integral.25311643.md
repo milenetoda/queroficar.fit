@@ -1,6 +1,6 @@
 ---
 title: "Torta de frutas vermelhas integral"
-date: 2018-03-22T18:30:08.866Z
+date: 2018-03-22T20:13:10.340Z
 draft: false
 tags: ["Torta Doce","Assado","Brasileira","Dia a Dia","doce","receita","tortas"]
 categories: ["Receitas"]

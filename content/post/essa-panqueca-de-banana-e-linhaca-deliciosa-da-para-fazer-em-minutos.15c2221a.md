@@ -1,6 +1,6 @@
 ---
 title: "Essa panqueca de banana e linhaça (deliciosa!) dá para fazer em minutos"
-date: 2018-03-22T18:30:31.082Z
+date: 2018-03-22T20:13:29.389Z
 draft: false
 tags: ["Massa","Fritura","Brasileira","Ano Novo"]
 categories: ["Receitas"]

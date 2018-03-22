@@ -1,6 +1,6 @@
 ---
 title: "Farofa low carb"
-date: 2018-03-22T18:29:58.581Z
+date: 2018-03-22T20:13:02.979Z
 draft: false
 tags: ["Farofa","Refogado","Brasileira","Dia a Dia","Festas","Natal","Ocasiões Especiais","Dieta e nutrição","Natal","Nutrição","receita"]
 categories: ["Receitas"]

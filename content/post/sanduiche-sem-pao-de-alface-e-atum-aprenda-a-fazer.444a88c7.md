@@ -1,6 +1,6 @@
 ---
 title: "Sanduíche sem pão de alface e atum. Aprenda a fazer!"
-date: 2018-03-22T18:30:19.789Z
+date: 2018-03-22T20:13:19.783Z
 draft: false
 tags: ["Sanduíche","Gelado","Brasileira","Ocasiões Especiais","#InstaBOAFORMA","Alimentação saudável","Peixes e frutos do mar","Receitas simples e fáceis"]
 categories: ["Receitas"]

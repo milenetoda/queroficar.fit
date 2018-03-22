@@ -1,6 +1,6 @@
 ---
 title: "Esta pipoca termogênica é uma ótima opção de lanchinho fit"
-date: 2018-03-22T18:30:22.064Z
+date: 2018-03-22T20:13:21.563Z
 draft: false
 tags: ["Antepasto","Cozido","Brasileira","Dia a Dia","Alimentos termogênicos","Propriedades alimentares","Termogênicos"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Essa pizza de abobrinha grelhada tem massa 100% integral"
-date: 2018-03-22T18:30:31.643Z
+date: 2018-03-22T20:13:28.881Z
 draft: false
 tags: ["Pizza","Assado","Italiana","Ocasiões Especiais","Integral (exclusivamente integral)"]
 categories: ["Receitas"]

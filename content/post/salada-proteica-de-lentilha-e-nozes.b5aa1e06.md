@@ -1,6 +1,6 @@
 ---
 title: "Salada proteica de lentilha e nozes"
-date: 2018-03-22T18:30:04.531Z
+date: 2018-03-22T20:13:07.228Z
 draft: false
 tags: ["Salada","Cozido","Brasileira","Dia a Dia","Alimentação saudável","Pratos leves - Saladas"]
 categories: ["Receitas"]

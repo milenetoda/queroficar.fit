@@ -1,6 +1,6 @@
 ---
 title: "Sorvete de manga e hortelã"
-date: 2018-03-22T18:30:14.522Z
+date: 2018-03-22T20:13:14.957Z
 draft: false
 tags: ["Sorvete","Cru","Brasileira","Dia a Dia","Sem Lactose","Receitas com frutas","Receitas rápidas","Receitas sem glúten","Sorvetes"]
 categories: ["Receitas"]

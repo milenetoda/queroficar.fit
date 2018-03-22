@@ -1,6 +1,6 @@
 ---
 title: "Pão de grill de batata-doce"
-date: 2018-03-22T18:29:52.721Z
+date: 2018-03-22T20:12:58.862Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Leve e Saudável","Batata-doce","Fontes de energia","Pão","Receitas simples e fáceis"]
 categories: ["Receitas"]

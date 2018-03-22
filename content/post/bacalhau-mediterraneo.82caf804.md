@@ -1,6 +1,6 @@
 ---
 title: "Bacalhau mediterrâneo"
-date: 2018-03-22T18:30:12.144Z
+date: 2018-03-22T20:13:13.326Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Assado","Portuguesa","Páscoa","Peixes"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Rolinhos de pepino com tartar de wasabi"
-date: 2018-03-22T18:29:51.729Z
+date: 2018-03-22T20:12:58.655Z
 draft: false
 tags: ["Antepasto","Cru","Japonesa","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","receita saudável"]
 categories: ["Receitas"]

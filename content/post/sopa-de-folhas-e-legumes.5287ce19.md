@@ -1,6 +1,6 @@
 ---
 title: "Sopa de folhas e legumes"
-date: 2018-03-22T18:29:59.151Z
+date: 2018-03-22T20:13:03.016Z
 draft: false
 tags: ["Sopa e Caldo","Quente","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","dieta","Nutrição","Sopa"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Maionese de azeite e mostarda"
-date: 2018-03-22T18:29:57.791Z
+date: 2018-03-22T20:13:01.363Z
 draft: false
 tags: ["Molhos e Patês","Cru","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","Alimentação saudável","maionese","Receitas","Receitas light","Receitas simples e fáceis"]
 categories: ["Receitas"]

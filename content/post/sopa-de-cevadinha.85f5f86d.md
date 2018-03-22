@@ -1,6 +1,6 @@
 ---
 title: "Sopa de cevadinha"
-date: 2018-03-22T18:30:07.280Z
+date: 2018-03-22T20:13:09.416Z
 draft: false
 tags: ["Sopa e Caldo","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação","Alimentação saudável","receita simples e saudável","Sopa","Sopas e caldos"]
 categories: ["Receitas"]

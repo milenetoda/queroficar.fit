@@ -1,6 +1,6 @@
 ---
 title: "Panqueca de coco low carb"
-date: 2018-03-22T18:30:27.400Z
+date: 2018-03-22T20:13:25.249Z
 draft: false
 tags: ["Massa","Grelhado","Americana","Dia a Dia"]
 categories: ["Receitas"]

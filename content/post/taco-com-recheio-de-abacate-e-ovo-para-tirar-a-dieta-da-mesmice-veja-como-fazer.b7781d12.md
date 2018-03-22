@@ -1,6 +1,6 @@
 ---
 title: "Taco com recheio de abacate e ovo para tirar a dieta da mesmice. Veja como fazer!"
-date: 2018-03-22T18:30:31.950Z
+date: 2018-03-22T20:13:29.978Z
 draft: false
 tags: ["Sanduíche","Cru","Mexicana","Ocasiões Especiais"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Pasta de amendoim germinado e ervas"
-date: 2018-03-22T18:30:10.443Z
+date: 2018-03-22T20:13:10.879Z
 draft: false
 tags: ["Molhos e Patês","Cru","Americana","Dia a Dia","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

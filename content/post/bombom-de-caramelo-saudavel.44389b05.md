@@ -1,6 +1,6 @@
 ---
 title: "Bombom de caramelo saudável"
-date: 2018-03-22T18:29:53.366Z
+date: 2018-03-22T20:12:58.917Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Leve e Saudável","Alimentos funcionais","óleo de coco","bombom","Chocolate amargo","Doces","Sobremesa"]
 categories: ["Receitas"]

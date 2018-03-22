@@ -1,6 +1,6 @@
 ---
 title: "Bombom fit feito com pasta de amendoim"
-date: 2018-03-22T18:30:23.370Z
+date: 2018-03-22T20:13:23.402Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Festas","Docinhos de festa","Sobremesa"]
 categories: ["Receitas"]

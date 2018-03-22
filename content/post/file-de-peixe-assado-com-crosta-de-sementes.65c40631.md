@@ -1,6 +1,6 @@
 ---
 title: "Filé de peixe assado com crosta de sementes"
-date: 2018-03-22T18:30:07.124Z
+date: 2018-03-22T20:13:09.765Z
 draft: false
 tags: ["Peixe ou fruto do mar","Assado","Brasileira","Dia a Dia","Leve e Saudável","receita leve","receita saudável","receita simples e saudável"]
 categories: ["Receitas"]

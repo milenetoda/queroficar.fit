@@ -1,6 +1,6 @@
 ---
 title: "Salmão selado com ovos benedict para ganhar músculos"
-date: 2018-03-22T18:30:19.386Z
+date: 2018-03-22T20:13:19.126Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Grelhado","Brasileira","Dia a Dia","Ovos","Receitas simples e fáceis"]
 categories: ["Receitas"]

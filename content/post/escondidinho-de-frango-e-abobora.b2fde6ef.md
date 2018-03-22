@@ -1,6 +1,6 @@
 ---
 title: "Escondidinho de frango e abóbora"
-date: 2018-03-22T18:30:12.772Z
+date: 2018-03-22T20:13:13.965Z
 draft: false
 tags: ["Frango e Aves","Cozido","Gratinado","Brasileira","Dia a Dia","Receitas","Receitas com frango","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Pasta de cenoura e curry"
-date: 2018-03-22T18:30:11.455Z
+date: 2018-03-22T20:13:11.543Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","Vegana","Alimentação vegana","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Espaguete palha"
-date: 2018-03-22T18:30:15.800Z
+date: 2018-03-22T20:13:16.031Z
 draft: false
 tags: ["Massa","Assado","Cozido","Brasileira","Dia a Dia","Massa","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

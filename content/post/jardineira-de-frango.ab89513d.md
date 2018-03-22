@@ -1,6 +1,6 @@
 ---
 title: "Jardineira de frango"
-date: 2018-03-22T18:30:03.099Z
+date: 2018-03-22T20:13:05.993Z
 draft: false
 tags: ["Frango e Aves","Legume e Verdura","Refogado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

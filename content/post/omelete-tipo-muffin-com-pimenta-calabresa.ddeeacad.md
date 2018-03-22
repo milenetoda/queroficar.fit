@@ -1,6 +1,6 @@
 ---
 title: "Omelete tipo muffin com pimenta calabresa"
-date: 2018-03-22T18:30:01.598Z
+date: 2018-03-22T20:13:04.877Z
 draft: false
 tags: ["Omelete","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Vegetariana","ovo","receita","receita fácil","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

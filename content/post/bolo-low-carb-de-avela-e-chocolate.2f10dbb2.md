@@ -1,6 +1,6 @@
 ---
 title: "Bolo low carb de avelã e chocolate"
-date: 2018-03-22T18:30:14.300Z
+date: 2018-03-22T20:13:14.662Z
 draft: false
 tags: ["Bolinho e Cupcake","Bolo com Recheio","Assado","Brasileira","Ocasiões Especiais","Sem Lactose","Bolo de chocolate","Chocolate","receita sem lactose","Receitas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

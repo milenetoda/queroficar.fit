@@ -1,6 +1,6 @@
 ---
 title: "Lasanha de abóbora com frango sem glúten"
-date: 2018-03-22T18:30:27.998Z
+date: 2018-03-22T20:13:26.697Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

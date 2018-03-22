@@ -1,6 +1,6 @@
 ---
 title: "Panqueca americana funcional de coco"
-date: 2018-03-22T18:29:54.739Z
+date: 2018-03-22T20:13:00.095Z
 draft: false
 tags: ["Doce Caseiro","Grelhado","Brasileira","Dia a Dia","Ocasiões Especiais","Alimentação saudável","dieta","panqueca","receita"]
 categories: ["Receitas"]

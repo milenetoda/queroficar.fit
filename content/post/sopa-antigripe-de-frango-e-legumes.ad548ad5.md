@@ -1,6 +1,6 @@
 ---
 title: "Sopa antigripe de frango e legumes"
-date: 2018-03-22T18:30:06.573Z
+date: 2018-03-22T20:13:09.034Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Detox","Legumes","Receitas","Receitas com frango","Receitas simples e fáceis","Sopa"]
 categories: ["Receitas"]

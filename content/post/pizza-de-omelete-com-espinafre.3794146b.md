@@ -1,8 +1,8 @@
 ---
 title: "Pizza de omelete com espinafre"
-date: 2018-03-22T18:30:14.642Z
+date: 2018-03-22T20:13:15.023Z
 draft: false
-tags: ["Omelete","Pizza","Cozido","Brasileira","Aniversário","Dia a Dia","Vegana;Vegetariana","Receitas light","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
+tags: ["Omelete","Pizza","Cozido","Brasileira","Aniversário","Dia a Dia","Vegana","Vegetariana","Receitas light","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/pizza-de-omelete-com-espinafre.3794146b.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Carne de jaca"
-date: 2018-03-22T18:30:15.615Z
+date: 2018-03-22T20:13:15.444Z
 draft: false
 tags: ["Carne","Cozido","Brasileira","Dia a Dia","Vegana","Alimentação saudável","Receitas","vegetariana","Vegetarianismo"]
 categories: ["Receitas"]

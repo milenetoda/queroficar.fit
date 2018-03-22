@@ -1,6 +1,6 @@
 ---
 title: "Pode comemorar. Esta pizza light está liberada!"
-date: 2018-03-22T18:30:31.038Z
+date: 2018-03-22T20:13:28.655Z
 draft: false
 tags: ["Pizza","Assado","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

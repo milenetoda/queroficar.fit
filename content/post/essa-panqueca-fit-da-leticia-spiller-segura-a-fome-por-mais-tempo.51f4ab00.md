@@ -1,6 +1,6 @@
 ---
 title: "Essa panqueca fit da Leticia Spiller segura a fome por mais tempo"
-date: 2018-03-22T18:30:28.289Z
+date: 2018-03-22T20:13:27.071Z
 draft: false
 tags: ["Massa","Assado","Americana","Dia a Dia"]
 categories: ["Receitas"]

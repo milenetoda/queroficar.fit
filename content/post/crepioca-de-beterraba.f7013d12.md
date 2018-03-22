@@ -1,6 +1,6 @@
 ---
 title: "Crepioca de beterraba"
-date: 2018-03-22T18:30:15.170Z
+date: 2018-03-22T20:13:15.641Z
 draft: false
 tags: ["Omelete","Quente","Brasileira","Dia a Dia","Vegetariana","Aliados da Dieta","vegetariana","Vegetarianismo"]
 categories: ["Receitas"]

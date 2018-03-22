@@ -1,6 +1,6 @@
 ---
 title: "Caipirinha fit com gengibre, água, chia e limão"
-date: 2018-03-22T18:30:14.415Z
+date: 2018-03-22T20:13:15.066Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Festas","Bebidas alcoólicas","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Omelete de champignon"
-date: 2018-03-22T18:30:29.191Z
+date: 2018-03-22T20:13:27.645Z
 draft: false
 tags: ["Sanduíche","Assado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

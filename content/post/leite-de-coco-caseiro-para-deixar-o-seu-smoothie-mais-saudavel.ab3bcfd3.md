@@ -1,6 +1,6 @@
 ---
 title: "Leite de coco caseiro para deixar o seu smoothie mais saudável"
-date: 2018-03-22T18:30:28.278Z
+date: 2018-03-22T20:13:26.343Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

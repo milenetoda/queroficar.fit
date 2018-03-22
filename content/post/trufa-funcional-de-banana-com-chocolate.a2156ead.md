@@ -1,6 +1,6 @@
 ---
 title: "Trufa funcional de banana com chocolate"
-date: 2018-03-22T18:30:00.909Z
+date: 2018-03-22T20:13:04.579Z
 draft: false
 tags: ["Docinho e Salgadinho","Gelado","Brasileira","Chocolate","doce","Doces"]
 categories: ["Receitas"]

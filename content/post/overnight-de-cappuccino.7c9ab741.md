@@ -1,6 +1,6 @@
 ---
 title: "Overnight de cappuccino"
-date: 2018-03-22T18:29:53.325Z
+date: 2018-03-22T20:12:59.661Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Café","Café da manhã","Doces","frutas vermelhas","Receitas","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

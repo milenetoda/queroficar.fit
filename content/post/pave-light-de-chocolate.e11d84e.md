@@ -1,6 +1,6 @@
 ---
 title: "Pavê light de chocolate"
-date: 2018-03-22T18:30:34.260Z
+date: 2018-03-22T20:13:31.655Z
 draft: false
 tags: ["Pavê","Cozido","Gelado","Brasileira","Aniversário","Dia a Dia","Light"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Pão integral sem glúten"
-date: 2018-03-22T18:30:09.160Z
+date: 2018-03-22T20:13:10.944Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Sem glúten","Pão","receita fácil","Receitas sem glúten"]
 categories: ["Receitas"]

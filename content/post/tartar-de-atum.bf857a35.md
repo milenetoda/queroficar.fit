@@ -1,6 +1,6 @@
 ---
 title: "Tartar de atum"
-date: 2018-03-22T18:30:35.639Z
+date: 2018-03-22T20:13:32.943Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Salada","Cru","Francesa","Páscoa"]
 categories: ["Receitas"]

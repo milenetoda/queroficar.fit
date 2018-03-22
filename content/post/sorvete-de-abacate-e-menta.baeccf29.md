@@ -1,6 +1,6 @@
 ---
 title: "Sorvete de abacate e menta"
-date: 2018-03-22T18:30:14.415Z
+date: 2018-03-22T20:13:14.900Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia","Receitas","Sorvetes"]
 categories: ["Receitas"]

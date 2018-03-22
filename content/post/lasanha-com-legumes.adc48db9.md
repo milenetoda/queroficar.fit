@@ -1,8 +1,8 @@
 ---
 title: "Lasanha com legumes"
-date: 2018-03-22T18:29:53.367Z
+date: 2018-03-22T20:12:59.419Z
 draft: false
-tags: ["Massa","Refogado","Brasileira","Dia a Dia","Light;Vegetariana","receita","receita leve","receita light;","receita saudável","receita simples e saudável","Receitas simples e fáceis"]
+tags: ["Massa","Refogado","Brasileira","Dia a Dia","Light","Vegetariana","receita","receita leve","receita light","receita saudável","receita simples e saudável","Receitas simples e fáceis"]
 categories: ["Receitas"]
 featured_image: "/post/lasanha-com-legumes.adc48db9.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Esse picolé de avocado e cacau é fit e refresca"
-date: 2018-03-22T18:30:29.644Z
+date: 2018-03-22T20:13:27.286Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Ocasiões Especiais","Leve e Saudável"]
 categories: ["Receitas"]

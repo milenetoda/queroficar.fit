@@ -1,6 +1,6 @@
 ---
 title: "Muffin de quinoa com frango"
-date: 2018-03-22T18:30:18.117Z
+date: 2018-03-22T20:13:18.568Z
 draft: false
 tags: ["Frango e Aves","Assado","Brasileira","Dia a Dia","Proteínas","Quinoa","Receitas com frango"]
 categories: ["Receitas"]

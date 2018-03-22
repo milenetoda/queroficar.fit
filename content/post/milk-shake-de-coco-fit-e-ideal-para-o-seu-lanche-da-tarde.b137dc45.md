@@ -1,6 +1,6 @@
 ---
 title: "Milk-shake de coco fit é ideal para o seu lanche da tarde"
-date: 2018-03-22T18:30:25.939Z
+date: 2018-03-22T20:13:24.854Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

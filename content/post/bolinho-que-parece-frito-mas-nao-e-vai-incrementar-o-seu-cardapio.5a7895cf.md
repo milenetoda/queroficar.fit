@@ -1,6 +1,6 @@
 ---
 title: "Bolinho que parece frito (mas não é!) vai incrementar o seu cardápio"
-date: 2018-03-22T18:30:29.184Z
+date: 2018-03-22T20:13:27.814Z
 draft: false
 tags: ["Antepasto","Assado","Brasileira","Dia a Dia","Vegana"]
 categories: ["Receitas"]

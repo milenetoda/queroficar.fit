@@ -1,8 +1,8 @@
 ---
 title: "Salada indiana de grão-de-bico com quinua e castanha de caju"
-date: 2018-03-22T18:30:16.595Z
+date: 2018-03-22T20:13:16.329Z
 draft: false
-tags: ["Salada","Refogado","Indiana","Dia a Dia","Ocasiões Especiais","Vegana;Vegetariana","Alimentação saudável","Alimentação vegana","Alimentos aliados da beleza","Alimentos funcionais","Pratos leves - Saladas","Vegetais e legumes","vegetariana","Vegetarianismo"]
+tags: ["Salada","Refogado","Indiana","Dia a Dia","Ocasiões Especiais","Vegana","Vegetariana","Alimentação saudável","Alimentação vegana","Alimentos aliados da beleza","Alimentos funcionais","Pratos leves - Saladas","Vegetais e legumes","vegetariana","Vegetarianismo"]
 categories: ["Receitas"]
 featured_image: "/post/salada-indiana-de-grao-de-bico-com-quinua-e-castanha-de-caju.e18ef916.jpeg"
 ---

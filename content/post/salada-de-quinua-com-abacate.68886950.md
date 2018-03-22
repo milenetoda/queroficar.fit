@@ -1,6 +1,6 @@
 ---
 title: "Salada de quinua com abacate"
-date: 2018-03-22T18:30:12.607Z
+date: 2018-03-22T20:13:13.938Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","Fruta - Abacate","Pratos leves - Saladas","Quinoa","Receitas","Receitas rápidas","Receitas simples e fáceis","Vegetarianismo"]
 categories: ["Receitas"]

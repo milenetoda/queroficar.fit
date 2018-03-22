@@ -1,6 +1,6 @@
 ---
 title: "Brownie “turbo” para dar energia extra no treino"
-date: 2018-03-22T18:30:23.439Z
+date: 2018-03-22T20:13:23.530Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Ocasiões Especiais","Alimentação saudável","Doces"]
 categories: ["Receitas"]

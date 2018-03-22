@@ -1,6 +1,6 @@
 ---
 title: "Guirlanda de Natal"
-date: 2018-03-22T18:29:57.901Z
+date: 2018-03-22T20:13:02.362Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Natal","Leve e Saudável","Alimentação saudável","Natal","Natal - Guirlanda","Receitas","Receitas de Natal"]
 categories: ["Receitas"]

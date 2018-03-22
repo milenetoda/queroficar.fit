@@ -1,6 +1,6 @@
 ---
 title: "Receita de fondue de chocolate com biomassa de banana verde"
-date: 2018-03-22T18:30:24.579Z
+date: 2018-03-22T20:13:23.899Z
 draft: false
 tags: ["Doce Caseiro","Cozido","Brasileira","Ocasiões Especiais","Alimentação saudável","Chocolate","Receitas"]
 categories: ["Receitas"]

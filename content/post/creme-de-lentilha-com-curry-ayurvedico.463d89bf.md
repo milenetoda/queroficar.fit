@@ -1,6 +1,6 @@
 ---
 title: "Creme de lentilha com curry ayurvédico"
-date: 2018-03-22T18:30:05.383Z
+date: 2018-03-22T20:13:07.902Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Receitas","Receitas rápidas","Receitas simples e fáceis","Sopas e caldos","Vegetais e legumes"]
 categories: ["Receitas"]

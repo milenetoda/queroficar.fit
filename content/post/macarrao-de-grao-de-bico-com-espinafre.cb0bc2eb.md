@@ -1,6 +1,6 @@
 ---
 title: "Macarrão de grão-de-bico com espinafre"
-date: 2018-03-22T18:30:16.456Z
+date: 2018-03-22T20:13:16.701Z
 draft: false
 tags: ["Massa","Cozido","Refogado","Brasileira","Dia a Dia","macarrão","Receitas sem glúten","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Receita de choco nuts fit para comer sem culpa"
-date: 2018-03-22T18:30:28.465Z
+date: 2018-03-22T20:13:26.740Z
 draft: false
 tags: ["Docinho e Salgadinho","Cozido","Brasileira","Dia a Dia","Alimentação saudável"]
 categories: ["Receitas"]

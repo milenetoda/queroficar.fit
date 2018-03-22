@@ -1,6 +1,6 @@
 ---
 title: "Risoto de abobrinha, escarola e salmão"
-date: 2018-03-22T18:30:36.353Z
+date: 2018-03-22T20:13:32.900Z
 draft: false
 tags: ["Arroz e Risoto","Legume e Verdura","Peixe e Fruto do Mar","Peixe ou fruto do mar","Refogado","Árabe","Natal","Vegetariana","Arroz e risoto"]
 categories: ["Receitas"]

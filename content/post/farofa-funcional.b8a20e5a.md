@@ -1,6 +1,6 @@
 ---
 title: "Farofa funcional"
-date: 2018-03-22T18:30:12.261Z
+date: 2018-03-22T20:13:13.647Z
 draft: false
 tags: ["Farofa","Cru","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável","Comes & Bebes","Dietas para emagrecer"]
 categories: ["Receitas"]

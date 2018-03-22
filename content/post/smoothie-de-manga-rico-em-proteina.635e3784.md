@@ -1,6 +1,6 @@
 ---
 title: "Smoothie de manga rico em proteína"
-date: 2018-03-22T18:30:24.305Z
+date: 2018-03-22T20:13:23.528Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais","Alimentação saudável","Bebidas"]
 categories: ["Receitas"]

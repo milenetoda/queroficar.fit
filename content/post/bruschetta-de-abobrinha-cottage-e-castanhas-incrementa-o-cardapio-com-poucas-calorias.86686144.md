@@ -1,6 +1,6 @@
 ---
 title: "Bruschetta de abobrinha, cottage e castanhas incrementa o cardápio com poucas calorias"
-date: 2018-03-22T18:30:31.502Z
+date: 2018-03-22T20:13:29.144Z
 draft: false
 tags: ["Legume e Verdura","Cru","Brasileira","Dia a Dia","Vegetariana"]
 categories: ["Receitas"]

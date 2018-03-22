@@ -1,6 +1,6 @@
 ---
 title: "Wrap carne-seca com purê de abóbora"
-date: 2018-03-22T18:30:35.664Z
+date: 2018-03-22T20:13:33.027Z
 draft: false
 tags: ["Sanduíche","Cozido","Árabe","Páscoa","Light"]
 categories: ["Receitas"]

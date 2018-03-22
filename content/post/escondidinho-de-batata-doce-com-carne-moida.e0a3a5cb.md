@@ -1,6 +1,6 @@
 ---
 title: "Escondidinho de batata-doce com carne moída"
-date: 2018-03-22T18:30:12.229Z
+date: 2018-03-22T20:13:13.535Z
 draft: false
 tags: ["Massa","Quente","Brasileira","Aliados da Dieta","Alimentação","dieta"]
 categories: ["Receitas"]

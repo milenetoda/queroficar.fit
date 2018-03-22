@@ -1,6 +1,6 @@
 ---
 title: "Este macarrão proteico está liberado na dieta. Aprenda a fazer!"
-date: 2018-03-22T18:30:22.579Z
+date: 2018-03-22T20:13:21.600Z
 draft: false
 tags: ["Massa","Cozido","Japonesa","Dia a Dia","Dietas à base de proteínas","Massa"]
 categories: ["Receitas"]

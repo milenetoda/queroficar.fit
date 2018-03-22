@@ -1,6 +1,6 @@
 ---
 title: "Pizza com massa de couve-flor"
-date: 2018-03-22T18:29:58.579Z
+date: 2018-03-22T20:13:02.989Z
 draft: false
 tags: ["Massa","Assado","Brasileira","Dia a Dia","Festas","Leve e Saudável","Alimentação saudável","Pizza","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

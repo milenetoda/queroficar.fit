@@ -1,6 +1,6 @@
 ---
 title: "Bolo integral de chocolate de caneca"
-date: 2018-03-22T18:30:02.220Z
+date: 2018-03-22T20:13:05.464Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Leve e Saudável","Aliados da Dieta","receita saudável"]
 categories: ["Receitas"]

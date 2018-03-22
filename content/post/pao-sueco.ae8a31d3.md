@@ -1,6 +1,6 @@
 ---
 title: "Pão sueco"
-date: 2018-03-22T18:30:12.540Z
+date: 2018-03-22T20:13:13.460Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Aliados da Dieta","Alimentação","Alimentação saudável","Pão"]
 categories: ["Receitas"]

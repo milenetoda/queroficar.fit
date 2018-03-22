@@ -1,6 +1,6 @@
 ---
 title: "Muffin de banana com gotas de chocolate"
-date: 2018-03-22T18:30:11.796Z
+date: 2018-03-22T20:13:12.797Z
 draft: false
 tags: ["Bolinho e Cupcake","Assado","Brasileira","Dia a Dia","Bolo","Bolos simples e fáceis","Chocolate","Receitas","Receitas com chocolate","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

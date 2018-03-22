@@ -1,6 +1,6 @@
 ---
 title: "Frango crocante com ervas e farelo de aveia"
-date: 2018-03-22T18:29:56.363Z
+date: 2018-03-22T20:13:01.444Z
 draft: false
 tags: ["Frango e Aves","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","frango","receita","Receitas com frango"]
 categories: ["Receitas"]

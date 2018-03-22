@@ -1,6 +1,6 @@
 ---
 title: "Bolo de coco low carb"
-date: 2018-03-22T18:30:03.402Z
+date: 2018-03-22T20:13:06.157Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Aniversário","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","Bolo","Receitas"]
 categories: ["Receitas"]

@@ -1,8 +1,8 @@
 ---
 title: "Receita de bolo de fubá vegano"
-date: 2018-03-22T18:30:28.067Z
+date: 2018-03-22T20:13:26.755Z
 draft: false
-tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Light;Sem glúten;Vegana;Vegetariana"]
+tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Light","Sem glúten","Vegana","Vegetariana"]
 categories: ["Receitas"]
 featured_image: "/post/receita-de-bolo-de-fuba-vegano.3461d063.jpg"
 ---

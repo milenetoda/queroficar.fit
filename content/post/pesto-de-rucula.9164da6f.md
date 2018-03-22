@@ -1,6 +1,6 @@
 ---
 title: "Pesto de rúcula"
-date: 2018-03-22T18:30:11.233Z
+date: 2018-03-22T20:13:13.210Z
 draft: false
 tags: ["Antepasto","Molhos e Patês","Cru","Italiana","molhos"]
 categories: ["Receitas"]

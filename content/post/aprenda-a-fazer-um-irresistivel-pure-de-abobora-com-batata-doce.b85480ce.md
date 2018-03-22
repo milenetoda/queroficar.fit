@@ -1,6 +1,6 @@
 ---
 title: "Aprenda a fazer um irresistível purê de abóbora com batata-doce"
-date: 2018-03-22T18:30:20.695Z
+date: 2018-03-22T20:13:20.280Z
 draft: false
 tags: ["Legume e Verdura","Cozido","Brasileira","Ocasiões Especiais","Alimentação light","Alimentação saudável","Nutrição"]
 categories: ["Receitas"]

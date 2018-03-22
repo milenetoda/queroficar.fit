@@ -1,6 +1,6 @@
 ---
 title: "Creme de abacate proteico para o pós-treino"
-date: 2018-03-22T18:30:28.498Z
+date: 2018-03-22T20:13:27.051Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

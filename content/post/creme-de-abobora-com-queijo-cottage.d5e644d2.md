@@ -1,6 +1,6 @@
 ---
 title: "Creme de abóbora com queijo cottage"
-date: 2018-03-22T18:30:35.647Z
+date: 2018-03-22T20:13:32.820Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Dietas à base de sopas","Sopas e caldos"]
 categories: ["Receitas"]

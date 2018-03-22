@@ -1,6 +1,6 @@
 ---
 title: "Brownie vegano de banana e nozes"
-date: 2018-03-22T18:30:10.188Z
+date: 2018-03-22T20:13:11.429Z
 draft: false
 tags: ["Doce Caseiro","Assado","Americana","Dia a Dia","Vegana","Alimentação vegana","Doces","receita","receita sem lactose","Receitas com chocolate","Veganismo"]
 categories: ["Receitas"]

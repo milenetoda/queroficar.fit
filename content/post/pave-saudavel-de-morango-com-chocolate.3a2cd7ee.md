@@ -1,6 +1,6 @@
 ---
 title: "Pavê saudável de morango com chocolate"
-date: 2018-03-22T18:30:05.228Z
+date: 2018-03-22T20:13:07.897Z
 draft: false
 tags: ["Doce Caseiro","Pavê","Assado","Gelado","Brasileira","Dia a Dia","pavê","pavê de chocolate","Receitas","Receitas com chocolate","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

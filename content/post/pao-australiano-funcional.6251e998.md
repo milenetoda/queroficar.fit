@@ -1,6 +1,6 @@
 ---
 title: "Pão australiano funcional"
-date: 2018-03-22T18:30:03.706Z
+date: 2018-03-22T20:13:07.173Z
 draft: false
 tags: ["Pão","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Alimentação saudável","receita","receita saudável"]
 categories: ["Receitas"]

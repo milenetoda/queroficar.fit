@@ -1,6 +1,6 @@
 ---
 title: "Crumble saudável de maçã"
-date: 2018-03-22T18:29:52.695Z
+date: 2018-03-22T20:12:58.425Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","Alimentos funcionais","Canela","Doces","Receitas com frutas","Receitas simples e fáceis","Sobremesa"]
 categories: ["Receitas"]

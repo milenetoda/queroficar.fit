@@ -1,6 +1,6 @@
 ---
 title: "Pavê de tâmaras e nozes livre de glúten e lactose"
-date: 2018-03-22T18:29:57.918Z
+date: 2018-03-22T20:13:02.525Z
 draft: false
 tags: ["Pavê","Gelado","Francesa","Festas","Natal","Leve e Saudável","Alimentação saudável","receita saudável"]
 categories: ["Receitas"]

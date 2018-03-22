@@ -1,6 +1,6 @@
 ---
 title: "Espaguete integral para um jantar leve e gostoso. Veja receita!"
-date: 2018-03-22T18:30:22.623Z
+date: 2018-03-22T20:13:21.836Z
 draft: false
 tags: ["Massa","Cozido","Italiana","Dia a Dia","Massa","Para Jantar"]
 categories: ["Receitas"]

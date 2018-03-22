@@ -1,6 +1,6 @@
 ---
 title: "Almôndega vegana de berinjela"
-date: 2018-03-22T18:29:54.208Z
+date: 2018-03-22T20:13:00.172Z
 draft: false
 tags: ["Legume e Verdura","Assado","Refogado","Brasileira","Dia a Dia","Vegana","almôndega","berinjela","receita saudável","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

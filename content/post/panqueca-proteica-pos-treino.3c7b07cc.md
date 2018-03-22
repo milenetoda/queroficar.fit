@@ -1,6 +1,6 @@
 ---
 title: "Panqueca proteica pós-treino"
-date: 2018-03-22T18:30:15.998Z
+date: 2018-03-22T20:13:16.616Z
 draft: false
 tags: ["Bolo Simples","Doce Caseiro","Cozido","Brasileira","Dia a Dia","Alimentação - cuidados","Alimentação saudável","Café da manhã","Esportes e Atividades Físicas","Treino","Treino das Famosas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Mochaccino light"
-date: 2018-03-22T18:30:34.200Z
+date: 2018-03-22T20:13:31.650Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Festa Junina","Light"]
 categories: ["Receitas"]

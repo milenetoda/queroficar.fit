@@ -1,6 +1,6 @@
 ---
 title: "Suco verde detox e termogênico para acelerar o metabolismo"
-date: 2018-03-22T18:30:20.329Z
+date: 2018-03-22T20:13:20.316Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Alimentos termogênicos","Bebidas","Detox","Dietas líquidas"]
 categories: ["Receitas"]

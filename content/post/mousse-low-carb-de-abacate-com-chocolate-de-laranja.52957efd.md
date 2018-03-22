@@ -1,6 +1,6 @@
 ---
 title: "Mousse low carb de abacate com chocolate de laranja"
-date: 2018-03-22T18:30:07.342Z
+date: 2018-03-22T20:13:09.445Z
 draft: false
 tags: ["Musse","Cru","Brasileira","Dia a Dia","Chocolate","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Bolo de banana com farinha de coco"
-date: 2018-03-22T18:30:02.456Z
+date: 2018-03-22T20:13:05.451Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Leve e Saudável"]
 categories: ["Receitas"]

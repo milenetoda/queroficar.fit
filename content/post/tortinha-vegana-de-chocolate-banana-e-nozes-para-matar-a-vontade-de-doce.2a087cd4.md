@@ -1,6 +1,6 @@
 ---
 title: "Tortinha vegana de chocolate, banana e nozes para matar a vontade de doce"
-date: 2018-03-22T18:30:20.707Z
+date: 2018-03-22T20:13:20.277Z
 draft: false
 tags: ["Torta Doce","Gelado","Brasileira","Dia a Dia","Festas","Doces","Sobremesa","Tortas doces e salgadas","Veganismo"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Suco de beterraba, abacaxi, melancia e limão"
-date: 2018-03-22T18:29:59.821Z
+date: 2018-03-22T20:13:03.458Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

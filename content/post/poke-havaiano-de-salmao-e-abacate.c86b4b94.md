@@ -1,6 +1,6 @@
 ---
 title: "Poke havaiano de salmão e abacate"
-date: 2018-03-22T18:29:55.193Z
+date: 2018-03-22T20:13:00.127Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Cru","Americana","Dia a Dia","Leve e Saudável","Peixes","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

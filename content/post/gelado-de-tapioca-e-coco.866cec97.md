@@ -1,6 +1,6 @@
 ---
 title: "Gelado de tapioca e coco"
-date: 2018-03-22T18:30:14.474Z
+date: 2018-03-22T20:13:15.071Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Alimentação saudável","Sorvetes"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Panqueca proteica de chocolate"
-date: 2018-03-22T18:30:15.992Z
+date: 2018-03-22T20:13:15.751Z
 draft: false
 tags: ["Doce Caseiro","Quente","Americana","Dia a Dia","Alimentação","Alimentação saudável","Doces"]
 categories: ["Receitas"]

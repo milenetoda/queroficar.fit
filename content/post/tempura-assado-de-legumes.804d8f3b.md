@@ -1,6 +1,6 @@
 ---
 title: "Tempurá assado de legumes"
-date: 2018-03-22T18:30:02.016Z
+date: 2018-03-22T20:13:05.359Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável"]
 categories: ["Receitas"]

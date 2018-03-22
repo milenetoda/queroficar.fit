@@ -1,8 +1,8 @@
 ---
 title: "Pastel Romeu e Julieta"
-date: 2018-03-22T18:30:35.331Z
+date: 2018-03-22T20:13:32.507Z
 draft: false
-tags: ["Docinho e Salgadinho","Fritura","Portuguesa","Aniversário","Sem glúten;Sem lactose"]
+tags: ["Docinho e Salgadinho","Fritura","Portuguesa","Aniversário","Sem glúten","Sem lactose"]
 categories: ["Receitas"]
 featured_image: "/post/pastel-romeu-e-julieta.d685e052.jpg"
 ---

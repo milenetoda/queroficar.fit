@@ -1,6 +1,6 @@
 ---
 title: "Truta ao forno com ervas frescas e limão-siciliano"
-date: 2018-03-22T18:29:55.775Z
+date: 2018-03-22T20:13:00.988Z
 draft: false
 tags: ["Peixe ou fruto do mar","Assado","Brasileira","Dia a Dia","Festas","Ocasiões Especiais","Páscoa","Leve e Saudável","Alimentação saudável","Peixes e frutos do mar","receita","receita saudável","~"]
 categories: ["Receitas"]

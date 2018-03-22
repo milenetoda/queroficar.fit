@@ -1,6 +1,6 @@
 ---
 title: "Coxinha de frango com batata-doce"
-date: 2018-03-22T18:30:10.103Z
+date: 2018-03-22T20:13:11.380Z
 draft: false
 tags: ["Frango e Aves","Assado","Brasileira","Festas","Sem glúten","Batata-doce","Receitas","Receitas com frango","Receitas rápidas","Receitas simples e fáceis","Salgados"]
 categories: ["Receitas"]

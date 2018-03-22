@@ -1,6 +1,6 @@
 ---
 title: "Receita do masterChef Fogaça: arroz negro com pupunha"
-date: 2018-03-22T18:30:26.037Z
+date: 2018-03-22T20:13:25.174Z
 draft: false
 tags: ["Arroz e Risoto","Assado","Cozido","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Salada de couve e grão-de-bico com molho de tahine"
-date: 2018-03-22T18:30:06.239Z
+date: 2018-03-22T20:13:08.824Z
 draft: false
 tags: ["Salada","Cozido","Cru","Árabe","Dia a Dia","Comida árabe","grão-de-bico","Pratos leves - Saladas","Receitas","Receitas light","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

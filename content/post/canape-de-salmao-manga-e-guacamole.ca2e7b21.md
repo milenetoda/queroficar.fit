@@ -1,6 +1,6 @@
 ---
 title: "Canapé de salmão, manga e guacamole"
-date: 2018-03-22T18:29:52.492Z
+date: 2018-03-22T20:12:58.431Z
 draft: false
 tags: ["Antepasto","Peixe ou fruto do mar","Cru","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","Fruta - Abacate","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis","Salmão"]
 categories: ["Receitas"]

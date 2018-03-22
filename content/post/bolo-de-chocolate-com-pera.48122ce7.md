@@ -1,6 +1,6 @@
 ---
 title: "Bolo de chocolate com pera"
-date: 2018-03-22T18:29:52.504Z
+date: 2018-03-22T20:12:58.613Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","Alimentação saudável","Bolo","bolo chocolate","Receitas","Receitas com chocolate","Receitas com frutas","Receitas simples e fáceis"]
 categories: ["Receitas"]

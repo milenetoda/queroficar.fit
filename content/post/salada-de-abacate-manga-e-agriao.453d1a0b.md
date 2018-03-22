@@ -1,6 +1,6 @@
 ---
 title: "Salada de abacate, manga e agrião"
-date: 2018-03-22T18:30:09.854Z
+date: 2018-03-22T20:13:11.426Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Aliados da Dieta","Alimentação saudável","Pratos leves - Saladas"]
 categories: ["Receitas"]

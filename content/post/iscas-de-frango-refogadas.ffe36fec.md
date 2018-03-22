@@ -1,6 +1,6 @@
 ---
 title: "Iscas de frango refogadas"
-date: 2018-03-22T18:30:00.877Z
+date: 2018-03-22T20:13:04.100Z
 draft: false
 tags: ["Frango e Aves","Refogado","Brasileira","Dia a Dia","frango","Receitas","Receitas com frango","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

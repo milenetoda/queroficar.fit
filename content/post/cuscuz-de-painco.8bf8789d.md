@@ -1,6 +1,6 @@
 ---
 title: "Cuscuz de painço"
-date: 2018-03-22T18:30:18.073Z
+date: 2018-03-22T20:13:17.643Z
 draft: false
 tags: ["Salada","Cozido","Brasileira","Dia a Dia","Dieta a base de grãos","Pratos leves - Saladas","Receitas simples e fáceis"]
 categories: ["Receitas"]

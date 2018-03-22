@@ -1,6 +1,6 @@
 ---
 title: "Caldo verde vegano"
-date: 2018-03-22T18:30:08.721Z
+date: 2018-03-22T20:13:10.000Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Vegana","Alimentação vegana","Dieta vegana","Receitas","Receitas de Restaurantes","Receitas simples e fáceis","Sopas e caldos","Veganismo"]
 categories: ["Receitas"]

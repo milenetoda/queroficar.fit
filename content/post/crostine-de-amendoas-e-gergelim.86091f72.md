@@ -1,6 +1,6 @@
 ---
 title: "Crostine de amêndoas e gergelim"
-date: 2018-03-22T18:30:24.765Z
+date: 2018-03-22T20:13:22.604Z
 draft: false
 tags: ["Antepasto","Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas","Aperitivo"]
 categories: ["Receitas"]

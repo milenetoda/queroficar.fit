@@ -1,6 +1,6 @@
 ---
 title: "Atum em crosta de gergelim para incrementar o menu com poucas calorias"
-date: 2018-03-22T18:30:26.752Z
+date: 2018-03-22T20:13:24.672Z
 draft: false
 tags: ["Peixe e Fruto do Mar","Peixe ou fruto do mar","Grelhado","Brasileira","Dia a Dia","Festas"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Ricota de amêndoas com ervas finas"
-date: 2018-03-22T18:30:10.503Z
+date: 2018-03-22T20:13:11.333Z
 draft: false
 tags: ["Antepasto","Gelado","Brasileira","Dia a Dia","Vegana","Alimentação vegana","Queijos","Receitas","Receitas simples e fáceis"]
 categories: ["Receitas"]

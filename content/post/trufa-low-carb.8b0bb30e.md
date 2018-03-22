@@ -1,8 +1,8 @@
 ---
 title: "Trufa Low Carb"
-date: 2018-03-22T18:30:11.697Z
+date: 2018-03-22T20:13:12.864Z
 draft: false
-tags: ["Doce Caseiro","Cru","Brasileira","Páscoa","Light;Vegana","Alimentos funcionais","amêndoas","doce","Doces","pasta de amendoim"]
+tags: ["Doce Caseiro","Cru","Brasileira","Páscoa","Light","Vegana","Alimentos funcionais","amêndoas","doce","Doces","pasta de amendoim"]
 categories: ["Receitas"]
 featured_image: "/post/trufa-low-carb.8b0bb30e.jpeg"
 ---

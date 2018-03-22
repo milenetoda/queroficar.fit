@@ -1,6 +1,6 @@
 ---
 title: "Receita de creme de cenoura com gengibre para um jantar levinho"
-date: 2018-03-22T18:30:24.830Z
+date: 2018-03-22T20:13:23.931Z
 draft: false
 tags: ["Sopa e Caldo","Cozido","Brasileira","Dia a Dia","Alimentação saudável","Receitas","Sopas e caldos"]
 categories: ["Receitas"]

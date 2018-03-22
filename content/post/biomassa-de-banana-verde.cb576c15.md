@@ -1,8 +1,8 @@
 ---
 title: "Biomassa de banana verde"
-date: 2018-03-22T18:30:32.475Z
+date: 2018-03-22T20:13:30.317Z
 draft: false
-tags: ["Musse","Cozido","Brasileira","Dia a Dia","Sem lactose;Vegana;Vegetariana"]
+tags: ["Musse","Cozido","Brasileira","Dia a Dia","Sem lactose","Vegana","Vegetariana"]
 categories: ["Receitas"]
 featured_image: "/post/biomassa-de-banana-verde.cb576c15.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cuscuz com shimeji é fit"
-date: 2018-03-22T18:30:26.760Z
+date: 2018-03-22T20:13:25.336Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Cozido","Marroquina","Dia a Dia"]
 categories: ["Receitas"]

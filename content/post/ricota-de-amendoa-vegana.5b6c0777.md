@@ -1,8 +1,8 @@
 ---
 title: "Ricota de amêndoa vegana"
-date: 2018-03-22T18:30:05.848Z
+date: 2018-03-22T20:13:07.845Z
 draft: false
-tags: ["Antepasto","Gelado","Brasileira","Dia a Dia","Vegana;Vegetariana","Alimentação","Alimentação saudável","Vegana"]
+tags: ["Antepasto","Gelado","Brasileira","Dia a Dia","Vegana","Vegetariana","Alimentação","Alimentação saudável","Vegana"]
 categories: ["Receitas"]
 featured_image: "/post/ricota-de-amendoa-vegana.5b6c0777.jpg"
 ---

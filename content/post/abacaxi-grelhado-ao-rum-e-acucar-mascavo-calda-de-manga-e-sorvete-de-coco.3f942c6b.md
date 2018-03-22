@@ -1,6 +1,6 @@
 ---
 title: "Abacaxi grelhado ao rum e açúcar mascavo, calda de manga e sorvete de coco"
-date: 2018-03-22T18:30:35.356Z
+date: 2018-03-22T20:13:31.935Z
 draft: false
 tags: ["Fruta","Sorvete","Gelado","Grelhado","Francesa","Aniversário","Ocasiões Especiais","Vegetariana"]
 categories: ["Receitas"]

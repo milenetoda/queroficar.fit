@@ -1,6 +1,6 @@
 ---
 title: "Esta caponata é uma ótima opção de entrada. Anote a receita!"
-date: 2018-03-22T18:30:23.411Z
+date: 2018-03-22T20:13:22.791Z
 draft: false
 tags: ["Antepasto","Assado","Italiana","Dia a Dia","Aperitivo","Dietas à base de legumes"]
 categories: ["Receitas"]

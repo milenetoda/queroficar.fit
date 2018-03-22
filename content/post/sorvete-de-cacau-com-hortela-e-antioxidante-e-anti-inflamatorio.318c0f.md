@@ -1,6 +1,6 @@
 ---
 title: "Sorvete de cacau com hortelã é antioxidante e anti-inflamatório"
-date: 2018-03-22T18:30:18.636Z
+date: 2018-03-22T20:13:18.140Z
 draft: false
 tags: ["Sorvete","Gelado","Brasileira","Dia a Dia","Chocolate","Dietas antioxidantes","Receitas com chocolate","Sorvetes"]
 categories: ["Receitas"]

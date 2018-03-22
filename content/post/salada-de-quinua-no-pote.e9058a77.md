@@ -1,6 +1,6 @@
 ---
 title: "Salada de quinua no pote"
-date: 2018-03-22T18:30:16.652Z
+date: 2018-03-22T20:13:17.206Z
 draft: false
 tags: ["Salada","Cozido","Cru","Brasileira","Dia a Dia","Marmita","Pratos leves - Saladas","Quinoa","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

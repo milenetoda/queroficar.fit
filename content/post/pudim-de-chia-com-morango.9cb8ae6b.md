@@ -1,6 +1,6 @@
 ---
 title: "Pudim de chia com morango"
-date: 2018-03-22T18:30:18.586Z
+date: 2018-03-22T20:13:18.292Z
 draft: false
 tags: ["Pudim","Gelado","Brasileira","Dia a Dia","#InstaBOAFORMA","Pudim","Receitas com frutas"]
 categories: ["Receitas"]

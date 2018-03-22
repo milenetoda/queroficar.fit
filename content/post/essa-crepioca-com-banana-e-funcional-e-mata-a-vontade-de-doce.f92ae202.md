@@ -1,6 +1,6 @@
 ---
 title: "Essa crepioca com banana é funcional e mata a vontade de doce"
-date: 2018-03-22T18:30:29.231Z
+date: 2018-03-22T20:13:26.973Z
 draft: false
 tags: ["Massa","Quente","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

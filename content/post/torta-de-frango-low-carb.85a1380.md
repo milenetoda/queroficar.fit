@@ -1,6 +1,6 @@
 ---
 title: "Torta de frango low carb"
-date: 2018-03-22T18:29:56.212Z
+date: 2018-03-22T20:13:01.152Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","Receitas","Receitas com frango","Receitas simples e fáceis","Tortas doces e salgadas"]
 categories: ["Receitas"]

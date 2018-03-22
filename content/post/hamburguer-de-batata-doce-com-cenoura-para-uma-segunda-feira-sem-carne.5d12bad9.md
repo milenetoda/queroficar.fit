@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer de batata-doce com cenoura para uma segunda-feira sem carne"
-date: 2018-03-22T18:30:23.089Z
+date: 2018-03-22T20:13:21.755Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Alimentação vegana","Hambúrguer","Veganismo"]
 categories: ["Receitas"]

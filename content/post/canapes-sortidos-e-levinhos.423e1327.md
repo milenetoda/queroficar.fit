@@ -1,6 +1,6 @@
 ---
 title: "Canapés sortidos e levinhos"
-date: 2018-03-22T18:30:06.014Z
+date: 2018-03-22T20:13:08.397Z
 draft: false
 tags: ["Molhos e Patês","Pão","Cru","Brasileira","Festas","Leve e Saudável","Alimentação","Alimentação saudável","receita simples e saudável"]
 categories: ["Receitas"]

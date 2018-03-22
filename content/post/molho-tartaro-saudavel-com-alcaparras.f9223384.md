@@ -1,6 +1,6 @@
 ---
 title: "Molho tártaro saudável com alcaparras"
-date: 2018-03-22T18:29:56.872Z
+date: 2018-03-22T20:13:01.135Z
 draft: false
 tags: ["Molhos e Patês","Gelado","Brasileira","Dia a Dia","Festas","Leve e Saudável","Alimentação saudável","Dieta e nutrição","Nutrição","receita"]
 categories: ["Receitas"]

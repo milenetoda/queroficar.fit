@@ -1,6 +1,6 @@
 ---
 title: "Esse chips de batata-doce roxa com molho picante acelera o metabolismo"
-date: 2018-03-22T18:30:31.035Z
+date: 2018-03-22T20:13:29.377Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Leve e Saudável"]
 categories: ["Receitas"]

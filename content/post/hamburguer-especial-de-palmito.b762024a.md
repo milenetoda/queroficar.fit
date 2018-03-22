@@ -1,6 +1,6 @@
 ---
 title: "Hambúrguer especial de palmito"
-date: 2018-03-22T18:30:33.517Z
+date: 2018-03-22T20:13:31.613Z
 draft: false
 tags: ["Legume e Verdura","Assado","Italiana","Natal","Vegetariana"]
 categories: ["Receitas"]

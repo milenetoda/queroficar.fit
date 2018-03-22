@@ -1,6 +1,6 @@
 ---
 title: "Arroz de couve-flor com ghee"
-date: 2018-03-22T18:30:05.236Z
+date: 2018-03-22T20:13:07.730Z
 draft: false
 tags: ["Arroz e Risoto","Refogado","Brasileira","Dia a Dia","Leve e Saudável","couve-flor","receita saudável","Receitas","Receitas rápidas","Vegetais e legumes"]
 categories: ["Receitas"]

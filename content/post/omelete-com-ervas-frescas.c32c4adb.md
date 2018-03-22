@@ -1,6 +1,6 @@
 ---
 title: "Omelete com ervas frescas"
-date: 2018-03-22T18:30:12.931Z
+date: 2018-03-22T20:13:13.821Z
 draft: false
 tags: ["Omelete","Cozido","Brasileira","Dia a Dia","Café da manhã","Omeletes","Ovos","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

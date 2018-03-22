@@ -1,6 +1,6 @@
 ---
 title: "Vitamina low carb de amora"
-date: 2018-03-22T18:30:08.857Z
+date: 2018-03-22T20:13:10.268Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia","Alimentação vegana","Bebidas","Complementos alimentares - vitaminas","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Essa mousse de cacau (irresistível) é fit e está liberada na dieta"
-date: 2018-03-22T18:30:30.222Z
+date: 2018-03-22T20:13:28.500Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

@@ -1,6 +1,6 @@
 ---
 title: "Carne moída de girassol com purê de batata-doce"
-date: 2018-03-22T18:30:16.564Z
+date: 2018-03-22T20:13:16.655Z
 draft: false
 tags: ["Grãos (arroz e feijão)","Legume e Verdura","Cozido","Refogado","Brasileira","Dia a Dia","vegetariana"]
 categories: ["Receitas"]

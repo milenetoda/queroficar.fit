@@ -1,6 +1,6 @@
 ---
 title: "Hommus de beterraba é ideal para o pré-treino"
-date: 2018-03-22T18:30:20.248Z
+date: 2018-03-22T20:13:20.142Z
 draft: false
 tags: ["Antepasto","Gelado","Brasileira","Dia a Dia","Aperitivo"]
 categories: ["Receitas"]

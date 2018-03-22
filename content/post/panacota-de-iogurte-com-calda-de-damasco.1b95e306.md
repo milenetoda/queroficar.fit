@@ -1,6 +1,6 @@
 ---
 title: "Panacota de iogurte com calda de damasco"
-date: 2018-03-22T18:29:57.867Z
+date: 2018-03-22T20:13:02.433Z
 draft: false
 tags: ["Musse","Gelado","Italiana","Festas","Natal","Leve e Saudável","Alimentação saudável","Doces","Doces Natalinos","Iogurte","receita saudável","Receitas","Receitas de Natal","Receitas simples e fáceis"]
 categories: ["Receitas"]

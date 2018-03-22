@@ -1,6 +1,6 @@
 ---
 title: "Aro de legumes"
-date: 2018-03-22T18:29:56.431Z
+date: 2018-03-22T20:13:01.182Z
 draft: false
 tags: ["Legume e Verdura","Assado","Brasileira","Dia a Dia","Vegetariana","Alimentação saudável","Receitas","Receitas rápidas","Receitas simples e fáceis","Vegetais e legumes"]
 categories: ["Receitas"]

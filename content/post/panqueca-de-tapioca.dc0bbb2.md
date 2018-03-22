@@ -1,6 +1,6 @@
 ---
 title: "Panqueca de tapioca"
-date: 2018-03-22T18:30:18.441Z
+date: 2018-03-22T20:13:18.519Z
 draft: false
 tags: ["Massa","Cozido","Brasileira","Dia a Dia","#InstaBOAFORMA","Receitas rápidas","Receitas sem glúten","Tapioca"]
 categories: ["Receitas"]

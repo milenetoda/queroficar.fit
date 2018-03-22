@@ -1,6 +1,6 @@
 ---
 title: "Cookies de aveia, banana e cacau"
-date: 2018-03-22T18:30:12.243Z
+date: 2018-03-22T20:13:13.850Z
 draft: false
 tags: ["Biscoito e Bolacha","Assado","Brasileira","Dia a Dia","Alimentação","Alimentação saudável","Receitas com chocolate"]
 categories: ["Receitas"]

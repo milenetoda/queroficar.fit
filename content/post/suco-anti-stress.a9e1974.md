@@ -1,6 +1,6 @@
 ---
 title: "Suco anti-stress"
-date: 2018-03-22T18:29:58.472Z
+date: 2018-03-22T20:13:02.926Z
 draft: false
 tags: ["Bebidas","Cru","Gelado","Brasileira","Dia a Dia","Leve e Saudável","Alimentação saudável","receita fácil","Receitas","Receitas com frutas","Receitas simples e fáceis","Suco"]
 categories: ["Receitas"]

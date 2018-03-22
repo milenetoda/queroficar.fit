@@ -1,6 +1,6 @@
 ---
 title: "Purê de abóbora com gengibre"
-date: 2018-03-22T18:29:52.044Z
+date: 2018-03-22T20:12:59.046Z
 draft: false
 tags: ["Legume e Verdura","Cozido","Brasileira","Dia a Dia","Ocasiões Especiais","Leve e Saudável","abóbora","acompanhamentos","gengibre","purê","Receitas simples e fáceis"]
 categories: ["Receitas"]

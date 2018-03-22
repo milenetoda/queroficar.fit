@@ -1,6 +1,6 @@
 ---
 title: "Receita de smoothie funcional rico em cálcio tem apenas 174 calorias"
-date: 2018-03-22T18:30:28.006Z
+date: 2018-03-22T20:13:25.731Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Ocasiões Especiais"]
 categories: ["Receitas"]

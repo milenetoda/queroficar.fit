@@ -1,6 +1,6 @@
 ---
 title: "Refogado de cogumelos é um acompanhamento cheio de proteínas"
-date: 2018-03-22T18:30:19.073Z
+date: 2018-03-22T20:13:19.193Z
 draft: false
 tags: ["Antepasto","Refogado","Brasileira","Dia a Dia","cogumelo","Receitas rápidas"]
 categories: ["Receitas"]

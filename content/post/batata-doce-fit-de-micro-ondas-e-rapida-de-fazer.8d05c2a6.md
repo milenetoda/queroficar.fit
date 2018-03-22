@@ -1,6 +1,6 @@
 ---
 title: "Batata-doce fit de micro-ondas é rápida de fazer"
-date: 2018-03-22T18:30:31.813Z
+date: 2018-03-22T20:13:30.048Z
 draft: false
 tags: ["Docinho e Salgadinho","Assado","Brasileira","Dia a Dia","Festas"]
 categories: ["Receitas"]

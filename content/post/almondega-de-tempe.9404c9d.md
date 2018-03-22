@@ -1,6 +1,6 @@
 ---
 title: "Almôndega de tempê"
-date: 2018-03-22T18:30:02.271Z
+date: 2018-03-22T20:13:06.117Z
 draft: false
 tags: ["Antepasto","Assado","Grelhado","Asiática","Dia a Dia","Alimentação saudável","receita fácil","receita leve"]
 categories: ["Receitas"]

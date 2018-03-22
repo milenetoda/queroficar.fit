@@ -1,6 +1,6 @@
 ---
 title: "Gelinho de couve"
-date: 2018-03-22T18:30:33.126Z
+date: 2018-03-22T20:13:30.761Z
 draft: false
 tags: ["Bebidas","Cru","Brasileira","Dia a Dia"]
 categories: ["Receitas"]

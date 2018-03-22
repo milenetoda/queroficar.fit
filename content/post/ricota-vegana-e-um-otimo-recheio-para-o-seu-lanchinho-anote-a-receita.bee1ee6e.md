@@ -1,6 +1,6 @@
 ---
 title: "Ricota vegana é um ótimo recheio para o seu lanchinho. Anote a receita!"
-date: 2018-03-22T18:30:20.687Z
+date: 2018-03-22T20:13:19.928Z
 draft: false
 tags: ["Antepasto","Cru","Brasileira","Dia a Dia","Festas","Alimentação vegana","Dieta vegana","Veganismo"]
 categories: ["Receitas"]

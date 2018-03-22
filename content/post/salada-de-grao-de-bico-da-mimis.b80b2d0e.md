@@ -1,6 +1,6 @@
 ---
 title: "Salada de grão-de-bico da Mimis"
-date: 2018-03-22T18:30:15.080Z
+date: 2018-03-22T20:13:15.291Z
 draft: false
 tags: ["Salada","Cru","Brasileira","Dia a Dia","grão-de-bico","Pratos leves - Saladas","Receitas rápidas","Receitas sem glúten","Receitas simples e fáceis"]
 categories: ["Receitas"]

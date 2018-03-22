@@ -1,6 +1,6 @@
 ---
 title: "Brownie saudável de chocolate e pasta de amendoim"
-date: 2018-03-22T18:30:04.666Z
+date: 2018-03-22T20:13:07.193Z
 draft: false
 tags: ["Doce Caseiro","Assado","Brasileira","Dia a Dia","brownie","Chocolate","pasta de amendoim","Receitas","Receitas com chocolate","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

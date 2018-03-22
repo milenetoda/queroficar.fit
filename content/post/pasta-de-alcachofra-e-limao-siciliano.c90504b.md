@@ -1,6 +1,6 @@
 ---
 title: "Pasta de alcachofra e limão-siciliano"
-date: 2018-03-22T18:30:11.265Z
+date: 2018-03-22T20:13:11.600Z
 draft: false
 tags: ["Molhos e Patês","Cru","Brasileira","Dia a Dia","limão","Receitas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

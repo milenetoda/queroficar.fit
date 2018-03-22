@@ -1,6 +1,6 @@
 ---
 title: "Talharim de grão-de-bico ao limone para um jantar gourmet"
-date: 2018-03-22T18:30:22.767Z
+date: 2018-03-22T20:13:21.897Z
 draft: false
 tags: ["Massa","Cozido","Brasileira","Dia a Dia","#InstaBOAFORMA","Massa"]
 categories: ["Receitas"]

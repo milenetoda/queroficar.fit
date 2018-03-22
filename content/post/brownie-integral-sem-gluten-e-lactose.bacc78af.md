@@ -1,6 +1,6 @@
 ---
 title: "Brownie integral sem glúten e lactose"
-date: 2018-03-22T18:30:24.416Z
+date: 2018-03-22T20:13:23.276Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Sem glúten","Bolo","Glúten","Lactose"]
 categories: ["Receitas"]

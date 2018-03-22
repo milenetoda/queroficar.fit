@@ -1,6 +1,6 @@
 ---
 title: "Suco vermelho antioxidante"
-date: 2018-03-22T18:29:56.436Z
+date: 2018-03-22T20:13:01.188Z
 draft: false
 tags: ["Bebidas","Gelado","Brasileira","Dia a Dia","Ocasiões Especiais","Dieta e nutrição","Nutrição","Receitas","Suco"]
 categories: ["Receitas"]

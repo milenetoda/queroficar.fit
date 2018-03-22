@@ -1,6 +1,6 @@
 ---
 title: "Bolo de banana invertido saudável"
-date: 2018-03-22T18:30:10.001Z
+date: 2018-03-22T20:13:10.856Z
 draft: false
 tags: ["Bolo Simples","Assado","Brasileira","Dia a Dia","Bolo","Bolos simples e fáceis","Receitas","Receitas com frutas","Receitas rápidas","Receitas simples e fáceis"]
 categories: ["Receitas"]

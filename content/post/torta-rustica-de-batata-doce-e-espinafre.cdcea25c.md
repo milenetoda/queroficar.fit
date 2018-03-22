@@ -1,6 +1,6 @@
 ---
 title: "Torta rústica de batata-doce e espinafre"
-date: 2018-03-22T18:30:02.451Z
+date: 2018-03-22T20:13:05.296Z
 draft: false
 tags: ["Torta Salgada e Quiche","Assado","Brasileira","Festas","Leve e Saudável","Alimentação saudável","Batata-doce","Legumes","Receitas","Receitas simples e fáceis","torta"]
 categories: ["Receitas"]

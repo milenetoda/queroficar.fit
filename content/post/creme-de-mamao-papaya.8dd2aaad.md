@@ -1,6 +1,6 @@
 ---
 title: "Creme de mamão papaya"
-date: 2018-03-22T18:30:35.355Z
+date: 2018-03-22T20:13:32.462Z
 draft: false
 tags: ["Doce Caseiro","Gelado","Italiana","Aniversário","Vegetariana"]
 categories: ["Receitas"]
