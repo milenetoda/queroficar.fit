@@ -14,6 +14,7 @@ adsenseSlot = "7050788775"
 adsenseClient = "ca-pub-7523733879032648"
 disqusShortname = ""
 disqusLanguage = "pt_BR"
+showDateOnPost = false
 
 [[menu.main]]
 name = "QueroFicar.fit"
