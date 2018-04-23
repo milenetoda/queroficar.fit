@@ -1,6 +1,6 @@
 {
   "files.exclude": {
     "**/public": true,
-    "**/content": true
+    "**/content/post": true
   }
 }
