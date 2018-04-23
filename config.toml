@@ -1,7 +1,6 @@
 baseURL = "http://queroficar.fit"
 languageCode = "pt-br"
 title = "QueroFicar.fit"
-publishDir = "docs"
 theme = "hugo-theme-blog"
 paginate = 10
 
